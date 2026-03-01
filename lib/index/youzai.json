@@ -187,6 +187,7 @@
       "key": "應用商店",
       "name": "悠哉应用商店",
       "type": 3,
+      "jar": "../jar/fm0226.jar",
       "api": "csp_Market",
       "searchable": 0,
 	  "changeable": 0,
