@@ -1,0 +1,241 @@
+[
+  {
+    "name": "悠哉推荐",
+    "list": [
+      {
+        "name": "悠哉",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+    },
+      {
+        "name": "苍井空",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+    },
+      {
+        "name": "吆西",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+    }
+    ]
+  },
+  {
+    "name": "电视TVBOX",
+    "list": [
+      {
+        "name": "电视盒子32V7A",
+        "url": "1.apk",
+         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a369"
+      },
+      {
+        "name": "电视盒子64V8A",
+        "url": "1.apk",
+         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v8a369"
+      },
+      {
+        "name": "海信32V7A",
+        "url": "1.apk",
+         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a369"
+      },
+      {
+        "name": "电视盒子32V7A",
+        "url": "1.apk",
+         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a370"
+      },
+      {
+        "name": "电视盒子64V8A",
+        "url": "1.apk",
+         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v8a370"
+      },
+      {
+        "name": "海信32V7A",
+        "url": "1.apk",
+         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a370"
+      }
+    ]
+  },
+  {
+    "name": "手机TVBOX",
+    "list": [
+      {
+        "name": "手机32V7A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a369"
+      },
+      {
+        "name": "手机64V8A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v8a369"
+      },
+      {
+        "name": "手机32V7A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a370"
+      },
+      {
+        "name": "手机64V8A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v8a370"
+      }
+    ]
+  },
+  {
+    "name": "电视盒子工具",
+    "list": [
+      {
+        "name": "当贝市场601",
+        "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/cjk/raw/f6ca5f6997a7e8a41f2ace6f560eb2a74cb08703/%E5%BD%93%E8%B4%9D%E5%B8%82%E5%9C%BA6.0.1_605.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+      },
+      {
+        "name": "当贝桌面152",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+      },
+      {
+        "name": "当贝桌面400",
+        "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A2400.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+      },
+      {
+        "name": "沙发管家",
+        "url": "https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/%E6%B2%99%E5%8F%91%E7%AE%A1%E5%AE%B64.9.53.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+      },
+  {
+        "name": "Emotn商店104",
+        "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/com.overseas.store.appstore.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+      },
+{
+        "name": "Emotn桌面109",
+        "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/com.oversea.aslauncher.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+      },
+      {
+        "name": "小盒精灵337",
+        "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/%E5%B0%8F%E7%9B%92%E7%B2%BE%E7%81%B53.3.7.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+      },
+      {
+        "name": "小盒精灵141",
+        "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/%E5%B0%8F%E7%9B%92%E7%B2%BE%E7%81%B51.4.1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+      },
+      {
+        "name": "小白文件管理280",
+        "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86280.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+      },
+      {
+        "name": "甲壳虫助手",
+        "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/adbhelper_v1.3.1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+      },
+      {
+        "name": "搜狗输入法TV4.75",
+        "url": "https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95TV%E7%89%884.7.5.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+      }
+    ]
+  },
+  {
+    "name": "电视盒子网络工具",
+    "list": [
+      {
+        "name": "clashMeta",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+      },
+      {
+        "name": "clash",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+      }
+    ]
+  },
+  {
+    "name": "电视TVBOX安卓5",
+    "list": [
+      {
+        "name": "电视盒子32V7A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a362"
+      },
+     {
+        "name": "电视盒子64V8A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v8a362"
+      },
+     {
+        "name": "海信32V7A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a362"
+      },
+      {
+        "name": "电视盒子32V7A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a369"
+      },
+     {
+        "name": "电视盒子64V8A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v8a369"
+      },
+      {
+        "name": "电视盒子32V7A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a370"
+      },
+     {
+        "name": "电视盒子64V8A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v8a370"
+      }
+     ]
+     },
+  {
+    "name": "电视TVBOX安卓4",
+    "list": [
+      {
+        "name": "电视盒子32V7A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a"
+      }
+    ]
+  }
+]
