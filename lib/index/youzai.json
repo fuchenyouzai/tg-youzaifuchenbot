@@ -187,7 +187,7 @@
       "key": "應用商店",
       "name": "悠哉应用商店",
       "type": 3,
-      "jar": "../jar/fm0226.jar",
+      "jar": "../jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
       "api": "csp_Market",
       "searchable": 0,
 	  "changeable": 0,
@@ -197,7 +197,7 @@
       "key": "Local",
       "name": "悠哉本地视频播放器",
       "type": 3,
-      "jar": "../jar/fm0226.jar",
+      "jar": "../jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
       "api": "csp_Local",
       "searchable": 0,
       "changeable": 0,
@@ -306,20 +306,6 @@
       "ext": {
         "sp": "Local"
       }
-    },
-    {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "Push",
-        "danmu": true
-      },
-      "timeout": 25
     },
     {
       "key": "二小弹幕",
@@ -1384,6 +1370,20 @@
       "changeable": 0,
       "ext": {
         "sp": "Djso"
+      },
+      "timeout": 25
+    },
+    {
+      "key": "push_agent",
+      "name": "🛴手机┃推送",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "sp": "Push",
+        "danmu": true
       },
       "timeout": 25
     }
