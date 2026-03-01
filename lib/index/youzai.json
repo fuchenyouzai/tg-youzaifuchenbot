@@ -82,98 +82,98 @@
       "key": "hipy_js_优酷[官]",
       "name": "优酷[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "order_num": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/优酷[官].js",
+      "ext": "../ext/js/优酷[官].js",
       "timeout": 90
     },
     {
       "key": "hipy_js_腾云驾雾[官]",
       "name": "腾云驾雾[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "order_num": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/腾云驾雾[官].js",
+      "ext": "../ext/js/腾云驾雾[官].js",
       "timeout": 90
     },
     {
       "key": "hipy_js_百忙无果[官]",
       "name": "百忙无果[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "order_num": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/百忙无果[官].js",
+      "ext": "../ext/js/百忙无果[官].js",
       "timeout": 90
     },
     {
       "key": "hipy_js_菜狗[官]",
       "name": "菜狗[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "order_num": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/菜狗[官].js",
+      "ext": "../ext/js/菜狗[官].js",
       "timeout": 90
     },
 {
       "key": "hipy_js_360影视[官]",
       "name": "360影视[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "order_num": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/360影视[官].js",
+      "ext": "../ext/js/360影视[官].js",
       "timeout": 90
     },
     {
       "key": "hipy_js_哔哩影视[官]",
       "name": "哔哩影视[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "order_num": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/哔哩影视[官].js",
+      "ext": "../ext/js/哔哩影视[官].js",
       "timeout": 90
     },
     {
       "key": "hipy_js_我的哔哩[官]1",
       "name": "哔哩大全[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "order_num": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/哔哩大全.json",
+      "ext": "../ext/js/哔哩大全.json",
       "timeout": 90
     },
     {
       "key": "直播转点播",
       "name": "🐼️┃电视┃直播",
       "type": 3,
-	  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/js/live2vod.js",
+	  "api": "../api/live2vod.js",
 	  "searchable": 0,
      "style":
       {
@@ -181,51 +181,34 @@
       "ratio": 0.75
         },
       "timeout": 30,
-	  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/json/feimaolive.json"
+	  "ext": "../ext/json/feimaolive.json"
 	},
 	{
       "key": "應用商店",
       "name": "悠哉应用商店",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/jar/pg.jar",
       "api": "csp_Market",
       "searchable": 0,
 	  "changeable": 0,
-	  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/json/market.json"
+	  "ext": "../ext/json/market.json"
 	},
     {
       "key": "Local",
       "name": "悠哉本地视频播放器",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
       "api": "csp_Local",
       "searchable": 0,
       "changeable": 0,
       "timeout": 5
     },
     {
-     "key": "悠哉88看球",
-     "name": "悠哉88看球",
-     "type": 3,
-     "api": "../lib/drpy2.min.js",
-     "searchable": 0,
-     "quickSearch": 0,
-     "changeable": 0,
-     "style":
-      {
-      "type": "list",
-      "ratio": 0.75
-        },
-     "ext": "../lib/88看球[球].js",
-      "timeout": 60
-     },
-    {
       "key": "hipy_js_88看球[球]",
       "name": "88看球[球](drpy_t3)",
       "type": 3,
-      "api": "../lib/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 0,
       "filterable": 1,
       "order_num": 0,
      "style":
@@ -233,7 +216,7 @@
       "type": "list",
       "ratio": 0.75
         },
-      "ext": "../lib/88看球[球].js",
+     "ext": "../ext/js/88看球[球].js",
       "timeout": 60
     },
     {
@@ -244,6 +227,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
+      "filterable": 1,
+      "order_num": 0,
       "style": {
         "type": "list"
       },
@@ -304,8 +289,6 @@
       },
       "timeout": 30
     },
-
-
     {
       "key": "本地播放",
       "name": "🐼本地┃播放",
@@ -336,52 +319,6 @@
       },
       "timeout": 25
     },
-    {
-      "key": "push_agent",
-      "name": "推送┃链接",
-      "type": 3,
-      "jar": "../lib/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
-      "api": "csp_Push",
-      "searchable": 0,
-      "changeable": 0
-    },
-   {
-      "key": "wv_ysp",
-      "name": "wv | 央视频",
-      "type": "3",
-      "jar": "../jar/WvSpider.jar",
-      "api": "csp_WvSpider",
-      "ext": "../js/央视频.js",
-      "timeout": 3000
-    },
-    {
-      "key": "咪咕视频",
-      "name": "咪咕视频",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "../lib/咪咕视频.js",
-      "timeout": 300
-    },
-     {
-      "key": "hipy_js_直播转点播[合]",
-      "name": "直播转点播[合](drpy_t3)",
-      "type": 3,
-      "api": "../lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "../json/live2cms.json"
-    },
-
-
-
     {
       "key": "二小弹幕",
       "name": "🦢二小┃4K弹幕",
