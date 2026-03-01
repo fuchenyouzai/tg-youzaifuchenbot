@@ -102,7 +102,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "../ext/js/腾云驾雾[官].js",
-      "timeout": 90
+      "timeout": 120
     },
     {
       "key": "hipy_js_百忙无果[官]",
@@ -197,6 +197,7 @@
       "key": "Local",
       "name": "悠哉本地视频播放器",
       "type": 3,
+      "jar": "../jar/fm0226.jar",
       "api": "csp_Local",
       "searchable": 0,
       "changeable": 0,
@@ -218,7 +219,7 @@
       "ratio": 0.75
         },
      "ext": "../ext/js/88看球[球].js",
-      "timeout": 60
+      "timeout": 120
     },
     {
       "key": "88看球",
@@ -236,7 +237,7 @@
       "ext": {
         "sp": "Kanqiu"
       },
-      "timeout": 60
+      "timeout": 120
     },
     {
       "key": "瓜子看球",
@@ -252,7 +253,7 @@
       "ext": {
         "sp": "GzSport"
       },
-      "timeout": 60
+      "timeout": 120
     },
     {
       "key": "我的夸克",
