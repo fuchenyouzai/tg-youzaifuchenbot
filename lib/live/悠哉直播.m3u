@@ -1,0 +1,1524 @@
+#EXTM3U x-tvg-url="https://iptv.gstory.cn/Cinetry/playback.xml,https://gh-proxy.com/https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tv/zgtq.png" group-title="咪咕视频直播",中国天气
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=mYA7XD9WZWWuLF4yqsQOIQ%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",CCTV1综合
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=h%2FjX07zRu9pFyWhtQ0RvgQ%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV2.png" group-title="咪咕视频直播",CCTV2财经
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=mSKMshy0HfrjTMjiImzLHA%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV3.png" group-title="咪咕视频直播",CCTV3综艺
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=yEUIipRuGfsatp3%2FExB89A%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV4.png" group-title="咪咕视频直播",CCTV4中文国际
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=NPTf4jXBlc4xnwE9fXykKA%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV5.png" group-title="咪咕视频直播",CCTV5体育
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=QeGQgn0sZtoWh%2FXfjDik1g%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV5plus.png" group-title="咪咕视频直播",CCTV5+体育赛事
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=XxisoXUq5HpOxi6TzYkQMg%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV6.png" group-title="咪咕视频直播",CCTV6电影
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=HYKWve%2FMZhG8o4f5l7haFw%3D%3D
+
+#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",最强综艺趴
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=NqwirSfzKQz6BR350sJcFA%3D%3D
+
+#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",经典香港电影
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=YU5drCS5Usfu8Zp6Rorg9w%3D%3D
+
+#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",抗战经典影片
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=9vbz8tOkYi3%2Bj9UuHrM%2B7A%3D%3D
+
+#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",新片放映厅
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=Wt3dHKmKPYmcow0Tdnk%2Bcw%3D%3D
+
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/CHC1.png" group-title="咪咕视频直播",CHC影迷电影
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=Pwx49w7zKRALI4eqeu%2B%2BQg%3D%3D
+
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/CHC3.png" group-title="咪咕视频直播",CHC动作电影
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=JAzrakQsQMagqEZDjrLNYQ%3D%3D
+
+#EXTINF:-1 tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/CHC2.png" group-title="咪咕视频直播",CHC家庭电影
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=YD%2BaCggRpUNYnVpIBgU5bw%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV7.png" group-title="咪咕视频直播",CCTV7国防军事
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=9Tq2SeKGmHeBuKzfeQHMAg%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV8.png" group-title="咪咕视频直播",CCTV8电视剧
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=W3oQNNkUsDiUI7Uz3IO%2FJQ%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV9.png" group-title="咪咕视频直播",CCTV9纪录
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=ojJqkHERXhxbN2ux%2FriFhg%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV10.png" group-title="咪咕视频直播",CCTV10科教
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=eR6%2F4rtBCdbemRq8FLd62g%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV11.png" group-title="咪咕视频直播",CCTV11戏曲
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=nUquwBf%2FtIhpuTYYFxhULg%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV12社会与法治" tvg-name="CCTV12社会与法治" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV12.png" group-title="咪咕视频直播",CCTV12社会与法治
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=lSlFszgAOqdzk173Pi23xA%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV13.png" group-title="咪咕视频直播",CCTV13新闻
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=JtfPW12AEtf9fUNPy3atJA%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV14.png" group-title="咪咕视频直播",CCTV14少儿
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=zYiYnSxffhlCdLUkrPOcKw%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV15.png" group-title="咪咕视频直播",CCTV15音乐
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=wJCPYuLy5LNUCdbRmUS5Rg%3D%3D
+
+
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV16.png" group-title="咪咕视频直播",CCTV16奥林匹克
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
+
+
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV17.png" group-title="咪咕视频直播",CCTV17农业农村
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=1HuCPWJkds%2FHsHmkQIES1g%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV欧洲" tvg-name="CCTV欧洲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",CCTV欧洲
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=5byhIiBb98o1amilMIS48w%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV美洲" tvg-name="CCTV美洲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",CCTV美洲
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=BeftFSl10cqZpqSpdrm7cQ%3D%3D
+
+#EXTINF:-1 tvg-id="CGTN外语记录" tvg-name="CGTN外语记录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",CGTN外语记录
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=xkgR33G5%2Bmw7RAnWeYtx7A%3D%3D
+
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",CGTN阿拉伯语
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=42zRlMpX8Ngj3zC2NgC1Mw%3D%3D
+
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",CGTN西班牙语
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=Tw9Muk4orWB%2FOlbDBTA0tg%3D%3D
+
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",CGTN法语
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=V7JRPyckNVuqElvfPzaOyw%3D%3D
+
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",CGTN俄语
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=e%2Bvi1IYRQmsl5NC37XGFoA%3D%3D
+
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",老故事
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=hRs7hinsRf6PaRhjACyo%2BQ%3D%3D
+
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",发现之旅
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=JIGDrT5KENNnuZbuPKAj0g%3D%3D
+
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",中学生
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=Tz49cCQd1CIjc1dIBhqNEg%3D%3D
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",CGTN
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=9it4g2NRaZWD5YkD%2BLhStA%3D%3D
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",东方卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=aD1rj0%2FAmN2kNcBJZN7kTg%3D%3D
+
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",江苏卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=gYWFXBsdIvfmv9jQyLvxwQ%3D%3D
+
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",广东卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=W2YP5ivbV%2Bf8O3CIyZ8A%2BA%3D%3D
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",北京卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=sOTf97oVn8nIR9sIMg4Owg%3D%3D
+
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/辽宁.png" group-title="咪咕视频直播",辽宁卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=t2ODMAP4LYHU4i6VYqBapQ%3D%3D
+
+#EXTINF:-1 tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",辽宁公共
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=mqe0yGOtQ35D60iwZPg3dg%3D%3D
+
+#EXTINF:-1 tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",辽宁生活
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=uZvksDhkH8zWKgVGyMMDGQ%3D%3D
+
+#EXTINF:-1 tvg-id="辽宁体育休闲" tvg-name="辽宁体育休闲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",辽宁体育休闲
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=HPyiHP0tw5ERGWDk40wbNA%3D%3D
+
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",辽宁影视剧
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=vUNC7mkZY00re7Inl%2FUGKA%3D%3D
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",湖北卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=JCEnT2OKU1eS%2BNMrFORtiA%3D%3D
+
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",江西卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=%2BHxuCZYwwXxFKjg7aT1g3Q%3D%3D
+
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",河南卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=FcLzfF3kKe8yTKcEB3biEA%3D%3D
+
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",陕西卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=MokW9VxkTOqA95p0%2FjH9yw%3D%3D
+
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",大湾区卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=TiC0gMMMKo9t3pl8mCSk7A%3D%3D
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",湖北卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=c8zlZmi2RKJWSmPF2f%2Fwmw%3D%3D
+
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",吉林卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=ESJmrEYkKmDC9Kc7WyL0SA%3D%3D
+
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",青海卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=lMIqxw05B7wG2MqlNdJpLA%3D%3D
+
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",海南卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=s3SQZYCEySj3HzLrp0vyjw%3D%3D
+
+#EXTINF:-1 tvg-id="农业卫视" tvg-name="农业卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",农业卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=8ZkezXTrKeKfzvBGB7%2FB%2BQ%3D%3D
+
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",兵团卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=q0TDqtqRXM3cYo0NCJPgAQ%3D%3D
+
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",宁夏卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=SA3zGt2RsrN%2FhqVCQ8Lkkw%3D%3D
+
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",三沙卫视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=caUtnc%2FQ8nsHxmekDooavQ%3D%3D
+
+#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",赛事最经典
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=1kgCtGRojAjmouO5qSjM3w%3D%3D
+
+#EXTINF:-1 tvg-id="体育名栏汇" tvg-name="体育名栏汇" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",体育名栏汇
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=lF1TuD2t2r6DJZ2L0y80FA%3D%3D
+
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",四海钓鱼
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=TT9ExWokTNRWA2BDoK87lQ%3D%3D
+
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",武术世界
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=TpX%2B4ilD%2BhuriN6JNxIDXQ%3D%3D
+
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",快乐垂钓
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=hgaNoqJ5CKPHDf%2Fu5bPxQQ%3D%3D
+
+#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",和美乡途轮播台
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=bztj%2ByIOFien20k2KNeleQ%3D%3D
+
+#EXTINF:-1 tvg-id="CVTV1" tvg-name="CVTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",CVTV1
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=sYNTdktiGsLA1lvLypbCdQ%3D%3D
+
+#EXTINF:-1 tvg-id="CVTV2" tvg-name="CVTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",CVTV2
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=NQIsLqyvs8A7iKHIV80Wlw%3D%3D
+
+#EXTINF:-1 tvg-id="CVTV4" tvg-name="CVTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",CVTV4
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=L%2F5oiCgLpLyi9agKO%2BCVng%3D%3D
+
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",广东影视
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=YoUTq7P9LjBAHgCQXb6Z5g%3D%3D
+
+#EXTINF:-1 tvg-id="宁夏文旅" tvg-name="宁夏文旅" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",宁夏文旅
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=CYCEOIZ302EaRM3ybCq%2BgA%3D%3D
+
+#EXTINF:-1 tvg-id="宁夏经济" tvg-name="宁夏经济" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",宁夏经济
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=0QiOzPnZELzD7KVPXsP7OQ%3D%3D
+
+#EXTINF:-1 tvg-id="心动力量创一流" tvg-name="心动力量创一流" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",心动力量创一流
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=4foMjIG7UJGYA3zRzy02zg%3D%3D
+
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",中华特产
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=dzDT4NXnruCAfVwnEAXwvw%3D%3D
+
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",环球旅游
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=tWuSeamnZmaKLlRbpahl5Q%3D%3D
+
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",茶频道
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=x3YavbvanR2zeIjC1lUlug%3D%3D
+
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",嘉佳卡通
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=tel5sebJcCcV9bUkB9izZg%3D%3D
+
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",优漫卡通
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=UwuRJ7pVLwbr92aAt%2BhA6A%3D%3D
+
+#EXTINF:-1 tvg-id="经典动画大合集" tvg-name="经典动画大合集" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",经典动画大合集
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=LqcR79IphVTl0dv6UdYnrQ%3D%3D
+
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",中学生
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=Tz49cCQd1CIjc1dIBhqNEg%3D%3D
+
+#EXTINF:-1 tvg-id="心动漫" tvg-name="心动漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕视频直播",心动漫
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=KzcMaEaXjsU0HEx%2B8L4qyQ%3D%3D
+
+
+#EXTINF:-1 tvg-id="熊猫频道0" tvg-name="熊猫频道0" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/00.jpeg" group-title="咪咕视频直播",熊猫频道0
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=cnf9t4cgX7FZgkXepzvuYA%3D%3D
+
+#EXTINF:-1 tvg-id="熊猫频道1" tvg-name="熊猫频道1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/01.jpeg" group-title="咪咕视频直播",熊猫频道1
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=9WUHOvqa9%2FaNVTzF7AzXqQ%3D%3D
+
+#EXTINF:-1 tvg-id="熊猫频道2" tvg-name="熊猫频道2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/02.jpeg" group-title="咪咕视频直播",熊猫频道2
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=DdcQALNARQawgoDRWXylEg%3D%3D
+
+#EXTINF:-1 tvg-id="熊猫频道3" tvg-name="熊猫频道3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/03.jpeg" group-title="咪咕视频直播",熊猫频道3
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=3z5UXKy%2Fxa2dnwzk5WdV1g%3D%3D
+
+#EXTINF:-1 tvg-id="熊猫频道4" tvg-name="熊猫频道4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/04.jpeg" group-title="咪咕视频直播",熊猫频道4
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=8aVIp7AQ8S%2BkOxRh1yMY%2Bg%3D%3D
+
+#EXTINF:-1 tvg-id="熊猫频道5" tvg-name="熊猫频道5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/05.jpeg" group-title="咪咕视频直播",熊猫频道5
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=hNDx6QJF7rDXjtsRPALAPQ%3D%3D
+
+#EXTINF:-1 tvg-id="熊猫频道6" tvg-name="熊猫频道6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/06.jpeg" group-title="咪咕视频直播",熊猫频道6
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=iWu1E6VpALOyHxjSt4Opqw%3D%3D
+
+#EXTINF:-1 tvg-id="熊猫频道7" tvg-name="熊猫频道7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/07.jpeg" group-title="咪咕视频直播",熊猫频道7
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=m1DJ94TeZbPqGhaOmCkccg%3D%3D
+
+#EXTINF:-1 tvg-id="熊猫频道8" tvg-name="熊猫频道8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/08.jpeg" group-title="咪咕视频直播",熊猫频道8
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=Vam6%2BIAzSY5B%2FDqLXKaZjw%3D%3D
+
+#EXTINF:-1 tvg-id="熊猫频道9" tvg-name="熊猫频道9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/09.jpeg" group-title="咪咕视频直播",熊猫频道9
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=xUc59l%2BeRZ%2Bckd3gakRS0Q%3D%3D
+
+#EXTINF:-1 tvg-id="熊猫频道10" tvg-name="熊猫频道10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/10.jpeg" group-title="咪咕视频直播",熊猫频道10
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=ahv8ytIoFcjYrYyoYBDJYA%3D%3D
+
+
+
+
+
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",CCTV1综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226721/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226998/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227209/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV2.png" group-title="辽宁移动直播",CCTV2财经
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226178/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226703/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV3.png" group-title="辽宁移动直播",CCTV3综艺
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227215/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV4.png" group-title="辽宁移动直播",CCTV4中文国际
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226176/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226692/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227324/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV5.png" group-title="辽宁移动直播",CCTV5体育
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227218/index.m3u8
+
+
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV5plus.png" group-title="辽宁移动直播",CCTV5+体育赛事
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226198/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV6.png" group-title="辽宁移动直播",CCTV6电影
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227221/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227428/index.m3u8
+
+
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV7.png" group-title="辽宁移动直播",CCTV7国防军事
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226175/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227350/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV8.png" group-title="辽宁移动直播",CCTV8电视剧
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227325/index.m3u8
+
+
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV9.png" group-title="辽宁移动直播",CCTV9纪录
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226174/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227337/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV10.png" group-title="辽宁移动直播",CCTV10科教
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226184/index.m3u8
+
+
+#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV11.png" group-title="辽宁移动直播",CCTV11戏曲
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226193/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226193/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226193/index.m3u8
+
+
+#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV12.png" group-title="辽宁移动直播",CCTV12社会与法
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226183/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227343/index.m3u8
+
+
+#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV13.png" group-title="辽宁移动直播",CCTV13新闻
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226191/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226191/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226191/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227333/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV14.png" group-title="辽宁移动直播",CCTV14少儿
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226182/index.m3u8
+
+
+#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV15.png" group-title="辽宁移动直播",CCTV15音乐
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226180/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226180/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226180/index.m3u8
+
+
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥利匹克" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV16.png" group-title="辽宁移动直播",CCTV16奥林斯特
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
+
+
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV17.png" group-title="辽宁移动直播",CCTV17农业农村
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226866/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226866/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",辽宁卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227242/index.m3u8
+
+#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",辽宁都市
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227355/index.m3u8
+
+#EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",辽宁北方
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227327/index.m3u8
+
+#EXTINF:-1 tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",辽宁公共
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227224/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8
+
+
+#EXTINF:-1 tvg-id="辽宁教育青少" tvg-name="辽宁教育青少" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",辽宁教育青少
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227297/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227298/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",辽宁经济
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227322/index.m3u8l
+
+#EXTINF:-1 tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",辽宁生活
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227319/index.m3u8
+
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",辽宁影视剧
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227331/index.m3u8
+
+#EXTINF:-1 tvg-id="辽宁体育休闲" tvg-name="辽宁体育休闲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",辽宁体育休闲
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227334/index.m3u8
+
+#EXTINF:-1 tvg-id="辽宁宜家购物" tvg-name="辽宁宜家购物" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",辽宁宜家购物
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227309/index.m3u8
+
+#EXTINF:-1 tvg-id="辽宁移动电视" tvg-name="辽宁移动电视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",辽宁移动电视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227328/index.m3u8
+
+#EXTINF:-1 tvg-id="沈阳新闻综合" tvg-name="沈阳新闻综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",沈阳新闻综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226895/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227315/index.m3u8
+
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",新动漫
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
+
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",甘肃卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226166/index.m3u8
+
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",安徽卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226196/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226856/index.m3u8
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",北京卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226195/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226666/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226724/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227340/index.m3u8
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",东方卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226187/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226697/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226733/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227212/index.m3u8
+
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",东南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226186/index.m3u8
+
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",广东卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226167/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226686/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226743/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227318/index.m3u8
+
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",广西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226150/index.m3u8
+
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",贵州卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226164/index.m3u8
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",湖南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226140/index.m3u8
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",湖北卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226163/index.m3u8
+
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",河南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226146/index.m3u8
+
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",黑龙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226145/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226749/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227288/index.m3u8
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",湖北卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226162/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226877/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226144/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226669/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226727/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227316/index.m3u8
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",湖南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226144/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226669/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226727/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227316/index.m3u8
+
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",吉林卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226159/index.m3u8
+
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",江苏卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226160/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226672/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226902/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227303/index.m3u8
+
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",江西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226142/index.m3u8
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",山东卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226138/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226887/index.m3u8
+
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",深圳卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226136/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226725/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227239/index.m3u8
+
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",四川卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226139/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226810/index.m3u8
+
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",天津卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226135/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226890/index.m3u8
+
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",云南卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226148/index.m3u8
+
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",浙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226134/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226700/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226795/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227313/index.m3u8
+
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",重庆卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226169/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226868/index.m3u8
+
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",内蒙古卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226155/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226886/index.m3u8
+
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",宁夏卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226154/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226804/index.m3u8
+
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",青海卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226153/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226889/index.m3u8
+
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",山西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226137/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226778/index.m3u8
+
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",新疆卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226151/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226893/index.m3u8
+
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",山东教育卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227166/index.m3u8
+
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",优漫卡通
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226149/index.m3u8
+
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",卡酷少儿
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226157/index.m3u8
+
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",嘉佳卡通
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226744/index.m3u8
+
+
+#EXTINF:-1 tvg-id="北京记实教育" tvg-name="北京记实教育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",北京记实教育
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226730/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8
+
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",家庭理财
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226754/index.m3u8
+
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",金鹰纪实
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226714/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227291/index.m3u8
+
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",金鹰卡通
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226845/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227300/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="教育卫视1" tvg-name="教育卫视1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",教育卫视1
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226171/index.m3u8
+
+#EXTINF:-1 tvg-id="教育卫视2" tvg-name="教育卫视2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",教育卫视2
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226170/index.m3u8
+
+#EXTINF:-1 tvg-id="教育卫视3" tvg-name="教育卫视3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",教育卫视3
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
+
+#EXTINF:-1 tvg-id="教育卫视4" tvg-name="教育卫视4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",教育卫视4
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
+
+
+#EXTINF:-1 tvg-id="BRTV北京卫视4K超高清" tvg-name="BRTV北京卫视4K超高清" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",BRTV北京卫视4K超高清
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8
+
+#EXTINF:-1 tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="辽宁移动直播",BRTV纪实科教
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8
+
+
+
+优购物
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227335/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-1综合
+http://10.255.128.136/PLTV/88888888/224/3221225633/10000100000000060000000000000170_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-2财经
+http://10.255.128.136/PLTV/88888888/224/3221225634/10000100000000060000000000000171_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-3综艺" tvg-name="CCTV-3综艺" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-3综艺
+http://10.255.128.136/PLTV/88888888/224/3221225635/10000100000000060000000000000172_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-4国际" tvg-name="CCTV-4国际" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-4国际
+http://10.255.128.136/PLTV/88888888/224/3221225661/10000100000000060000000000000198_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-5体育
+http://10.255.128.136/PLTV/88888888/224/3221225636/10000100000000060000000000000173_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV5+
+http://10.255.128.136/PLTV/88888888/224/3221225637/10000100000000060000000000000174_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-6电影" tvg-name="CCTV-6电影" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-6电影
+http://10.255.128.136/PLTV/88888888/224/3221225638/10000100000000060000000000000175_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-7国防军事" tvg-name="CCTV-7国防军事" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-7国防军事
+http://10.255.128.136/PLTV/88888888/224/3221225835/10000100000000060000000000372054_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-8电视剧
+http://10.255.128.136/PLTV/88888888/224/3221225640/10000100000000060000000000000177_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-9纪录" tvg-name="CCTV-9纪录" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-9纪录
+http://10.255.128.136/PLTV/88888888/224/3221225641/10000100000000060000000000000178_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-10科教" tvg-name="CCTV-10科教" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-10科教
+http://10.255.128.136/PLTV/88888888/224/3221225642/10000100000000060000000000000179_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-11戏曲
+http://10.255.128.136/PLTV/88888888/224/3221225674/10000100000000060000000000000211_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-12社会与法
+http://10.255.128.136/PLTV/88888888/224/3221225643/10000100000000060000000000000180_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV13
+http://10.255.128.136/PLTV/88888888/224/3221225676/10000100000000060000000000000213_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-14少儿" tvg-name="CCTV-14少儿" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-14少儿
+http://10.255.128.136/PLTV/88888888/224/3221225644/10000100000000060000000000000181_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-15音乐" tvg-name="CCTV-15音乐" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-15音乐
+http://10.255.128.136/PLTV/88888888/224/3221225678/10000100000000060000000000000215_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-16 4K奥林匹克" tvg-name="CCTV-16 4K奥林匹克" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-16 4K奥林匹克
+http://10.255.128.136/PLTV/88888888/224/3221226219/10000100000000060000000000712172_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV-17农业农村" tvg-name="CCTV-17农业农村" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV-17农业农村
+http://10.255.128.136/PLTV/88888888/224/3221225639/10000100000000060000000000000176_0.smil/index.m3u8?fmt=ts2hls
+
+
+
+#EXTINF:-1 tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="悠哉" group-title="辽宁电信内网",辽宁公共
+http://10.255.128.136/PLTV/88888888/224/3221225785/10000100000000060000000000000322_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="辽宁教育青少" tvg-name="辽宁教育青少" tvg-logo="悠哉" group-title="辽宁电信内网",辽宁教育青少
+http://10.255.128.136/PLTV/88888888/224/3221226254/10000100000000060000000000801409_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="悠哉" group-title="辽宁电信内网",辽宁经济
+http://10.255.128.136/PLTV/88888888/224/3221225784/10000100000000060000000000000321_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="辽宁移动电视" tvg-name="辽宁移动电视" tvg-logo="悠哉" group-title="辽宁电信内网",辽宁移动电视
+http://10.255.128.136/PLTV/88888888/224/3221226257/10000100000000060000000000801415_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="悠哉" group-title="辽宁电信内网",辽宁北方
+http://10.255.128.136/PLTV/88888888/224/3221226223/10000100000000060000000000713343_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="悠哉" group-title="辽宁电信内网",辽宁生活
+http://10.255.128.136/PLTV/88888888/224/3221225842/10000100000000060000000000447161_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="辽宁体育休闲" tvg-name="辽宁体育休闲" tvg-logo="悠哉" group-title="辽宁电信内网",辽宁体育休闲
+http://10.255.128.136/PLTV/88888888/224/3221226287/10000100000000060000000000801421_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="悠哉" group-title="辽宁电信内网",辽宁影视剧
+http://10.255.128.136/PLTV/88888888/224/3221226272/10000100000000060000000000801423_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="悠哉" group-title="辽宁电信内网",辽宁卫视
+http://10.255.128.136/PLTV/88888888/224/3221225632/10000100000000060000000000000169_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="悠哉" group-title="辽宁电信内网",辽宁都市
+http://10.255.128.136/PLTV/88888888/224/3221226258/10000100000000060000000000801420_0.smil/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="悠哉" group-title="辽宁电信内网",江苏卫视
+http://10.255.128.136/PLTV/88888888/224/3221225803/10000100000000060000000000009666_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="悠哉" group-title="辽宁电信内网",浙江卫视
+http://10.255.128.136/PLTV/88888888/224/3221225802/10000100000000060000000000009663_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="悠哉" group-title="辽宁电信内网",湖南卫视
+http://10.255.128.136/PLTV/88888888/224/3221225646/10000100000000060000000000000183_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="悠哉" group-title="辽宁电信内网",安徽卫视
+http://10.255.128.136/PLTV/88888888/224/3221225647/10000100000000060000000000000184_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="悠哉" group-title="辽宁电信内网",北京卫视
+http://10.255.128.136/PLTV/88888888/224/3221225652/10000100000000060000000000000189_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="上海东方卫视" tvg-name="上海东方卫视" tvg-logo="悠哉" group-title="辽宁电信内网",上海东方卫视
+http://10.255.128.136/PLTV/88888888/224/3221225654/10000100000000060000000000000191_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="福建东南卫视" tvg-name="福建东南卫视" tvg-logo="悠哉" group-title="辽宁电信内网",福建东南卫视
+http://10.255.128.136/PLTV/88888888/224/3221225805/10000100000000060000000000030407_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="悠哉" group-title="辽宁电信内网",广东卫视
+http://10.255.128.136/PLTV/88888888/224/3221225650/10000100000000060000000000000187_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="悠哉" group-title="辽宁电信内网",广西卫视
+http://10.255.128.136/PLTV/88888888/224/3221226239/10000100000000060000000000799006_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="悠哉" group-title="辽宁电信内网",贵州卫视
+http://10.255.128.136/PLTV/88888888/224/3221225828/10000100000000060000000000263901_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="悠哉" group-title="辽宁电信内网",海南卫视
+http://10.255.128.136/PLTV/88888888/224/3221225837/10000100000000060000000000382522_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="悠哉" group-title="辽宁电信内网",河北卫视
+http://10.255.128.136/PLTV/88888888/224/3221226263/10000100000000060000000000801361_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="悠哉" group-title="辽宁电信内网",河南卫视
+http://10.255.128.136/PLTV/88888888/224/3221226267/10000100000000060000000000801364_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="悠哉" group-title="辽宁电信内网",黑龙江卫视
+http://10.255.128.136/PLTV/88888888/224/3221225645/10000100000000060000000000000182_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="悠哉" group-title="辽宁电信内网",湖北卫视
+http://10.255.128.136/PLTV/88888888/224/3221225648/10000100000000060000000000000185_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="悠哉" group-title="辽宁电信内网",吉林卫视
+http://10.255.128.136/PLTV/88888888/224/3221225829/10000100000000060000000000263909_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="悠哉" group-title="辽宁电信内网",江西卫视
+http://10.255.128.136/PLTV/88888888/224/3221226241/10000100000000060000000000801353_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="悠哉" group-title="辽宁电信内网",山东卫视
+http://10.255.128.136/PLTV/88888888/224/3221225649/10000100000000060000000000000186_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="悠哉" group-title="辽宁电信内网",深圳卫视
+http://10.255.128.136/PLTV/88888888/224/3221225651/10000100000000060000000000000188_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="悠哉" group-title="辽宁电信内网",四川卫视
+http://10.255.128.136/PLTV/88888888/224/3221225663/10000100000000060000000000000200_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="悠哉" group-title="辽宁电信内网",天津卫视
+http://10.255.128.136/PLTV/88888888/224/3221225653/10000100000000060000000000000190_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="悠哉" group-title="辽宁电信内网",云南卫视
+http://10.255.128.136/PLTV/88888888/224/3221226252/10000100000000060000000000801378_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="悠哉" group-title="辽宁电信内网",重庆卫视
+http://10.255.128.136/PLTV/88888888/224/3221225662/10000100000000060000000000000199_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="悠哉" group-title="辽宁电信内网",兵团卫视
+http://10.255.128.136/PLTV/88888888/224/3221225731/10000100000000060000000000000268_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="悠哉" group-title="辽宁电信内网",甘肃卫视
+http://10.255.128.136/PLTV/88888888/224/3221225727/10000100000000060000000000000264_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="悠哉" group-title="辽宁电信内网",内蒙古卫视
+http://10.255.128.136/PLTV/88888888/224/3221225723/10000100000000060000000000000260_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="悠哉" group-title="辽宁电信内网",宁夏卫视
+http://10.255.128.136/PLTV/88888888/224/3221225724/10000100000000060000000000000261_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="悠哉" group-title="辽宁电信内网",农林卫视
+http://10.255.128.136/PLTV/88888888/224/3221225732/10000100000000060000000000000269_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="悠哉" group-title="辽宁电信内网",青海卫视
+http://10.255.128.136/PLTV/88888888/224/3221225725/10000100000000060000000000000262_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="悠哉" group-title="辽宁电信内网",厦门卫视
+http://10.255.128.136/PLTV/88888888/224/3221225719/10000100000000060000000000000256_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="悠哉" group-title="辽宁电信内网",山西卫视
+http://10.255.128.136/PLTV/88888888/224/3221225709/10000100000000060000000000000246_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="悠哉" group-title="辽宁电信内网",陕西卫视
+http://10.255.128.136/PLTV/88888888/224/3221225722/10000100000000060000000000000259_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="悠哉" group-title="辽宁电信内网",西藏卫视
+http://10.255.128.136/PLTV/88888888/224/3221225728/10000100000000060000000000000265_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="西藏卫视（藏语）" tvg-name="西藏卫视（藏语）" tvg-logo="悠哉" group-title="辽宁电信内网",西藏卫视（藏语）
+http://10.255.128.136/PLTV/88888888/224/3221226269/10000100000000060000000000863663_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="悠哉" group-title="辽宁电信内网",新疆卫视
+http://10.255.128.136/PLTV/88888888/224/3221225726/10000100000000060000000000000263_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="悠哉" group-title="辽宁电信内网",延边卫视
+http://10.255.128.136/PLTV/88888888/224/3221226270/10000100000000060000000000863675_0.smil/index.m3u8?fmt=ts2hls
+
+
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="悠哉" group-title="辽宁电信内网",CHC动作电影
+http://10.255.128.136/PLTV/88888888/224/3221226231/10000100000000060000000000787860_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="悠哉" group-title="辽宁电信内网",CHC影迷电影
+http://10.255.128.136/PLTV/88888888/224/3221226206/10000100000000060000000000787863_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="悠哉" group-title="辽宁电信内网",CHC家庭影院
+http://10.255.128.136/PLTV/88888888/224/3221226205/10000100000000060000000000787868_0.smil/index.m3u8?fmt=ts2hls
+
+
+#EXTINF:-1 tvg-id="4K欢笑剧场" tvg-name="4K欢笑剧场" tvg-logo="悠哉" group-title="辽宁电信内网",4K欢笑剧场
+http://10.255.128.136/PLTV/88888888/224/3221226186/10000100000000060000000000602976_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="悠哉" group-title="辽宁电信内网",都市剧场
+http://10.255.128.136/PLTV/88888888/224/3221226185/10000100000000060000000000602973_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="悠哉" group-title="辽宁电信内网",生活时尚
+http://10.255.128.136/PLTV/88888888/224/3221226179/10000100000000060000000000602963_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="悠哉" group-title="辽宁电信内网",法治天地
+http://10.255.128.136/PLTV/88888888/224/3221226178/10000100000000060000000000602925_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="悠哉" group-title="辽宁电信内网",动漫秀场
+http://10.255.128.136/PLTV/88888888/224/3221226183/10000100000000060000000000602968_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="悠哉" group-title="辽宁电信内网",北京纪实科教
+http://10.255.128.136/PLTV/88888888/224/3221225655/10000100000000060000000000000192_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="悠哉" group-title="辽宁电信内网",茶
+http://10.255.128.136/PLTV/88888888/224/3221225831/10000100000000060000000000264072_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="悠哉" group-title="辽宁电信内网",金鹰纪实
+http://10.255.128.136/PLTV/88888888/224/3221225656/10000100000000060000000000000193_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="悠哉" group-title="辽宁电信内网",金色学堂
+http://10.255.128.136/PLTV/88888888/224/3221226175/10000100000000060000000000602962_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="悠哉" group-title="辽宁电信内网",金鹰卡通
+http://10.255.128.136/PLTV/88888888/224/3221226268/10000100000000060000000000801410_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="悠哉" group-title="辽宁电信内网",卡酷少儿
+http://10.255.128.136/PLTV/88888888/224/3221226261/10000100000000060000000000801427_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="悠哉" group-title="辽宁电信内网",快乐垂钓
+http://10.255.128.136/PLTV/88888888/224/3221225832/10000100000000060000000000264071_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="悠哉" group-title="辽宁电信内网",乐游
+http://10.255.128.136/PLTV/88888888/224/3221226180/10000100000000060000000000602974_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="悠哉" group-title="辽宁电信内网",梨园
+http://10.255.128.136/PLTV/88888888/224/3221226220/10000100000000060000000000799003_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="悠哉" group-title="辽宁电信内网",武术世界
+http://10.255.128.136/PLTV/88888888/224/3221226235/10000100000000060000000000799004_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="悠哉" group-title="辽宁电信内网",CETV1
+http://10.255.128.136/PLTV/88888888/224/3221225793/10000100000000060000000000000362_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="悠哉" group-title="辽宁电信内网",CETV4
+http://10.255.128.136/PLTV/88888888/224/3221226256/10000100000000060000000000801381_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="沈阳新闻综合" tvg-name="沈阳新闻综合" tvg-logo="悠哉" group-title="辽宁电信内网",沈阳新闻综合
+http://10.255.128.136/PLTV/88888888/224/3221225786/10000100000000060000000000000323_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="安多藏语综合" tvg-name="安多藏语综合" tvg-logo="悠哉" group-title="辽宁电信内网",安多藏语综合
+http://10.255.128.136/PLTV/88888888/224/3221226265/10000100000000060000000000863648_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="悠哉" group-title="辽宁电信内网",嘉佳卡通
+http://10.255.128.136/PLTV/88888888/224/3221225736/10000100000000060000000000000273_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="悠哉" group-title="辽宁电信内网",炫动卡通
+http://10.255.128.136/PLTV/88888888/224/3221225734/10000100000000060000000000000271_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="悠哉" group-title="辽宁电信内网",家庭理财
+http://10.255.128.136/PLTV/88888888/224/3221225687/10000100000000060000000000000223_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="山东体育卫视" tvg-name="山东体育卫视" tvg-logo="悠哉" group-title="辽宁电信内网",山东体育卫视
+http://10.255.128.136/PLTV/88888888/224/3221226288/10000100000000060000000000863667_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="康巴藏语综合" tvg-name="康巴藏语综合" tvg-logo="悠哉" group-title="辽宁电信内网",康巴藏语综合
+http://10.255.128.136/PLTV/88888888/224/3221226266/10000100000000060000000000863653_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="悠哉" group-title="辽宁电信内网",文物宝库
+http://10.255.128.136/PLTV/88888888/224/3221226224/10000100000000060000000000799005_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="悠哉" group-title="辽宁电信内网",先锋乒羽
+http://10.255.128.136/PLTV/88888888/224/3221226212/10000100000000060000000000787862_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="悠哉" group-title="辽宁电信内网",新动漫
+http://10.255.128.136/PLTV/88888888/224/3221225697/10000100000000060000000000000233_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="悠哉" group-title="辽宁电信内网",央广购物
+http://10.255.128.136/PLTV/88888888/224/3221225808/10000100000000060000000000048771_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="悠哉" group-title="辽宁电信内网",优漫卡通
+http://10.255.128.136/PLTV/88888888/224/3221225735/10000100000000060000000000000272_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="悠哉" group-title="辽宁电信内网",中华特产
+http://10.255.128.136/PLTV/88888888/224/3221225841/10000100000000060000000000446101_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV4欧洲
+http://10.255.128.136/PLTV/88888888/224/3221226245/10000100000000060000000000801384_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV4美洲
+http://10.255.128.136/PLTV/88888888/224/3221226271/10000100000000060000000000801385_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="悠哉" group-title="辽宁电信内网",兵器科技
+http://10.255.128.136/PLTV/88888888/224/3221225797/10000100000000060000000000000423_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="悠哉" group-title="辽宁电信内网",第一剧场
+http://10.255.128.136/PLTV/88888888/224/3221225753/10000100000000060000000000000290_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="悠哉" group-title="辽宁电信内网",电视指南
+http://10.255.128.136/PLTV/88888888/224/3221225751/10000100000000060000000000000288_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="悠哉" group-title="辽宁电信内网",风云剧场
+http://10.255.128.136/PLTV/88888888/224/3221225755/10000100000000060000000000000292_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="悠哉" group-title="辽宁电信内网",风云音乐
+http://10.255.128.136/PLTV/88888888/224/3221225757/10000100000000060000000000000294_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="悠哉" group-title="辽宁电信内网",风云足球
+http://10.255.128.136/PLTV/88888888/224/3221225752/10000100000000060000000000000289_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="悠哉" group-title="辽宁电信内网",高尔夫网球
+http://10.255.128.136/PLTV/88888888/224/3221225866/10000100000000060000000000533951_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="悠哉" group-title="辽宁电信内网",怀旧剧场
+http://10.255.128.136/PLTV/88888888/224/3221225756/10000100000000060000000000000293_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="悠哉" group-title="辽宁电信内网",女性时尚
+http://10.255.128.136/PLTV/88888888/224/3221225760/10000100000000060000000000000297_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="悠哉" group-title="辽宁电信内网",世界地理
+http://10.255.128.136/PLTV/88888888/224/3221225754/10000100000000060000000000000291_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="悠哉" group-title="辽宁电信内网",央视台球
+http://10.255.128.136/PLTV/88888888/224/3221225798/10000100000000060000000000000424_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="悠哉" group-title="辽宁电信内网",央视文化精品
+http://10.255.128.136/PLTV/88888888/224/3221225758/10000100000000060000000000000295_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="悠哉" group-title="辽宁电信内网",CGTN阿拉伯语
+http://10.255.128.136/PLTV/88888888/224/3221226260/10000100000000060000000000801394_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="悠哉" group-title="辽宁电信内网",CGTN俄语
+http://10.255.128.136/PLTV/88888888/224/3221226279/10000100000000060000000000801397_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="悠哉" group-title="辽宁电信内网",CGTN法语
+http://10.255.128.136/PLTV/88888888/224/3221226275/10000100000000060000000000801393_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="悠哉" group-title="辽宁电信内网",CGTN纪录
+http://10.255.128.136/PLTV/88888888/224/3221225792/10000100000000060000000000000361_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="悠哉" group-title="辽宁电信内网",CGTN西班牙语
+http://10.255.128.136/PLTV/88888888/224/3221226249/10000100000000060000000000801388_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="悠哉" group-title="辽宁电信内网",CGTN英语
+http://10.255.128.136/PLTV/88888888/224/3221225791/10000100000000060000000000000360_0.smil/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="丹东生活" tvg-name="丹东生活" tvg-logo="悠哉" group-title="辽宁电信内网",丹东生活
+http://10.255.128.136/PLTV/88888888/224/3221225839/10000100000000060000000000411751_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="丹东新闻综合" tvg-name="丹东新闻综合" tvg-logo="悠哉" group-title="辽宁电信内网",丹东新闻综合
+http://10.255.128.136/PLTV/88888888/224/3221225840/10000100000000060000000000411750_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="营口公共" tvg-name="营口公共" tvg-logo="悠哉" group-title="辽宁电信内网",营口公共
+http://10.255.128.136/PLTV/88888888/224/3221225855/10000100000000060000000000500392_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="营口新闻综合" tvg-name="营口新闻综合" tvg-logo="悠哉" group-title="辽宁电信内网",营口新闻综合
+http://10.255.128.136/PLTV/88888888/224/3221225856/10000100000000060000000000500390_0.smil/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="悠哉" group-title="辽宁电信内网",睛彩竞技
+http://10.255.128.136/PLTV/88888888/224/3221226300/10000100000000060000000001081178_0.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="悠哉" group-title="辽宁电信内网",睛彩青少
+http://10.255.128.136/PLTV/88888888/224/3221226319/10000100000000060000000001081183_0.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="悠哉" group-title="辽宁电信内网",睛彩篮球
+http://10.255.128.136/PLTV/88888888/224/3221226285/10000100000000060000000001081181_0.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="shpd" tvg-name="shpd" tvg-logo="悠哉" group-title="辽宁电信内网",shpd
+http://10.255.128.136/PLTV/88888888/224/3221226176/10000100000000060000000000602970_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="悠哉" group-title="辽宁电信内网",游戏风云
+http://10.255.128.136/PLTV/88888888/224/3221226182/10000100000000060000000000602964_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="悠哉" group-title="辽宁电信内网",老故事
+http://10.255.128.136/PLTV/88888888/224/3221226187/10000100000000060000000000635100_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="gxpd" tvg-name="gxpd" tvg-logo="悠哉" group-title="辽宁电信内网",gxpd
+http://10.255.128.136/PLTV/88888888/224/3221226189/10000100000000060000000000635098_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="证券服务" tvg-name="证券服务" tvg-logo="悠哉" group-title="辽宁电信内网",证券服务
+http://10.255.128.136/PLTV/88888888/224/3221226242/10000100000000060000000000801337_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV16
+http://10.255.128.136/PLTV/88888888/224/3221226274/10000100000000060000000000947655_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="悠哉" group-title="辽宁电信内网",CCTV4K
+http://10.255.128.136/PLTV/88888888/224/3221226293/10000100000000060000000001081237_0.smil/index.m3u8?fmt=ts2hls
+
+
+
+
+
+#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-1综合
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226118/iptv65795.smil
+#EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-2财经
+rtsp://10.15.250.13/PLTV/88888888/224/3221226584/10000100000000060000000000499223_0.smil
+#EXTINF:-1 tvg-id="CCTV-3综艺" tvg-name="CCTV-3综艺" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-3综艺
+rtsp://10.15.250.13/PLTV/88888888/224/3221226726/10000100000000060000000006489752_0.smil
+#EXTINF:-1 tvg-id="CCTV-4国际" tvg-name="CCTV-4国际" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-4国际
+rtsp://10.15.250.13/PLTV/88888888/224/3221226601/10000100000000060000000000755997_0.smil
+#EXTINF:-1 tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-5体育
+rtsp://10.15.250.13/PLTV/88888888/224/3221226707/10000100000000060000000006489753_0.smil
+#EXTINF:-1 tvg-id="CCTV-6电影" tvg-name="CCTV-6电影" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-6电影
+rtsp://10.15.250.13/PLTV/88888888/224/3221226728/10000100000000060000000006489754_0.smil
+#EXTINF:-1 tvg-id="CCTV-7国防军事" tvg-name="CCTV-7国防军事" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-7国防军事
+rtsp://10.15.250.13/PLTV/88888888/224/3221226531/10000100000000060000000000499224_0.smil
+#EXTINF:-1 tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-8电视剧
+rtsp://10.15.250.13/PLTV/88888888/224/3221226730/10000100000000060000000006489755_0.smil
+#EXTINF:-1 tvg-id="CCTV-9纪录" tvg-name="CCTV-9纪录" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-9纪录
+rtsp://10.15.250.13/PLTV/88888888/224/3221226588/10000100000000060000000000499231_0.smil
+#EXTINF:-1 tvg-id="CCTV-10科教" tvg-name="CCTV-10科教" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-10科教
+rtsp://10.15.250.13/PLTV/88888888/224/3221226586/10000100000000060000000000499225_0.smil
+#EXTINF:-1 tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-11戏曲
+rtsp://10.15.250.13/PLTV/88888888/224/3221226727/10000100000000060000000006519577_0.smil
+#EXTINF:-1 tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-12社会与法
+rtsp://10.15.250.13/PLTV/88888888/224/3221226533/10000100000000060000000000499226_0.smil
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV13
+rtsp://10.15.250.13/PLTV/88888888/224/3221226691/10000100000000060000000006385281_0.smil
+#EXTINF:-1 tvg-id="CCTV-14少儿" tvg-name="CCTV-14少儿" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-14少儿
+rtsp://10.15.250.13/PLTV/88888888/224/3221226529/10000100000000060000000000499222_0.smil
+#EXTINF:-1 tvg-id="CCTV-15音乐" tvg-name="CCTV-15音乐" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-15音乐
+rtsp://10.15.250.13/PLTV/88888888/224/3221226744/10000100000000060000000006519578_0.smil
+#EXTINF:-1 tvg-id="CCTV-16奥林匹克" tvg-name="CCTV-16奥林匹克" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-16奥林匹克
+rtsp://10.15.250.13/PLTV/88888888/224/3221226747/10000100000000060000000006758792_0.smil
+#EXTINF:-1 tvg-id="CCTV-17农业农村" tvg-name="CCTV-17农业农村" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-17农业农村
+rtsp://10.15.250.13/PLTV/88888888/224/3221226653/10000100000000060000000003014578_0.smil
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV5+
+rtsp://10.15.250.13/PLTV/88888888/224/3221226743/10000100000000060000000006603048_0.smil
+#EXTINF:-1 tvg-id="CGTN-英语新闻" tvg-name="CGTN-英语新闻" tvg-logo="悠哉" group-title="辽宁联通内网",CGTN-英语新闻
+rtsp://10.15.250.13/PLTV/88888888/224/3221226756/10000100000000060000000006569861_0.smil
+#EXTINF:-1 tvg-id="CGTN-纪录(国际版)" tvg-name="CGTN-纪录(国际版)" tvg-logo="悠哉" group-title="辽宁联通内网",CGTN-纪录(国际版)
+rtsp://10.15.250.13/PLTV/88888888/224/3221226758/10000100000000060000000006569863_0.smil
+#EXTINF:-1 tvg-id="CGTN-俄语国际" tvg-name="CGTN-俄语国际" tvg-logo="悠哉" group-title="辽宁联通内网",CGTN-俄语国际
+rtsp://10.15.250.13/PLTV/88888888/224/3221226739/10000100000000060000000006582732_0.smil
+#EXTINF:-1 tvg-id="CGTN-西班牙语国际" tvg-name="CGTN-西班牙语国际" tvg-logo="悠哉" group-title="辽宁联通内网",CGTN-西班牙语国际
+rtsp://10.15.250.13/PLTV/88888888/224/3221226735/10000100000000060000000006582714_0.smil
+#EXTINF:-1 tvg-id="CGTN-阿拉伯语国际" tvg-name="CGTN-阿拉伯语国际" tvg-logo="悠哉" group-title="辽宁联通内网",CGTN-阿拉伯语国际
+rtsp://10.15.250.13/PLTV/88888888/224/3221226760/10000100000000060000000006582737_0.smil
+#EXTINF:-1 tvg-id="CGTN-法语国际" tvg-name="CGTN-法语国际" tvg-logo="悠哉" group-title="辽宁联通内网",CGTN-法语国际
+rtsp://10.15.250.13/PLTV/88888888/224/3221226737/10000100000000060000000006582717_0.smil
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226511/10000100000000060000000000394610_0.smil
+#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁都市
+rtsp://10.15.250.13/PLTV/88888888/224/3221226905/384409928.smil
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁影视剧
+rtsp://10.15.250.13/PLTV/88888888/224/3221226901/374682109.smil
+#EXTINF:-1 tvg-id="辽宁体育休闲" tvg-name="辽宁体育休闲" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁体育休闲
+rtsp://10.15.250.13/PLTV/88888888/224/3221226897/384409884.smil
+#EXTINF:-1 tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁生活
+rtsp://10.15.250.13/PLTV/88888888/224/3221226887/378401265.smil
+#EXTINF:-1 tvg-id="辽宁教育青少" tvg-name="辽宁教育青少" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁教育青少
+rtsp://10.15.250.13/PLTV/88888888/224/3221226885/379866838.smil
+#EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁北方
+rtsp://10.15.250.13/PLTV/88888888/224/3221226904/378400617.smil
+#EXTINF:-1 tvg-id="辽宁宜佳购物" tvg-name="辽宁宜佳购物" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁宜佳购物
+rtsp://10.15.250.13/PLTV/88888888/224/3221226898/374682540.smil
+#EXTINF:-1 tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁公共
+rtsp://10.15.250.13/PLTV/88888888/224/3221226724/10000100000000060000000006465082_0.smil
+#EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁经济
+rtsp://10.15.250.13/PLTV/88888888/224/3221226703/10000100000000060000000006465081_0.smil
+#EXTINF:-1 tvg-id="移动电视" tvg-name="移动电视" tvg-logo="悠哉" group-title="辽宁联通内网",移动电视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226908/384409943.smil
+#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="悠哉" group-title="辽宁联通内网",家有购物
+rtsp://10.15.250.13/PLTV/88888888/224/3221226754/10000100000000060000000006523710_0.smil
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="悠哉" group-title="辽宁联通内网",央广购物
+rtsp://10.15.250.13/PLTV/88888888/224/3221226667/10000100000000060000000005417152_0.smil
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="悠哉" group-title="辽宁联通内网",聚鲨环球精选
+rtsp://10.15.250.13/PLTV/88888888/224/3221226611/10000100000000060000000001155969_0.smil
+#EXTINF:-1 tvg-id="沈阳新闻综合" tvg-name="沈阳新闻综合" tvg-logo="悠哉" group-title="辽宁联通内网",沈阳新闻综合
+rtsp://10.15.250.13/PLTV/88888888/224/3221226609/10000100000000060000000001122494_0.smil
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="悠哉" group-title="辽宁联通内网",优购物
+rtsp://10.15.250.13/PLTV/88888888/224/3221226946/429517590.smil
+
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="悠哉" group-title="辽宁联通内网",睛彩竞技
+rtsp://10.15.250.13/PLTV/88888888/224/3221226924/420528157.smil
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="悠哉" group-title="辽宁联通内网",睛彩篮球
+rtsp://10.15.250.13/PLTV/88888888/224/3221226928/420528171.smil
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="悠哉" group-title="辽宁联通内网",睛彩青少
+rtsp://10.15.250.13/PLTV/88888888/224/3221226927/420528743.smil
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="悠哉" group-title="辽宁联通内网",睛彩广场舞
+rtsp://10.15.250.13/PLTV/88888888/224/3221226931/420528769.smil
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="悠哉" group-title="辽宁联通内网",北京卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226469/10000100000000060000000000133834_0.smil
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="悠哉" group-title="辽宁联通内网",天津卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226509/10000100000000060000000000356893_0.smil
+#EXTINF:-1 tvg-id="上海东方卫视" tvg-name="上海东方卫视" tvg-logo="悠哉" group-title="辽宁联通内网",上海东方卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226512/10000100000000060000000000356890_0.smil
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="悠哉" group-title="辽宁联通内网",浙江卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226507/10000100000000060000000000356891_0.smil
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="悠哉" group-title="辽宁联通内网",江苏卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226474/10000100000000060000000000133833_0.smil
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="悠哉" group-title="辽宁联通内网",安徽卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226535/10000100000000060000000000499232_0.smil
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="悠哉" group-title="辽宁联通内网",湖南卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226467/10000100000000060000000000133832_0.smil
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="悠哉" group-title="辽宁联通内网",贵州卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226746/10000100000000060000000006519582_0.smil
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="悠哉" group-title="辽宁联通内网",山东卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226523/10000100000000060000000000425465_0.smil
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="悠哉" group-title="辽宁联通内网",山西卫视
+rtsp://10.15.250.13/PLTV/460033/224/0/3221226042/3221225917.smil
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="悠哉" group-title="辽宁联通内网",广东卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226525/10000100000000060000000000425466_0.smil
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="悠哉" group-title="辽宁联通内网",广西卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226916/402477915.smil
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="悠哉" group-title="辽宁联通内网",湖北卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226514/10000100000000060000000000356892_0.smil
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="悠哉" group-title="辽宁联通内网",江西卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226911/402478258.smil
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="悠哉" group-title="辽宁联通内网",河北卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226919/402477919.smil
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="悠哉" group-title="辽宁联通内网",河南卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226914/402478262.smil
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="悠哉" group-title="辽宁联通内网",四川卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226583/10000100000000060000000000623271_0.smil
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="悠哉" group-title="辽宁联通内网",重庆卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226644/10000100000000060000000000623270_0.smil
+#EXTINF:-1 tvg-id="福建东南卫视" tvg-name="福建东南卫视" tvg-logo="悠哉" group-title="辽宁联通内网",福建东南卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226926/408209326.smil
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="悠哉" group-title="辽宁联通内网",海南卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226693/10000100000000060000000006385285_0.smil
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="悠哉" group-title="辽宁联通内网",青海卫视
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226090/000000000jdd.smil
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="悠哉" group-title="辽宁联通内网",云南卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226900/402477923.smil
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="悠哉" group-title="辽宁联通内网",陕西卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226453/iptv127270.smil
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="悠哉" group-title="辽宁联通内网",内蒙古卫视
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226104/000000000vfq.smil
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="悠哉" group-title="辽宁联通内网",宁夏卫视
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226147/iptv112765.smil
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="悠哉" group-title="辽宁联通内网",吉林卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226729/10000100000000060000000006519579_0.smil
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="悠哉" group-title="辽宁联通内网",新疆卫视
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226149/iptv147985.smil
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="悠哉" group-title="辽宁联通内网",甘肃卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226457/iptv8889102159.smil
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="悠哉" group-title="辽宁联通内网",西藏卫视
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226102/000000000vfo.smil
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="悠哉" group-title="辽宁联通内网",黑龙江卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226465/10000100000000060000000000133826_0.smil
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="悠哉" group-title="辽宁联通内网",深圳卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226472/10000100000000060000000000133821_0.smil
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="悠哉" group-title="辽宁联通内网",厦门卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226606/10000100000000060000000000599459_0.smil
+#EXTINF:-1 tvg-id="中国教育1" tvg-name="中国教育1" tvg-logo="悠哉" group-title="辽宁联通内网",中国教育1
+rtsp://10.15.250.13/PLTV/88888888/224/3221226617/10000100000000060000000001311702_0.smil
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="悠哉" group-title="辽宁联通内网",CETV2
+rtsp://10.15.250.13/PLTV/88888888/224/3221226665/10000100000000060000000003972227_0.smil
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="悠哉" group-title="辽宁联通内网",CETV4
+rtsp://10.15.250.13/PLTV/88888888/224/3221226925/408209338.smil
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="悠哉" group-title="辽宁联通内网",山东教育卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226766/10000100000000060000000006683944_0.smil
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="悠哉" group-title="辽宁联通内网",兵团卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226464/iptv8889102157.smil
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="悠哉" group-title="辽宁联通内网",延边卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226555/10000100000000060000000000599471_0.smil
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="悠哉" group-title="辽宁联通内网",金鹰卡通
+rtsp://10.15.250.13/PLTV/88888888/224/3221226895/374681951.smil
+#EXTINF:-1 tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="悠哉" group-title="辽宁联通内网",炫动卡通
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226084/000000000e0s.smil
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="悠哉" group-title="辽宁联通内网",优漫卡通
+rtsp://10.15.250.13/PLTV/88888888/224/3221226608/10000100000000060000000000599464_0.smil
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="悠哉" group-title="辽宁联通内网",嘉佳卡通
+rtsp://10.15.250.13/PLTV/88888888/224/3221226549/10000100000000060000000000599465_0.smil
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="悠哉" group-title="辽宁联通内网",卡酷少儿
+rtsp://10.15.250.13/PLTV/88888888/224/3221226929/408209350.smil
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="悠哉" group-title="辽宁联通内网",金鹰纪实
+rtsp://10.15.250.13/PLTV/88888888/224/3221226557/10000100000000060000000000599916_0.smil
+#EXTINF:-1 tvg-id="北京冬奥纪实" tvg-name="北京冬奥纪实" tvg-logo="悠哉" group-title="辽宁联通内网",北京冬奥纪实
+rtsp://10.15.250.13/PLTV/88888888/224/3221226616/10000100000000060000000000599915_0.smil
+#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="悠哉" group-title="辽宁联通内网",上海纪实
+rtsp://10.15.250.13/PLTV/88888888/224/3221226521/10000100000000060000000000425439_0.smil
+#EXTINF:-1 tvg-id="CCTV-4欧洲" tvg-name="CCTV-4欧洲" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-4欧洲
+rtsp://10.15.250.13/PLTV/88888888/224/3221226741/10000100000000060000000006582740_0.smil
+#EXTINF:-1 tvg-id="CCTV-4美洲" tvg-name="CCTV-4美洲" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-4美洲
+rtsp://10.15.250.13/PLTV/88888888/224/3221226762/10000100000000060000000006582745_0.smil
+#EXTINF:-1 tvg-id="西藏卫视（藏语）" tvg-name="西藏卫视（藏语）" tvg-logo="悠哉" group-title="辽宁联通内网",西藏卫视（藏语）
+rtsp://10.15.250.13/PLTV/88888888/224/3221226920/404264083.smil
+#EXTINF:-1 tvg-id="安多藏语综合" tvg-name="安多藏语综合" tvg-logo="悠哉" group-title="辽宁联通内网",安多藏语综合
+rtsp://10.15.250.13/PLTV/88888888/224/3221226909/404268565.smil
+#EXTINF:-1 tvg-id="康巴藏语综合" tvg-name="康巴藏语综合" tvg-logo="悠哉" group-title="辽宁联通内网",康巴藏语综合
+rtsp://10.15.250.13/PLTV/88888888/224/3221226923/404270939.smil
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="悠哉" group-title="辽宁联通内网",三沙卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226947/456532401.smil
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="悠哉" group-title="辽宁联通内网",CHC动作电影
+rtsp://10.15.250.13/PLTV/88888888/224/3221226939/468086794.smil
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="悠哉" group-title="辽宁联通内网",CHC影迷电影
+rtsp://10.15.250.13/PLTV/88888888/224/3221226958/468087129.smil
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="悠哉" group-title="辽宁联通内网",CHC家庭影院
+rtsp://10.15.250.13/PLTV/88888888/224/3221226942/468087169.smil
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="悠哉" group-title="辽宁联通内网",都市剧场
+rtsp://10.15.250.13/PLTV/88888888/224/3221226716/10000100000000060000000006385215_0.smil
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="悠哉" group-title="辽宁联通内网",风云剧场
+rtsp://10.15.250.13/PLTV/88888888/224/3221226671/10000100000000060000000006385152_0.smil
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="悠哉" group-title="辽宁联通内网",第一剧场
+rtsp://10.15.250.13/PLTV/88888888/224/3221226698/10000100000000060000000006385142_0.smil
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="悠哉" group-title="辽宁联通内网",怀旧剧场
+rtsp://10.15.250.13/PLTV/88888888/224/3221226700/10000100000000060000000006385151_0.smil
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="悠哉" group-title="辽宁联通内网",动漫秀场
+rtsp://10.15.250.13/PLTV/88888888/224/3221226712/10000100000000060000000006385207_0.smil
+#EXTINF:-1 tvg-id="4K欢笑剧场" tvg-name="4K欢笑剧场" tvg-logo="悠哉" group-title="辽宁联通内网",4K欢笑剧场
+rtsp://10.15.250.13/PLTV/88888888/224/3221226720/10000100000000060000000006393203_0.smil
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="悠哉" group-title="辽宁联通内网",老故事
+rtsp://10.15.250.13/PLTV/88888888/224/3221226948/468696541.smil
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="悠哉" group-title="辽宁联通内网",快乐垂钓
+rtsp://10.15.250.13/PLTV/88888888/224/3221226961/468696475.smil
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="悠哉" group-title="辽宁联通内网",风云足球
+rtsp://10.15.250.13/PLTV/88888888/224/3221226702/10000100000000060000000006385159_0.smil
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="悠哉" group-title="辽宁联通内网",央视台球
+rtsp://10.15.250.13/PLTV/88888888/224/3221226706/10000100000000060000000006385172_0.smil
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="悠哉" group-title="辽宁联通内网",高尔夫网球
+rtsp://10.15.250.13/PLTV/88888888/224/3221226945/468696517.smil
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="悠哉" group-title="辽宁联通内网",先锋乒羽
+rtsp://10.15.250.13/PLTV/88888888/224/3221226956/468696527.smil
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="悠哉" group-title="辽宁联通内网",武术世界
+rtsp://10.15.250.13/PLTV/88888888/224/3221226968/468696615.smil
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="悠哉" group-title="辽宁联通内网",游戏风云
+rtsp://10.15.250.13/PLTV/88888888/224/3221226685/10000100000000060000000006385206_0.smil
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="悠哉" group-title="辽宁联通内网",兵器科技
+rtsp://10.15.250.13/PLTV/88888888/224/3221226704/10000100000000060000000006385167_0.smil
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="悠哉" group-title="辽宁联通内网",风云音乐
+rtsp://10.15.250.13/PLTV/88888888/224/3221226718/10000100000000060000000006385496_0.smil
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="悠哉" group-title="辽宁联通内网",世界地理
+rtsp://10.15.250.13/PLTV/88888888/224/3221226679/10000100000000060000000006385175_0.smil
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="悠哉" group-title="辽宁联通内网",乐游
+rtsp://10.15.250.13/PLTV/88888888/224/3221226710/10000100000000060000000006385196_0.smil
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="悠哉" group-title="辽宁联通内网",生活时尚
+rtsp://10.15.250.13/PLTV/88888888/224/3221226681/10000100000000060000000006385195_0.smil
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="悠哉" group-title="辽宁联通内网",法治天地
+rtsp://10.15.250.13/PLTV/88888888/224/3221226714/10000100000000060000000006385213_0.smil
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="悠哉" group-title="辽宁联通内网",文物宝库
+rtsp://10.15.250.13/PLTV/88888888/224/3221226959/468696485.smil
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="悠哉" group-title="辽宁联通内网",金色学堂
+rtsp://10.15.250.13/PLTV/88888888/224/3221226687/10000100000000060000000006385208_0.smil
+#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="悠哉" group-title="辽宁联通内网",梨园
+rtsp://10.15.250.13/PLTV/88888888/224/3221226962/468696561.smil
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="悠哉" group-title="辽宁联通内网",茶
+rtsp://10.15.250.13/PLTV/88888888/224/3221226951/468697355.smil
+#EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="悠哉" group-title="辽宁联通内网",国学
+rtsp://10.15.250.13/PLTV/88888888/224/3221226964/468696593.smil
+#EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="悠哉" group-title="辽宁联通内网",书画
+rtsp://10.15.250.13/PLTV/88888888/224/3221226965/468697380.smil
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="悠哉" group-title="辽宁联通内网",央视文化精品
+rtsp://10.15.250.13/PLTV/88888888/224/3221226677/10000100000000060000000006385162_0.smil
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="悠哉" group-title="辽宁联通内网",女性时尚
+rtsp://10.15.250.13/PLTV/88888888/224/3221226675/10000100000000060000000006385156_0.smil
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="悠哉" group-title="辽宁联通内网",发现之旅
+rtsp://10.15.250.13/PLTV/88888888/224/3221226950/468087629.smil
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="悠哉" group-title="辽宁联通内网",中学生
+rtsp://10.15.250.13/PLTV/88888888/224/3221226953/468087691.smil
+#EXTINF:-1 tvg-id="证券服务" tvg-name="证券服务" tvg-logo="悠哉" group-title="辽宁联通内网",证券服务
+rtsp://10.15.250.13/PLTV/88888888/224/3221226894/383356193.smil
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="悠哉" group-title="辽宁联通内网",新动漫
+rtsp://10.15.250.13/PLTV/88888888/224/3221226903/403511169.smil
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="悠哉" group-title="辽宁联通内网",家庭理财
+rtsp://10.15.250.13/PLTV/88888888/224/3221226906/403511151.smil
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="悠哉" group-title="辽宁联通内网",环球旅游
+rtsp://10.15.250.13/PLTV/88888888/224/3221226934/420529715.smil
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="悠哉" group-title="辽宁联通内网",四海钓鱼
+rtsp://10.15.250.13/PLTV/88888888/224/3221226937/420529116.smil
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="悠哉" group-title="辽宁联通内网",中华特产
+rtsp://10.15.250.13/PLTV/88888888/224/3221226940/420529762.smil
+#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="悠哉" group-title="辽宁联通内网",优优宝贝
+rtsp://10.15.250.13/PLTV/88888888/224/3221226930/420531503.smil
+#EXTINF:-1 tvg-id="车迷" tvg-name="车迷" tvg-logo="悠哉" group-title="辽宁联通内网",车迷
+rtsp://10.15.250.13/PLTV/88888888/224/3221226943/420531762.smil
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="悠哉" group-title="辽宁联通内网",生态环境
+rtsp://10.15.250.13/PLTV/88888888/224/3221226933/420531776.smil
+#EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="悠哉" group-title="辽宁联通内网",收藏天下
+rtsp://10.15.250.13/PLTV/88888888/224/3221226932/420532061.smil
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="悠哉" group-title="辽宁联通内网",中国天气
+rtsp://10.15.250.13/PLTV/88888888/224/3221226955/462536049.smil
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="悠哉" group-title="辽宁联通内网",财富天下
+rtsp://10.15.250.13/PLTV/88888888/224/3221226938/420536160.smil
+#EXTINF:-1 tvg-id="精选" tvg-name="精选" tvg-logo="悠哉" group-title="辽宁联通内网",精选
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226091/000000000jdg.smil
+#EXTINF:-1 tvg-id="IPTV足球" tvg-name="IPTV足球" tvg-logo="悠哉" group-title="辽宁联通内网",IPTV足球
+rtsp://10.15.250.13/PLTV/88888888/224/3221226619/10000100000000060000000001377018_0.smil
+#EXTINF:-1 tvg-id="爱生活" tvg-name="爱生活" tvg-logo="悠哉" group-title="辽宁联通内网",爱生活
+rtsp://10.15.250.13/PLTV/88888888/224/3221226598/10000100000000060000000000554121_0.smil
+#EXTINF:-1 tvg-id="IPTV3＋(轮播)" tvg-name="IPTV3＋(轮播)" tvg-logo="悠哉" group-title="辽宁联通内网",IPTV3＋(轮播)
+rtsp://10.15.250.13/PLTV/88888888/224/3221226752/10000100000000060000000006522263_0.smil
+#EXTINF:-1 tvg-id="IPTV5＋(轮播)" tvg-name="IPTV5＋(轮播)" tvg-logo="悠哉" group-title="辽宁联通内网",IPTV5＋(轮播)
+rtsp://10.15.250.13/PLTV/88888888/224/3221226490/10000100000000060000000000246848_0.smil
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="悠哉" group-title="辽宁联通内网",爱上4K
+rtsp://10.15.250.13/PLTV/88888888/224/3221226750/10000100000000060000000006519923_0.smil
+#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="悠哉" group-title="辽宁联通内网",谍战剧场
+rtsp://10.15.250.13/PLTV/88888888/224/3221226748/10000100000000060000000006519792_0.smil
+#EXTINF:-1 tvg-id="地理" tvg-name="地理" tvg-logo="悠哉" group-title="辽宁联通内网",地理
+rtsp://10.15.250.13/PLTV/88888888/224/3221226733/10000100000000060000000006519924_0.smil
+#EXTINF:-1 tvg-id="怀旧电影" tvg-name="怀旧电影" tvg-logo="悠哉" group-title="辽宁联通内网",怀旧电影
+rtsp://10.15.250.13/PLTV/460033/224/0/3221225938/000000000ac9.smil
+#EXTINF:-1 tvg-id="劲爆电影" tvg-name="劲爆电影" tvg-logo="悠哉" group-title="辽宁联通内网",劲爆电影
+rtsp://10.15.250.13/PLTV/88888888/224/3221226551/10000100000000060000000000599467_0.smil
+#EXTINF:-1 tvg-id="党员教育" tvg-name="党员教育" tvg-logo="悠哉" group-title="辽宁联通内网",党员教育
+rtsp://10.15.250.13/PLTV/88888888/224/3221226520/10000100000000060000000000398797_0.smil
+#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-1综合
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226118/iptv65795.smil
+#EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-2财经
+rtsp://10.15.250.13/PLTV/88888888/224/3221226584/10000100000000060000000000499223_0.smil
+#EXTINF:-1 tvg-id="CCTV-3综艺" tvg-name="CCTV-3综艺" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-3综艺
+rtsp://10.15.250.13/PLTV/88888888/224/3221226726/10000100000000060000000006489752_0.smil
+#EXTINF:-1 tvg-id="CCTV-4国际" tvg-name="CCTV-4国际" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-4国际
+rtsp://10.15.250.13/PLTV/88888888/224/3221226601/10000100000000060000000000755997_0.smil
+#EXTINF:-1 tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-5体育
+rtsp://10.15.250.13/PLTV/88888888/224/3221226707/10000100000000060000000006489753_0.smil
+#EXTINF:-1 tvg-id="CCTV-6电影" tvg-name="CCTV-6电影" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-6电影
+rtsp://10.15.250.13/PLTV/88888888/224/3221226728/10000100000000060000000006489754_0.smil
+#EXTINF:-1 tvg-id="CCTV-7国防军事" tvg-name="CCTV-7国防军事" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-7国防军事
+rtsp://10.15.250.13/PLTV/88888888/224/3221226531/10000100000000060000000000499224_0.smil
+#EXTINF:-1 tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-8电视剧
+rtsp://10.15.250.13/PLTV/88888888/224/3221226730/10000100000000060000000006489755_0.smil
+#EXTINF:-1 tvg-id="CCTV-9纪录" tvg-name="CCTV-9纪录" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-9纪录
+rtsp://10.15.250.13/PLTV/88888888/224/3221226588/10000100000000060000000000499231_0.smil
+#EXTINF:-1 tvg-id="CCTV-10科教" tvg-name="CCTV-10科教" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-10科教
+rtsp://10.15.250.13/PLTV/88888888/224/3221226586/10000100000000060000000000499225_0.smil
+#EXTINF:-1 tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-11戏曲
+rtsp://10.15.250.13/PLTV/88888888/224/3221226727/10000100000000060000000006519577_0.smil
+#EXTINF:-1 tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-12社会与法
+rtsp://10.15.250.13/PLTV/88888888/224/3221226533/10000100000000060000000000499226_0.smil
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV13
+rtsp://10.15.250.13/PLTV/88888888/224/3221226691/10000100000000060000000006385281_0.smil
+#EXTINF:-1 tvg-id="CCTV-14少儿" tvg-name="CCTV-14少儿" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-14少儿
+rtsp://10.15.250.13/PLTV/88888888/224/3221226529/10000100000000060000000000499222_0.smil
+#EXTINF:-1 tvg-id="CCTV-15音乐" tvg-name="CCTV-15音乐" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-15音乐
+rtsp://10.15.250.13/PLTV/88888888/224/3221226744/10000100000000060000000006519578_0.smil
+#EXTINF:-1 tvg-id="CCTV-16奥林匹克" tvg-name="CCTV-16奥林匹克" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-16奥林匹克
+rtsp://10.15.250.13/PLTV/88888888/224/3221226747/10000100000000060000000006758792_0.smil
+#EXTINF:-1 tvg-id="CCTV-17农业农村" tvg-name="CCTV-17农业农村" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-17农业农村
+rtsp://10.15.250.13/PLTV/88888888/224/3221226653/10000100000000060000000003014578_0.smil
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV5+
+rtsp://10.15.250.13/PLTV/88888888/224/3221226743/10000100000000060000000006603048_0.smil
+#EXTINF:-1 tvg-id="CGTN-英语新闻" tvg-name="CGTN-英语新闻" tvg-logo="悠哉" group-title="辽宁联通内网",CGTN-英语新闻
+rtsp://10.15.250.13/PLTV/88888888/224/3221226756/10000100000000060000000006569861_0.smil
+#EXTINF:-1 tvg-id="CGTN-纪录(国际版)" tvg-name="CGTN-纪录(国际版)" tvg-logo="悠哉" group-title="辽宁联通内网",CGTN-纪录(国际版)
+rtsp://10.15.250.13/PLTV/88888888/224/3221226758/10000100000000060000000006569863_0.smil
+#EXTINF:-1 tvg-id="CGTN-俄语国际" tvg-name="CGTN-俄语国际" tvg-logo="悠哉" group-title="辽宁联通内网",CGTN-俄语国际
+rtsp://10.15.250.13/PLTV/88888888/224/3221226739/10000100000000060000000006582732_0.smil
+#EXTINF:-1 tvg-id="CGTN-西班牙语国际" tvg-name="CGTN-西班牙语国际" tvg-logo="悠哉" group-title="辽宁联通内网",CGTN-西班牙语国际
+rtsp://10.15.250.13/PLTV/88888888/224/3221226735/10000100000000060000000006582714_0.smil
+#EXTINF:-1 tvg-id="CGTN-阿拉伯语国际" tvg-name="CGTN-阿拉伯语国际" tvg-logo="悠哉" group-title="辽宁联通内网",CGTN-阿拉伯语国际
+rtsp://10.15.250.13/PLTV/88888888/224/3221226760/10000100000000060000000006582737_0.smil
+#EXTINF:-1 tvg-id="CGTN-法语国际" tvg-name="CGTN-法语国际" tvg-logo="悠哉" group-title="辽宁联通内网",CGTN-法语国际
+rtsp://10.15.250.13/PLTV/88888888/224/3221226737/10000100000000060000000006582717_0.smil
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226511/10000100000000060000000000394610_0.smil
+#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁都市
+rtsp://10.15.250.13/PLTV/88888888/224/3221226905/384409928.smil
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁影视剧
+rtsp://10.15.250.13/PLTV/88888888/224/3221226901/374682109.smil
+#EXTINF:-1 tvg-id="辽宁体育休闲" tvg-name="辽宁体育休闲" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁体育休闲
+rtsp://10.15.250.13/PLTV/88888888/224/3221226897/384409884.smil
+#EXTINF:-1 tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁生活
+rtsp://10.15.250.13/PLTV/88888888/224/3221226887/378401265.smil
+#EXTINF:-1 tvg-id="辽宁教育青少" tvg-name="辽宁教育青少" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁教育青少
+rtsp://10.15.250.13/PLTV/88888888/224/3221226885/379866838.smil
+#EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁北方
+rtsp://10.15.250.13/PLTV/88888888/224/3221226904/378400617.smil
+#EXTINF:-1 tvg-id="辽宁宜佳购物" tvg-name="辽宁宜佳购物" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁宜佳购物
+rtsp://10.15.250.13/PLTV/88888888/224/3221226898/374682540.smil
+#EXTINF:-1 tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁公共
+rtsp://10.15.250.13/PLTV/88888888/224/3221226724/10000100000000060000000006465082_0.smil
+#EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="悠哉" group-title="辽宁联通内网",辽宁经济
+rtsp://10.15.250.13/PLTV/88888888/224/3221226703/10000100000000060000000006465081_0.smil
+#EXTINF:-1 tvg-id="移动电视" tvg-name="移动电视" tvg-logo="悠哉" group-title="辽宁联通内网",移动电视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226908/384409943.smil
+#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="悠哉" group-title="辽宁联通内网",家有购物
+rtsp://10.15.250.13/PLTV/88888888/224/3221226754/10000100000000060000000006523710_0.smil
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="悠哉" group-title="辽宁联通内网",央广购物
+rtsp://10.15.250.13/PLTV/88888888/224/3221226667/10000100000000060000000005417152_0.smil
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="悠哉" group-title="辽宁联通内网",聚鲨环球精选
+rtsp://10.15.250.13/PLTV/88888888/224/3221226611/10000100000000060000000001155969_0.smil
+#EXTINF:-1 tvg-id="沈阳新闻综合" tvg-name="沈阳新闻综合" tvg-logo="悠哉" group-title="辽宁联通内网",沈阳新闻综合
+rtsp://10.15.250.13/PLTV/88888888/224/3221226609/10000100000000060000000001122494_0.smil
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="悠哉" group-title="辽宁联通内网",优购物
+rtsp://10.15.250.13/PLTV/88888888/224/3221226946/429517590.smil
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="悠哉" group-title="辽宁联通内网",睛彩竞技
+rtsp://10.15.250.13/PLTV/88888888/224/3221226924/420528157.smil
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="悠哉" group-title="辽宁联通内网",睛彩篮球
+rtsp://10.15.250.13/PLTV/88888888/224/3221226928/420528171.smil
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="悠哉" group-title="辽宁联通内网",睛彩青少
+rtsp://10.15.250.13/PLTV/88888888/224/3221226927/420528743.smil
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="悠哉" group-title="辽宁联通内网",睛彩广场舞
+rtsp://10.15.250.13/PLTV/88888888/224/3221226931/420528769.smil
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="悠哉" group-title="辽宁联通内网",北京卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226469/10000100000000060000000000133834_0.smil
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="悠哉" group-title="辽宁联通内网",天津卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226509/10000100000000060000000000356893_0.smil
+#EXTINF:-1 tvg-id="上海东方卫视" tvg-name="上海东方卫视" tvg-logo="悠哉" group-title="辽宁联通内网",上海东方卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226512/10000100000000060000000000356890_0.smil
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="悠哉" group-title="辽宁联通内网",浙江卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226507/10000100000000060000000000356891_0.smil
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="悠哉" group-title="辽宁联通内网",江苏卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226474/10000100000000060000000000133833_0.smil
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="悠哉" group-title="辽宁联通内网",安徽卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226535/10000100000000060000000000499232_0.smil
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="悠哉" group-title="辽宁联通内网",湖南卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226467/10000100000000060000000000133832_0.smil
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="悠哉" group-title="辽宁联通内网",贵州卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226746/10000100000000060000000006519582_0.smil
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="悠哉" group-title="辽宁联通内网",山东卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226523/10000100000000060000000000425465_0.smil
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="悠哉" group-title="辽宁联通内网",山西卫视
+rtsp://10.15.250.13/PLTV/460033/224/0/3221226042/3221225917.smil
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="悠哉" group-title="辽宁联通内网",广东卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226525/10000100000000060000000000425466_0.smil
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="悠哉" group-title="辽宁联通内网",广西卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226916/402477915.smil
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="悠哉" group-title="辽宁联通内网",湖北卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226514/10000100000000060000000000356892_0.smil
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="悠哉" group-title="辽宁联通内网",江西卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226911/402478258.smil
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="悠哉" group-title="辽宁联通内网",河北卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226919/402477919.smil
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="悠哉" group-title="辽宁联通内网",河南卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226914/402478262.smil
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="悠哉" group-title="辽宁联通内网",四川卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226583/10000100000000060000000000623271_0.smil
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="悠哉" group-title="辽宁联通内网",重庆卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226644/10000100000000060000000000623270_0.smil
+#EXTINF:-1 tvg-id="福建东南卫视" tvg-name="福建东南卫视" tvg-logo="悠哉" group-title="辽宁联通内网",福建东南卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226926/408209326.smil
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="悠哉" group-title="辽宁联通内网",海南卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226693/10000100000000060000000006385285_0.smil
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="悠哉" group-title="辽宁联通内网",青海卫视
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226090/000000000jdd.smil
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="悠哉" group-title="辽宁联通内网",云南卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226900/402477923.smil
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="悠哉" group-title="辽宁联通内网",陕西卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226453/iptv127270.smil
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="悠哉" group-title="辽宁联通内网",内蒙古卫视
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226104/000000000vfq.smil
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="悠哉" group-title="辽宁联通内网",宁夏卫视
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226147/iptv112765.smil
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="悠哉" group-title="辽宁联通内网",吉林卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226729/10000100000000060000000006519579_0.smil
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="悠哉" group-title="辽宁联通内网",新疆卫视
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226149/iptv147985.smil
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="悠哉" group-title="辽宁联通内网",甘肃卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226457/iptv8889102159.smil
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="悠哉" group-title="辽宁联通内网",西藏卫视
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226102/000000000vfo.smil
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="悠哉" group-title="辽宁联通内网",黑龙江卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226465/10000100000000060000000000133826_0.smil
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="悠哉" group-title="辽宁联通内网",深圳卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226472/10000100000000060000000000133821_0.smil
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="悠哉" group-title="辽宁联通内网",厦门卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226606/10000100000000060000000000599459_0.smil
+#EXTINF:-1 tvg-id="中国教育1" tvg-name="中国教育1" tvg-logo="悠哉" group-title="辽宁联通内网",中国教育1
+rtsp://10.15.250.13/PLTV/88888888/224/3221226617/10000100000000060000000001311702_0.smil
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="悠哉" group-title="辽宁联通内网",CETV2
+rtsp://10.15.250.13/PLTV/88888888/224/3221226665/10000100000000060000000003972227_0.smil
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="悠哉" group-title="辽宁联通内网",CETV4
+rtsp://10.15.250.13/PLTV/88888888/224/3221226925/408209338.smil
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="悠哉" group-title="辽宁联通内网",山东教育卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226766/10000100000000060000000006683944_0.smil
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="悠哉" group-title="辽宁联通内网",兵团卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226464/iptv8889102157.smil
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="悠哉" group-title="辽宁联通内网",延边卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226555/10000100000000060000000000599471_0.smil
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="悠哉" group-title="辽宁联通内网",金鹰卡通
+rtsp://10.15.250.13/PLTV/88888888/224/3221226895/374681951.smil
+#EXTINF:-1 tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="悠哉" group-title="辽宁联通内网",炫动卡通
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226084/000000000e0s.smil
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="悠哉" group-title="辽宁联通内网",优漫卡通
+rtsp://10.15.250.13/PLTV/88888888/224/3221226608/10000100000000060000000000599464_0.smil
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="悠哉" group-title="辽宁联通内网",嘉佳卡通
+rtsp://10.15.250.13/PLTV/88888888/224/3221226549/10000100000000060000000000599465_0.smil
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="悠哉" group-title="辽宁联通内网",卡酷少儿
+rtsp://10.15.250.13/PLTV/88888888/224/3221226929/408209350.smil
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="悠哉" group-title="辽宁联通内网",金鹰纪实
+rtsp://10.15.250.13/PLTV/88888888/224/3221226557/10000100000000060000000000599916_0.smil
+#EXTINF:-1 tvg-id="北京冬奥纪实" tvg-name="北京冬奥纪实" tvg-logo="悠哉" group-title="辽宁联通内网",北京冬奥纪实
+rtsp://10.15.250.13/PLTV/88888888/224/3221226616/10000100000000060000000000599915_0.smil
+#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="悠哉" group-title="辽宁联通内网",上海纪实
+rtsp://10.15.250.13/PLTV/88888888/224/3221226521/10000100000000060000000000425439_0.smil
+#EXTINF:-1 tvg-id="CCTV-4欧洲" tvg-name="CCTV-4欧洲" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-4欧洲
+rtsp://10.15.250.13/PLTV/88888888/224/3221226741/10000100000000060000000006582740_0.smil
+#EXTINF:-1 tvg-id="CCTV-4美洲" tvg-name="CCTV-4美洲" tvg-logo="悠哉" group-title="辽宁联通内网",CCTV-4美洲
+rtsp://10.15.250.13/PLTV/88888888/224/3221226762/10000100000000060000000006582745_0.smil
+#EXTINF:-1 tvg-id="西藏卫视（藏语）" tvg-name="西藏卫视（藏语）" tvg-logo="悠哉" group-title="辽宁联通内网",西藏卫视（藏语）
+rtsp://10.15.250.13/PLTV/88888888/224/3221226920/404264083.smil
+#EXTINF:-1 tvg-id="安多藏语综合" tvg-name="安多藏语综合" tvg-logo="悠哉" group-title="辽宁联通内网",安多藏语综合
+rtsp://10.15.250.13/PLTV/88888888/224/3221226909/404268565.smil
+#EXTINF:-1 tvg-id="康巴藏语综合" tvg-name="康巴藏语综合" tvg-logo="悠哉" group-title="辽宁联通内网",康巴藏语综合
+rtsp://10.15.250.13/PLTV/88888888/224/3221226923/404270939.smil
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="悠哉" group-title="辽宁联通内网",三沙卫视
+rtsp://10.15.250.13/PLTV/88888888/224/3221226947/456532401.smil
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="悠哉" group-title="辽宁联通内网",CHC动作电影
+rtsp://10.15.250.13/PLTV/88888888/224/3221226939/468086794.smil
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="悠哉" group-title="辽宁联通内网",CHC影迷电影
+rtsp://10.15.250.13/PLTV/88888888/224/3221226958/468087129.smil
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="悠哉" group-title="辽宁联通内网",CHC家庭影院
+rtsp://10.15.250.13/PLTV/88888888/224/3221226942/468087169.smil
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="悠哉" group-title="辽宁联通内网",都市剧场
+rtsp://10.15.250.13/PLTV/88888888/224/3221226716/10000100000000060000000006385215_0.smil
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="悠哉" group-title="辽宁联通内网",风云剧场
+rtsp://10.15.250.13/PLTV/88888888/224/3221226671/10000100000000060000000006385152_0.smil
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="悠哉" group-title="辽宁联通内网",第一剧场
+rtsp://10.15.250.13/PLTV/88888888/224/3221226698/10000100000000060000000006385142_0.smil
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="悠哉" group-title="辽宁联通内网",怀旧剧场
+rtsp://10.15.250.13/PLTV/88888888/224/3221226700/10000100000000060000000006385151_0.smil
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="悠哉" group-title="辽宁联通内网",动漫秀场
+rtsp://10.15.250.13/PLTV/88888888/224/3221226712/10000100000000060000000006385207_0.smil
+#EXTINF:-1 tvg-id="4K欢笑剧场" tvg-name="4K欢笑剧场" tvg-logo="悠哉" group-title="辽宁联通内网",4K欢笑剧场
+rtsp://10.15.250.13/PLTV/88888888/224/3221226720/10000100000000060000000006393203_0.smil
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="悠哉" group-title="辽宁联通内网",老故事
+rtsp://10.15.250.13/PLTV/88888888/224/3221226948/468696541.smil
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="悠哉" group-title="辽宁联通内网",快乐垂钓
+rtsp://10.15.250.13/PLTV/88888888/224/3221226961/468696475.smil
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="悠哉" group-title="辽宁联通内网",风云足球
+rtsp://10.15.250.13/PLTV/88888888/224/3221226702/10000100000000060000000006385159_0.smil
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="悠哉" group-title="辽宁联通内网",央视台球
+rtsp://10.15.250.13/PLTV/88888888/224/3221226706/10000100000000060000000006385172_0.smil
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="悠哉" group-title="辽宁联通内网",高尔夫网球
+rtsp://10.15.250.13/PLTV/88888888/224/3221226945/468696517.smil
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="悠哉" group-title="辽宁联通内网",先锋乒羽
+rtsp://10.15.250.13/PLTV/88888888/224/3221226956/468696527.smil
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="悠哉" group-title="辽宁联通内网",武术世界
+rtsp://10.15.250.13/PLTV/88888888/224/3221226968/468696615.smil
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="悠哉" group-title="辽宁联通内网",游戏风云
+rtsp://10.15.250.13/PLTV/88888888/224/3221226685/10000100000000060000000006385206_0.smil
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="悠哉" group-title="辽宁联通内网",兵器科技
+rtsp://10.15.250.13/PLTV/88888888/224/3221226704/10000100000000060000000006385167_0.smil
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="悠哉" group-title="辽宁联通内网",风云音乐
+rtsp://10.15.250.13/PLTV/88888888/224/3221226718/10000100000000060000000006385496_0.smil
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="悠哉" group-title="辽宁联通内网",世界地理
+rtsp://10.15.250.13/PLTV/88888888/224/3221226679/10000100000000060000000006385175_0.smil
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="悠哉" group-title="辽宁联通内网",乐游
+rtsp://10.15.250.13/PLTV/88888888/224/3221226710/10000100000000060000000006385196_0.smil
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="悠哉" group-title="辽宁联通内网",生活时尚
+rtsp://10.15.250.13/PLTV/88888888/224/3221226681/10000100000000060000000006385195_0.smil
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="悠哉" group-title="辽宁联通内网",法治天地
+rtsp://10.15.250.13/PLTV/88888888/224/3221226714/10000100000000060000000006385213_0.smil
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="悠哉" group-title="辽宁联通内网",文物宝库
+rtsp://10.15.250.13/PLTV/88888888/224/3221226959/468696485.smil
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="悠哉" group-title="辽宁联通内网",金色学堂
+rtsp://10.15.250.13/PLTV/88888888/224/3221226687/10000100000000060000000006385208_0.smil
+#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="悠哉" group-title="辽宁联通内网",梨园
+rtsp://10.15.250.13/PLTV/88888888/224/3221226962/468696561.smil
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="悠哉" group-title="辽宁联通内网",茶
+rtsp://10.15.250.13/PLTV/88888888/224/3221226951/468697355.smil
+#EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="悠哉" group-title="辽宁联通内网",国学
+rtsp://10.15.250.13/PLTV/88888888/224/3221226964/468696593.smil
+#EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="悠哉" group-title="辽宁联通内网",书画
+rtsp://10.15.250.13/PLTV/88888888/224/3221226965/468697380.smil
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="悠哉" group-title="辽宁联通内网",央视文化精品
+rtsp://10.15.250.13/PLTV/88888888/224/3221226677/10000100000000060000000006385162_0.smil
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="悠哉" group-title="辽宁联通内网",女性时尚
+rtsp://10.15.250.13/PLTV/88888888/224/3221226675/10000100000000060000000006385156_0.smil
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="悠哉" group-title="辽宁联通内网",发现之旅
+rtsp://10.15.250.13/PLTV/88888888/224/3221226950/468087629.smil
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="悠哉" group-title="辽宁联通内网",中学生
+rtsp://10.15.250.13/PLTV/88888888/224/3221226953/468087691.smil
+#EXTINF:-1 tvg-id="证券服务" tvg-name="证券服务" tvg-logo="悠哉" group-title="辽宁联通内网",证券服务
+rtsp://10.15.250.13/PLTV/88888888/224/3221226894/383356193.smil
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="悠哉" group-title="辽宁联通内网",新动漫
+rtsp://10.15.250.13/PLTV/88888888/224/3221226903/403511169.smil
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="悠哉" group-title="辽宁联通内网",家庭理财
+rtsp://10.15.250.13/PLTV/88888888/224/3221226906/403511151.smil
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="悠哉" group-title="辽宁联通内网",环球旅游
+rtsp://10.15.250.13/PLTV/88888888/224/3221226934/420529715.smil
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="悠哉" group-title="辽宁联通内网",四海钓鱼
+rtsp://10.15.250.13/PLTV/88888888/224/3221226937/420529116.smil
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="悠哉" group-title="辽宁联通内网",中华特产
+rtsp://10.15.250.13/PLTV/88888888/224/3221226940/420529762.smil
+#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="悠哉" group-title="辽宁联通内网",优优宝贝
+rtsp://10.15.250.13/PLTV/88888888/224/3221226930/420531503.smil
+#EXTINF:-1 tvg-id="车迷" tvg-name="车迷" tvg-logo="悠哉" group-title="辽宁联通内网",车迷
+rtsp://10.15.250.13/PLTV/88888888/224/3221226943/420531762.smil
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="悠哉" group-title="辽宁联通内网",生态环境
+rtsp://10.15.250.13/PLTV/88888888/224/3221226933/420531776.smil
+#EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="悠哉" group-title="辽宁联通内网",收藏天下
+rtsp://10.15.250.13/PLTV/88888888/224/3221226932/420532061.smil
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="悠哉" group-title="辽宁联通内网",中国天气
+rtsp://10.15.250.13/PLTV/88888888/224/3221226955/462536049.smil
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="悠哉" group-title="辽宁联通内网",财富天下
+rtsp://10.15.250.13/PLTV/88888888/224/3221226938/420536160.smil
+#EXTINF:-1 tvg-id="精选" tvg-name="精选" tvg-logo="悠哉" group-title="辽宁联通内网",精选
+rtsp://10.15.250.13/PLTV/88888888/224/0/3221226091/000000000jdg.smil
+#EXTINF:-1 tvg-id="IPTV足球" tvg-name="IPTV足球" tvg-logo="悠哉" group-title="辽宁联通内网",IPTV足球
+rtsp://10.15.250.13/PLTV/88888888/224/3221226619/10000100000000060000000001377018_0.smil
+#EXTINF:-1 tvg-id="爱生活" tvg-name="爱生活" tvg-logo="悠哉" group-title="辽宁联通内网",爱生活
+rtsp://10.15.250.13/PLTV/88888888/224/3221226598/10000100000000060000000000554121_0.smil
+#EXTINF:-1 tvg-id="IPTV3＋(轮播)" tvg-name="IPTV3＋(轮播)" tvg-logo="悠哉" group-title="辽宁联通内网",IPTV3＋(轮播)
+rtsp://10.15.250.13/PLTV/88888888/224/3221226752/10000100000000060000000006522263_0.smil
+#EXTINF:-1 tvg-id="IPTV5＋(轮播)" tvg-name="IPTV5＋(轮播)" tvg-logo="悠哉" group-title="辽宁联通内网",IPTV5＋(轮播)
+rtsp://10.15.250.13/PLTV/88888888/224/3221226490/10000100000000060000000000246848_0.smil
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="悠哉" group-title="辽宁联通内网",爱上4K
+rtsp://10.15.250.13/PLTV/88888888/224/3221226750/10000100000000060000000006519923_0.smil
+#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="悠哉" group-title="辽宁联通内网",谍战剧场
+rtsp://10.15.250.13/PLTV/88888888/224/3221226748/10000100000000060000000006519792_0.smil
+#EXTINF:-1 tvg-id="地理" tvg-name="地理" tvg-logo="悠哉" group-title="辽宁联通内网",地理
+rtsp://10.15.250.13/PLTV/88888888/224/3221226733/10000100000000060000000006519924_0.smil
+#EXTINF:-1 tvg-id="怀旧电影" tvg-name="怀旧电影" tvg-logo="悠哉" group-title="辽宁联通内网",怀旧电影
+rtsp://10.15.250.13/PLTV/460033/224/0/3221225938/000000000ac9.smil
+#EXTINF:-1 tvg-id="劲爆电影" tvg-name="劲爆电影" tvg-logo="悠哉" group-title="辽宁联通内网",劲爆电影
+rtsp://10.15.250.13/PLTV/88888888/224/3221226551/10000100000000060000000000599467_0.smil
+#EXTINF:-1 tvg-id="党员教育" tvg-name="党员教育" tvg-logo="悠哉" group-title="辽宁联通内网",党员教育
+rtsp://10.15.250.13/PLTV/88888888/224/3221226520/10000100000000060000000000398797_0.smil
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tv/zgtq.png" group-title="天气",中国天气
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=mYA7XD9WZWWuLF4yqsQOIQ%3D%3D
+
+
+
+
+
+
+
+
