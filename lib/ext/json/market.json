@@ -5,19 +5,19 @@
       {
         "name": "悠哉",
         "url": "1.apk",
-        "icon": "../icon/youzai.png",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
         "version": "v7a"
     },
       {
         "name": "苍井空",
         "url": "1.apk",
-        "icon": "../icon/youzai.png",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
         "version": "v7a"
     },
       {
         "name": "吆西",
         "url": "1.apk",
-        "icon": "../icon/youzai.png",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
         "version": "v7a"
     }
     ]
