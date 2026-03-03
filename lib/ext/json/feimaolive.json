@@ -1,8 +1,26 @@
 [
-    {"name":"悠哉咪咕体育","url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/悠哉口米口古.m3u"},
-    {"name":"悠哉咪咕体育","url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/悠.m3u"},
-    {"name":"悠哉咪咕体育","url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/悠哉口米口古.m3u"},
-    { "name":"Youtube直播","url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/悠哉口米口古.m3u"},
-    { "name":"网络直播平台","url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/网络直播平台.m3u"},
-	{"name":"悠哉综合直播","url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/悠哉直播.m3u"}
+    {
+     "name":"悠哉咪咕体育",
+     "url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/悠哉口米口古.m3u&&&https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png?para=1920x1080"
+    },
+    {
+     "name":"悠哉咪咕体育",
+      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/悠.m3u&&&https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png?para=1920x1080"
+      },
+    {
+     "name":"悠哉咪咕体育",
+     "url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/悠哉口米口古.m3u&&&https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png?para=1920x1080"
+      },
+    {
+     "name":"Youtube直播",
+      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/悠哉口米口古.m3u&&&https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png?para=1920x1080"
+     },
+    {
+     "name":"网络直播平台",
+      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/网络直播平台.m3u&&&https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png?para=1920x1080"
+    },
+	{
+     "name":"悠哉综合直播",
+      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/悠哉直播.m3u&&&https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png?para=1920x1080"
+     }
 ]
