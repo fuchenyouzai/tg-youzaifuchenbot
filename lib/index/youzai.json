@@ -112,7 +112,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "../ext/js/爱奇艺.js",
-      "timeout": 90
+      "timeout": 120
     },
     {
       "key": "hipy_js_优酷[官]",
@@ -125,7 +125,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "../ext/js/优酷[官].js",
-      "timeout": 90
+      "timeout": 120
     },
     {
       "key": "hipy_js_腾云驾雾[官]",
@@ -151,7 +151,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "../ext/js/百忙无果[官].js",
-      "timeout": 90
+      "timeout": 120
     },
     {
       "key": "hipy_js_菜狗[官]",
@@ -164,7 +164,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "../ext/js/菜狗[官].js",
-      "timeout": 90
+      "timeout": 200
     },
 {
       "key": "hipy_js_360影视[官]",
@@ -177,7 +177,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "../ext/js/360影视[官].js",
-      "timeout": 90
+      "timeout": 200
     },
     {
       "key": "hipy_js_哔哩影视[官]",
@@ -1989,16 +1989,6 @@
 
 
   "parses": [
-     {
-            "name": "手动解析①",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-                }
-            }
-        },
     {
       "name": "ikun",
       "type": 0,
@@ -2031,6 +2021,16 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
+     {
+            "name": "手动解析①",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
     {
       "name": "ik9",
       "type": 0,
