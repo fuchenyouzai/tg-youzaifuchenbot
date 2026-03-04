@@ -417,6 +417,20 @@
      "ext": "../ext/js/88看球[球].js",
       "timeout": 120
     },
+        {
+            "key": "凤凰FM",
+            "name": "📻凤凰 听┃FM",
+            "type": 3,
+            "api": "../api/drpy2.min.js",
+            "ext": "../ext/js/凤凰FM.js"
+        },
+        {
+            "key": "蜻蜓FM",
+            "name": "📻蜻蜓 听┃FM",
+            "type": 3,
+            "api": "../api/drpy2.min.js",
+            "ext": "../ext/js/蜻蜓FM.js"
+        },
     {
       "key": "88看球",
       "name": "⚽88┃看球",
@@ -3065,6 +3079,7 @@
     "mozai.4gtv.tv",
     "static-mozai.4gtv.tv",
     "mimg.0c1q0l.cn",
+    "c.weimobwmc.com",
     "www.googletagmanager.com",
     "www.google-analytics.com",
     "mc.usihnbcq.cn",
