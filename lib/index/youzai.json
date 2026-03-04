@@ -220,7 +220,7 @@
     },
     {
       "key": "hipy_js_量子资源[资]",
-      "name": "量子资源[资](drpy_t3)",
+      "name": "量子资源18[资](drpy_t3)",
       "type": 3,
       "api": "../api/drpy2.min.js",
       "searchable": 1,
@@ -233,7 +233,7 @@
     },
     {
       "key": "hipy_js_暴风资源[资]",
-      "name": "暴风资源[资]18(drpy_t3)",
+      "name": "暴风资源18[资](drpy_t3)",
       "type": 3,
       "api": "../api/drpy2.min.js",
       "searchable": 1,
@@ -246,7 +246,7 @@
     },
     {
       "key": "hipy_js_索尼资源[资]",
-      "name": "索尼资源[资]18(drpy_t3)",
+      "name": "索尼资源18[资](drpy_t3)",
       "type": 3,
       "api": "../api/drpy2.min.js",
       "searchable": 1,
@@ -259,7 +259,7 @@
     },
     {
       "key": "hipy_js_非凡资源[资]",
-      "name": "非凡资源[资]18(drpy_t3)",
+      "name": "非凡资源18[资](drpy_t3)",
       "type": 3,
       "api": "../api/drpy2.min.js",
       "searchable": 1,
@@ -1975,7 +1975,7 @@
 
 
   "parses": [
-        {
+     {
             "name": "手动解析①",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
@@ -2261,6 +2261,7 @@
       "url": "嗅探",
       "ext": {"rules": [".*"] }
     },
+
     {
       "name": "qiyi[官源]",
       "type": 1,
