@@ -219,19 +219,6 @@
       "timeout": 90
     },
     {
-      "key": "hipy_js_量子资源[资]",
-      "name": "量子资源[资](drpy_t3)",
-      "type": 3,
-      "api": "../api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "../ext/js/量子资源[资].js",
-     "timeout": 90
-    },
-    {
       "key": "hipy_js_冠建影视",
       "name": "冠建影视(drpy_t3)",
       "type": 3,
