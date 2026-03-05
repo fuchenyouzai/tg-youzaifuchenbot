@@ -76,7 +76,7 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "order_num": 1,
       "ext": {
@@ -97,6 +97,21 @@
       "order_num": 1,
       "ext": {
         "sp": "XiongYing",
+        "danmu": true
+      },
+      "timeout": 90
+    },
+    {
+      "key": "糯米",
+      "name": "🍓糯米┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "Nmys",
         "danmu": true
       },
       "timeout": 90
@@ -368,23 +383,11 @@
       "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 0,
       "filterable": 1,
       "order_num": 0,
       "ext": "../ext/js/极速资源[资].js",
      "timeout": 90
-    },
-    {
-      "key": "hipy_js_爱看机器人[虫]",
-      "name": "爱看机器人[虫](drpy_t3)",
-      "type": 3,
-      "api": "../api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "../ext/js/爱看机器人[虫].js",
-      "timeout": 90
     },
 
         {
@@ -394,13 +397,18 @@
             "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
             "api": "csp_Jianpian",
             "searchable": 1,
-            "changeable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 90
             "ext": {
+                "imgUrl": "https://img.jgsfnl.com",            
                  "sites": "https://api.ztcgi.com",
-                "filters": "../ext/json/jianpian.json",
-                "imgUrl": "https://img.jgsfnl.com"                
+                "filters": "../ext/json/jianpian.json"
             }
         },
+
+
 
     {
       "key": "hipy_js_饭团影视",
@@ -533,21 +541,6 @@
       "timeout": 90
     },
     {
-      "key": "糯米",
-      "name": "🍓糯米┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Nmys",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
       "key": "热播弹幕版",
       "name": "📺热播┃弹幕",
       "type": 3,
@@ -675,13 +668,28 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "Jianpian",
         "danmu": true
       },
       "timeout": 90
+    },
+    {
+      "key": "️爱看Bot弹幕版",
+      "name": "⛅️爱看┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "Ikanbot",
+        "danmu": true
+      },
+      "timeout": 10
     },
     {
       "key": "韩圈",
@@ -789,21 +797,7 @@
       },
       "timeout": 30
     },
-    {
-      "key": "️爱看Bot弹幕版",
-      "name": "⛅️爱看┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Ikanbot",
-        "danmu": true
-      },
-      "timeout": 10
-    },
+
     {
       "key": "电影天堂",
       "name": "🎞️天堂┃采集",

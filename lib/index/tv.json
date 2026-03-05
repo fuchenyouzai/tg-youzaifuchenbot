@@ -76,7 +76,7 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "order_num": 1,
       "ext": {
@@ -102,6 +102,21 @@
       "timeout": 90
     },
     {
+      "key": "糯米",
+      "name": "🍓糯米┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "Nmys",
+        "danmu": true
+      },
+      "timeout": 90
+    },
+    {
       "key": "hipy_js_奇珍异兽[官]",
       "name": "奇珍异兽[官](drpy_t3)",
       "type": 3,
@@ -112,7 +127,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "../ext/js/爱奇艺.js",
-      "timeout": 90
+      "timeout": 120
     },
     {
       "key": "hipy_js_优酷[官]",
@@ -125,7 +140,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "../ext/js/优酷[官].js",
-      "timeout": 90
+      "timeout": 120
     },
     {
       "key": "hipy_js_腾云驾雾[官]",
@@ -151,7 +166,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "../ext/js/百忙无果[官].js",
-      "timeout": 90
+      "timeout": 120
     },
     {
       "key": "hipy_js_菜狗[官]",
@@ -164,7 +179,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "../ext/js/菜狗[官].js",
-      "timeout": 90
+      "timeout": 200
     },
 {
       "key": "hipy_js_360影视[官]",
@@ -177,7 +192,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "../ext/js/360影视[官].js",
-      "timeout": 90
+      "timeout": 200
     },
     {
       "key": "hipy_js_哔哩影视[官]",
@@ -218,6 +233,7 @@
       "ext": "../ext/js/歪片星球[资].js",
       "timeout": 90
     },
+
     {
       "key": "hipy_js_冠建影视",
       "name": "冠建影视(drpy_t3)",
@@ -290,24 +306,33 @@
       "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 0,
       "filterable": 1,
       "order_num": 0,
       "ext": "../ext/js/极速资源[资].js",
      "timeout": 90
     },
-    {
-      "key": "hipy_js_爱看机器人[虫]",
-      "name": "爱看机器人[虫](drpy_t3)",
-      "type": 3,
-      "api": "../api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "../ext/js/爱看机器人[虫].js",
-      "timeout": 90
-    },
+
+        {
+            "key": "csp_Jianpian",
+            "name": "荐片",
+            "type": 3,
+            "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 90
+            "ext": {
+                "imgUrl": "https://img.jgsfnl.com",            
+                 "sites": "https://api.ztcgi.com",
+                "filters": "../ext/json/jianpian.json"
+            }
+        },
+
+
+
     {
       "key": "hipy_js_饭团影视",
       "name": "饭团影视(drpy_t3)",
@@ -434,21 +459,6 @@
       "filterable": 1,
       "ext": {
         "sp": "Guazi",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "糯米",
-      "name": "🍓糯米┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Nmys",
         "danmu": true
       },
       "timeout": 90
@@ -581,13 +591,28 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "Jianpian",
         "danmu": true
       },
       "timeout": 90
+    },
+    {
+      "key": "️爱看Bot弹幕版",
+      "name": "⛅️爱看┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "Ikanbot",
+        "danmu": true
+      },
+      "timeout": 10
     },
     {
       "key": "韩圈",
@@ -695,21 +720,7 @@
       },
       "timeout": 30
     },
-    {
-      "key": "️爱看Bot弹幕版",
-      "name": "⛅️爱看┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Ikanbot",
-        "danmu": true
-      },
-      "timeout": 10
-    },
+
     {
       "key": "电影天堂",
       "name": "🎞️天堂┃采集",
@@ -1908,7 +1919,7 @@
     "renrenmi"
     ],
   "parses": [
-    {
+     {
       "name": "云析",
       "url": "https://jx.yparse.com/index.php?url=",
       "type": 0,
@@ -1972,10 +1983,43 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
-    {
+
+   {
       "name": "8090",
       "type": 0,
       "url": "https://www.8090g.cn/?url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "ikun",
+      "type": 0,
+      "url": "https://jx.hls.one/?url=",
       "ext": {
         "flag": [
           "qiyi",
@@ -2014,38 +2058,6 @@
                 }
             }
         },
-    {
-      "name": "ikun",
-      "type": 0,
-      "url": "https://jx.hls.one/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "qq 预告及花絮",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "mgtv",
-          "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
-        ]
-      },
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    },
 
 
     {
