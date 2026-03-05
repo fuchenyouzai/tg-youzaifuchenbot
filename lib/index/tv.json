@@ -313,6 +313,19 @@
      "timeout": 90
     },
 
+    {
+      "key": "hipy_js_爱看机器人[虫]",
+      "name": "爱看机器人[虫](drpy_t3)",
+      "type": 3,
+      "api": "../api/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+        "changeable": 0,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "../ext/js/爱看机器人[虫].js",
+      "timeout": 90
+    },
         {
             "key": "csp_Jianpian",
             "name": "荐片",
@@ -323,7 +336,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1,
-            "timeout": 90
+            "timeout": 90,
             "ext": {
                 "imgUrl": "https://img.jgsfnl.com",            
                  "sites": "https://api.ztcgi.com",
@@ -331,6 +344,16 @@
             }
         },
 
+        {
+            "key": "耐看",
+            "name": "耐看",
+            "type": 3,
+            "api": "../ext/js/耐看.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "timeout": 90
+        },
 
 
     {
@@ -455,7 +478,7 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "Guazi",
@@ -470,7 +493,7 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "TianTian",
@@ -501,7 +524,7 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "Yqs",
@@ -597,7 +620,7 @@
         "sp": "Jianpian",
         "danmu": true
       },
-      "timeout": 90
+      "timeout": 120
     },
     {
       "key": "️爱看Bot弹幕版",
@@ -612,7 +635,7 @@
         "sp": "Ikanbot",
         "danmu": true
       },
-      "timeout": 10
+      "timeout": 120
     },
     {
       "key": "韩圈",
@@ -622,7 +645,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "HanXiaoQuan",
