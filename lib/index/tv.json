@@ -323,7 +323,7 @@
     },
     {
       "key": "hipy_js_88看球[球]",
-      "name": "⚽88看球[球](drpy_t3)",
+      "name": "⚽悠哉88看球[球](drpy_t3)",
       "type": 3,
       "api": "../api/drpy2.min.js",
       "searchable": 1,
@@ -336,9 +336,23 @@
       "type": "list",
       "ratio": 0.75
         },
-     "ext": "../ext/js/88看球[球].js",
+     "ext": "../ext/js/悠哉88看球.js",
       "timeout": 120
     },
+        {
+            "key": "凤凰FM",
+            "name": "📻凤凰 听┃FM",
+            "type": 3,
+            "api": "../api/drpy2.min.js",
+            "ext": "../ext/js/凤凰FM.js"
+        },
+        {
+            "key": "蜻蜓FM",
+            "name": "📻蜻蜓 听┃FM",
+            "type": 3,
+            "api": "../api/drpy2.min.js",
+            "ext": "../ext/js/蜻蜓FM.js"
+        },
     {
       "key": "88看球",
       "name": "⚽88┃看球",

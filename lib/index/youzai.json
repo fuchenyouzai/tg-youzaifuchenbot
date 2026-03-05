@@ -401,7 +401,7 @@
     },
     {
       "key": "hipy_js_88看球[球]",
-      "name": "⚽88看球[球](drpy_t3)",
+      "name": "⚽悠哉88看球[球](drpy_t3)",
       "type": 3,
       "api": "../api/drpy2.min.js",
       "searchable": 1,
@@ -414,7 +414,7 @@
       "type": "list",
       "ratio": 0.75
         },
-     "ext": "../ext/js/88看球[球].js",
+     "ext": "../ext/js/悠哉88看球.js",
       "timeout": 120
     },
         {
