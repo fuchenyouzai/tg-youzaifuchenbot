@@ -1,6 +1,10 @@
 #EXTM3U catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="凤凰卫视新闻台" tvg-name="凤凰卫视新闻台" group-title="youtuobe",凤凰卫视新闻台
-https://www.youtube.com/watch?v=YInheVLOPtI
+https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-id="cctv13新闻频道" tvg-name="cctv13新闻频道" group-title="youtuobe",cctv13新闻频道
+https://www.youtube.com/watch?v=FL5p9r5ofEs
+#EXTINF:-1 tvg-id="cctv4中文国际" tvg-name="cctv4中文国际" group-title="youtuobe",cctv4中文国际
+https://www.youtube.com/watch?v=7j92Myu2wzg
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/晴彩竞技.png" group-title="悠哉咪视界IPV4",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=TG@fuchenyouzaibot
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/晴彩篮球.png" group-title="悠哉咪视界IPV4",睛彩篮球
