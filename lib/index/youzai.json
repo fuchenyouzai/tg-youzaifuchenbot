@@ -3033,6 +3033,13 @@
       "playerType": 1,
       "timeout": 60
     },
+
+    {
+      "name": "悠哉Youtube",
+      "type": 0,
+      "url": "../live/悠哉Youtube.m3u"
+    },
+
     {
       "name": "悠哉EPG测试",
       "type": 0,
@@ -3040,13 +3047,6 @@
       "playerType": 2,
       "epg": "egp地址/?ch={name}&date={date}",
       "logo": "logo地址/logo/{name}.png"
-    },
-    {
-      "name": "悠哉直播测试",
-      "type": 0,
-      "url": "../lib/测试二.m3u",
-      "playerType": 1,
-      "timeout": 10
     },
    {
       "name": "直播epg和logo和回放",
