@@ -1,10 +1,15 @@
 #EXTM3U catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="虎牙周星驰" tvg-name="虎牙周星驰" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png" epg-url="" group-title="虎牙放映厅",虎牙周星驰
 video://https://www.huya.com/11342412
+#EXTINF:-1 tvg-id="虎牙周星驰2" tvg-name="虎牙周星驰2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png" epg-url="" group-title="虎牙放映厅",虎牙周星驰2
 https://www.huya.com/11342412
+#EXTINF:-1 tvg-id="虎牙周星驰3" tvg-name="虎牙周星驰3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png" epg-url="" group-title="虎牙放映厅",虎牙周星驰3
 video://https://www.huya.com/11336587
+#EXTINF:-1 tvg-id="虎牙周星驰4" tvg-name="虎牙周星驰4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png" epg-url="" group-title="虎牙放映厅",虎牙周星驰4
 video://https://www.huya.com/11602077
+#EXTINF:-1 tvg-id="斗鱼1" tvg-name="斗鱼1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png" epg-url="" group-title="斗鱼",斗鱼1
 video://https://www.douyu.com/beta/8257039
+#EXTINF:-1 tvg-id="斗鱼2" tvg-name="斗鱼1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png" epg-url="" group-title="斗鱼",斗鱼2
 https://www.douyu.com/beta/8257039
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/晴彩竞技.png" group-title="悠哉咪视界IPV4",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=TG@fuchenyouzaibot
