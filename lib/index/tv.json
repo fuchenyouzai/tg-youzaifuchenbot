@@ -79,7 +79,7 @@
       "changeable": 0,
       "filterable": 1,
       "order_num": 1,
-      "playerType": 2,
+      "playerType": 1,
       "ext": {
         "sp": "Jpys",
         "danmu": true
