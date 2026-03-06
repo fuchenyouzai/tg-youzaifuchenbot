@@ -2961,6 +2961,11 @@
       "url": "../live/悠哉Youtube.m3u"
     },
     {
+      "name": "网络平台直播",
+      "type": 0,
+      "url": "../live/网络平台直播.m3u"
+    },
+    {
       "name": "悠哉EPG测试",
       "type": 0,
       "url": "../lib/测试一.m3u",
