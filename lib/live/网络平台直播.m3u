@@ -1,10 +1,8 @@
 #EXTM3U catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="虎牙周星驰" tvg-name="虎牙周星驰" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png" epg-url="" group-title="虎牙放映厅",虎牙周星驰
-http://127.0.0.1:9978/proxy?do=huya&id=11342412&cdn=AL
 video://https://www.huya.com/11342412
-http://127.0.0.1:9978/proxy?do=huya&id=11336587&cdn=AL
+https://www.huya.com/11342412
 video://https://www.huya.com/11336587
-http://127.0.0.1:9978/proxy?do=huya&id=11602077&cdn=AL
 video://https://www.huya.com/11602077
 video://https://www.douyu.com/beta/8257039
 https://www.douyu.com/beta/8257039
