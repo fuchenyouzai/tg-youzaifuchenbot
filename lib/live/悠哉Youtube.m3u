@@ -5,6 +5,63 @@ https://www.youtube.com/watch?v=fN9uYWCjQaw
 https://www.youtube.com/watch?v=FL5p9r5ofEs
 #EXTINF:-1 tvg-id="cctv4中文国际" tvg-name="cctv4中文国际" group-title="youtuobe",cctv4中文国际
 https://www.youtube.com/watch?v=7j92Myu2wzg
+
+#EXTINF:-1 tvg-id="华纳兄弟娱乐" tvg-name="华纳兄弟娱乐" group-title="youtuobe",华纳兄弟娱乐
+https://www.youtube.com/watch?v=G43NInZfoPE
+
+#EXTINF:-1 tvg-id="邓紫棋" tvg-name="邓紫棋" group-title="youtuobe",邓紫棋
+https://www.youtube.com/watch?v=xXr4Z7HAZCE
+
+#EXTINF:-1 tvg-id="新音乐" tvg-name="新音乐 group-title="youtuobe",新音乐
+https://www.youtube.com/watch?v=2UUWWRuVMco
+
+
+#EXTINF:-1 tvg-id="百纳经独播剧" tvg-name="百纳经独播剧" group-title="youtuobe",百纳经独播剧
+https://www.youtube.com/watch?v=D9YBnpcd2RY
+
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" group-title="youtuobe",CCTV8电视剧
+https://www.youtube.com/watch?v=U2P2LPv2Df8
+
+
+
+#EXTINF:-1 tvg-id="热播动作电影" tvg-name="热播动作电影" group-title="youtuobe",热播动作电影
+https://www.youtube.com/watch?v=XghNs0Cx6JQ
+
+
+#EXTINF:-1 tvg-id="中国剧乐部" tvg-name="中国剧乐部" group-title="youtuobe",中国剧乐部
+https://www.youtube.com/watch?v=0rb9bdZc9Vs
+
+
+#EXTINF:-1 tvg-id="欢娱影视" tvg-name="欢娱影视" group-title="youtuobe",欢娱影视
+https://www.youtube.com/watch?v=36eINm5eYX8
+
+#EXTINF:-1 tvg-id="AO VIVO足球" tvg-name="AO VIVO足球" group-title="youtuobe",AO VIVO足球
+https://www.youtube.com/watch?v=5EoJMLp05qQ
+
+
+#EXTINF:-1 tvg-id="女足" tvg-name="女足" group-title="youtuobe",女足
+https://www.youtube.com/watch?v=2UgEn1UITxs
+
+
+#EXTINF:-1 tvg-id="英雄联盟" tvg-name="英雄联盟" group-title="youtuobe",英雄联盟
+https://www.youtube.com/watch?v=LcSLjydeBPM
+
+
+#EXTINF:-1 tvg-id="四季线上4gtv" tvg-name="四季线上4gtv" group-title="youtuobe",四季线上4gtv
+https://www.youtube.com/watch?v=yzdKYRUCdxQ
+
+
+#EXTINF:-1 tvg-id="中视经典综艺" tvg-name="中视经典综艺" group-title="youtuobe",中视经典综艺
+https://www.youtube.com/watch?v=yzdKYRUCdxQ
+
+
+#EXTINF:-1 tvg-id="民视戏剧馆" tvg-name="民视戏剧馆" group-title="youtuobe",民视戏剧馆
+https://www.youtube.com/watch?v=032kEdR9Lic
+
+
+
+
+
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/晴彩竞技.png" group-title="悠哉咪视界IPV4",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=TG@fuchenyouzaibot
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/晴彩篮球.png" group-title="悠哉咪视界IPV4",睛彩篮球
