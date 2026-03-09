@@ -9,10 +9,10 @@
         "version": "v7a"
     },
       {
-        "name": "苍井空",
-        "url": "1.apk",
-        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "v7a"
+        "name": "clashMeta通用",
+        "url": "https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/cmfa-2.11.15-meta-armeabi-v7a-release.apk",
+        "icon": "https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/apple-touch-icon-precomposed.png",
+        "version": "v7a盒子手机"
     },
       {
         "name": "吆西",
@@ -167,10 +167,10 @@
     "name": "电视盒子网络工具",
     "list": [
       {
-        "name": "clashMeta",
-        "url": "1.apk",
-        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "v7a"
+        "name": "clashMeta盒子通用",
+        "url": "https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/cmfa-2.11.15-meta-armeabi-v7a-release.apk",
+        "icon": "https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/apple-touch-icon-precomposed.png",
+        "version": "v7a盒子手机"
       },
       {
         "name": "clash",
