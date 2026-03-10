@@ -63,9 +63,6 @@
       "type": 3,
 	  "api": "../api/live2vod.js",
 	  "ext": "../ext/json/feimaolive.json",
-	  "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
        "style":
        {
        "type": "list",
@@ -3057,8 +3054,8 @@
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉直播.m3u",
       "playerType": 1,
-       "boot": true,
-       "timeZone": "Asia",
+      "boot": true,
+      "timeZone": "Asia",
       "timeout": 60
     },
     {
