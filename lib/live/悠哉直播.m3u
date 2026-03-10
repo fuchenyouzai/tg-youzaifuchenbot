@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://iptv.gstory.cn/Cinetry/playback.xml,https://gh-proxy.com/https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 #EXT-X-VERSION:3
 
+#EXTINF:-1 tvg-id="大连新闻综合" tvg-name="大连新闻综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tv/zgtq.png" group-title="咪咕视频直播",大连新闻综合
+https://livepull.dlrm.cn/dlrm/2e80d3a1-b700-48de-8186-5f704308709f.m3u8
+
+
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tv/zgtq.png" group-title="咪咕视频直播",中国天气
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=mYA7XD9WZWWuLF4yqsQOIQ%3D%3D
 
