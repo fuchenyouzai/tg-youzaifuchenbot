@@ -5,6 +5,13 @@
 https://livepull.dlrm.cn/dlrm/2e80d3a1-b700-48de-8186-5f704308709f.m3u8
 
 
+#EXTINF:-1 tvg-id="大连生活频道" tvg-name="大连生活频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tv/zgtq.png" group-title="咪咕视频直播",大连生活频道
+https://livepull.dlrm.cn/dlrm/e647ce9f-cb70-4ae4-ac95-40ed9bb27999.m3u8
+
+#EXTINF:-1 tvg-id="大连体育频道" tvg-name="大连体育频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tv/zgtq.png" group-title="咪咕视频直播",大连体育频道
+https://livepull.dlrm.cn/dlrm/e5042d6b-0c81-4a88-8641-209adcdf0157.m3u8
+
+
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tv/zgtq.png" group-title="咪咕视频直播",中国天气
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=mYA7XD9WZWWuLF4yqsQOIQ%3D%3D
 
