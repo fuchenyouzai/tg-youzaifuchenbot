@@ -658,7 +658,7 @@
       "timeout": 10
     },
     {
-      "key": "厂长弹幕版",
+      "key": "厂长18弹幕版",
       "name": "📔厂长┃弹幕",
       "type": 3,
       "api": "csp_AweSomeGuard",
@@ -936,6 +936,17 @@
       "timeout": 10
     },
     {
+      "name": "虎牙一起看",
+      "type": 0,
+      "api": "csp_AweSomeGuard",
+      "url": "yqk",
+      "playerType": 2,
+      "ext": {
+        "sp": "Huya"
+      },
+      "timeout": 10
+    },
+    {
       "key": "虎牙直播",
       "name": "🐯虎牙┃直播",
       "type": 3,
@@ -953,6 +964,7 @@
       },
       "timeout": 10
     },
+
     {
       "key": "爱听音乐",
       "name": "🎧爱听┃音乐",
@@ -3087,8 +3099,9 @@
     },
     {
       "name": "网络平台直播",
-      "type": 0,
-      "url": "../live/网络平台直播.m3u"
+      "type": 3,
+      "url": "../live/网络平台直播.m3u",
+      "timeout": 60
     },
     {
       "name": "直播epg",

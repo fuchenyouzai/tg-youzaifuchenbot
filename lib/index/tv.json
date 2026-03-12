@@ -235,7 +235,6 @@
       "ext": "../ext/js/歪片星球[资].js",
       "timeout": 90
     },
-
     {
       "key": "hipy_js_冠建影视",
       "name": "冠建影视(drpy_t3)",
@@ -845,6 +844,17 @@
       "timeout": 10
     },
     {
+      "name": "虎牙一起看",
+      "type": 0,
+      "api": "csp_AweSomeGuard",
+      "url": "yqk",
+      "playerType": 2,
+      "ext": {
+        "sp": "Huya"
+      },
+      "timeout": 10
+    },
+    {
       "key": "虎牙直播",
       "name": "🐯虎牙┃直播",
       "type": 3,
@@ -862,6 +872,7 @@
       },
       "timeout": 10
     },
+
     {
       "key": "爱听音乐",
       "name": "🎧爱听┃音乐",
@@ -2963,8 +2974,8 @@
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉直播.m3u",
       "playerType": 1,
-       "boot": true,
-       "timeZone": "Asia",
+      "boot": true,
+      "timeZone": "Asia",
       "timeout": 60
     },
     {
@@ -2996,8 +3007,9 @@
     },
     {
       "name": "网络平台直播",
-      "type": 0,
-      "url": "../live/网络平台直播.m3u"
+      "type": 3,
+      "url": "../live/网络平台直播.m3u",
+      "timeout": 60
     },
     {
       "name": "直播epg",
