@@ -97,6 +97,7 @@
       "changeable": 0,
       "filterable": 1,
       "order_num": 1,
+      "playerType": 1,
       "ext": {
         "sp": "XiongYing",
         "danmu": true
@@ -112,6 +113,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
+      "playerType": 1,
       "ext": {
         "sp": "Nmys",
         "danmu": true
@@ -127,6 +129,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
+      "playerType": 1,
       "order_num": 1,
       "ext": "../ext/js/爱奇艺.js",
       "timeout": 120
@@ -140,6 +143,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
+       "playerType": 1,
       "order_num": 1,
       "ext": "../ext/js/优酷[官].js",
       "timeout": 120
@@ -154,6 +158,7 @@
       "changeable": 0,
       "filterable": 1,
       "order_num": 1,
+      "playerType": 1,
       "ext": "../ext/js/腾云驾雾[官].js",
       "timeout": 120
     },
@@ -167,6 +172,7 @@
       "changeable": 0,
       "filterable": 1,
       "order_num": 1,
+      "playerType": 1,
       "ext": "../ext/js/百忙无果[官].js",
       "timeout": 120
     },
@@ -180,6 +186,7 @@
       "changeable": 0,
       "filterable": 1,
       "order_num": 1,
+      "playerType": 1,
       "ext": "../ext/js/菜狗[官].js",
       "timeout": 200
     },
@@ -193,6 +200,7 @@
       "changeable": 0,
       "filterable": 1,
       "order_num": 1,
+      "playerType": 1,
       "ext": "../ext/js/360影视[官].js",
       "timeout": 200
     },
@@ -206,6 +214,7 @@
       "changeable": 0,
       "filterable": 1,
       "order_num": 1,
+       "playerType": 1,
       "ext": "../ext/js/哔哩影视[官].js",
       "timeout": 90
     },
@@ -231,6 +240,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
+      "playerType": 1,
       "order_num": 0,
       "ext": "../ext/js/歪片星球[资].js",
       "timeout": 90
@@ -244,6 +254,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
+      "playerType": 1,
       "order_num": 0,
       "ext": "../ext/js/量子资源[资].js",
      "timeout": 90
@@ -258,6 +269,7 @@
       "changeable": 0,
       "filterable": 1,
       "order_num": 0,
+      "playerType": 1,
       "ext": "../ext/js/暴风资源[资].js",
       "timeout": 90
     },
@@ -271,6 +283,7 @@
       "changeable": 0,
       "filterable": 1,
       "order_num": 0,
+      "playerType": 1,
       "ext": "../ext/js/索尼资源[资].js",
       "timeout": 90
     },
@@ -283,6 +296,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
+      "playerType": 1,
       "order_num": 0,
       "ext": "../ext/js/非凡资源[资].js",
       "timeout": 90
@@ -297,6 +311,7 @@
       "changeable": 0,
       "filterable": 1,
       "order_num": 0,
+      "playerType": 1,
       "ext": "../ext/js/黑狐影院.js",
       "timeout": 90
     },
@@ -401,6 +416,7 @@
       "quickSearch": 1,
         "changeable": 0,
       "filterable": 1,
+      "playerType": 1,
       "order_num": 0,
       "ext": "../ext/js/爱看机器人[虫].js",
       "timeout": 90
@@ -415,6 +431,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1,
+            "playerType": 1,
             "timeout": 90,
             "ext": {
                 "imgUrl": "https://img.jgsfnl.com",            
@@ -457,6 +474,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
+      "playerType": 1,
       "order_num": 0,
      "style":
       {
@@ -489,6 +507,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
+       "playerType": 1,
       "order_num": 0,
       "style": {
         "type": "list"
@@ -658,8 +677,8 @@
       "timeout": 10
     },
     {
-      "key": "厂长18弹幕版",
-      "name": "📔厂长┃弹幕",
+      "key": "厂长弹幕版",
+      "name": "📔厂长18┃弹幕",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -942,8 +961,8 @@
       "url": "yqk",
       "playerType": 2,
       "ext": {
-        "sp": "Huya"
-      },
+      "sp": "Huya"
+                 },
       "timeout": 10
     },
     {
@@ -3095,11 +3114,13 @@
     {
       "name": "悠哉Youtube",
       "type": 0,
+      "playerType": 1,
       "url": "../live/悠哉Youtube.m3u"
     },
     {
       "name": "网络平台直播",
       "type": 3,
+      "playerType": 1,
       "url": "../live/网络平台直播.m3u",
       "timeout": 60
     },
