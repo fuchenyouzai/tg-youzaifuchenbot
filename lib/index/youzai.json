@@ -61,6 +61,7 @@
       "key": "直播转点播",
       "name": "🐯悠哉直播📺",
       "type": 3,
+	  "playerType": 1,
 	  "api": "../api/live2vod.js",
 	  "ext": "../ext/json/feimaolive.json",
        "style":
