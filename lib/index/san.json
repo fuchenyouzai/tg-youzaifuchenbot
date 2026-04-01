@@ -1,5 +1,7 @@
-[
-  "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/index/youzai.json",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/index/baby.json",
-  "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/index/tv.json"
-]
+   {
+   "tvbox_apis": {
+    "OK": ["http://ok213.top/ok],
+    "饭太硬": ["http://www.饭太硬.com/tv"],
+    "牛": ["http://tvbox.王二小放牛娃.top"]
+    }
+    }
