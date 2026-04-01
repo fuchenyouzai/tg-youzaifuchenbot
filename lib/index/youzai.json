@@ -1,10 +1,11 @@
 {
   "spider": "../spider/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
   "wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
-  "disabled_wallpaper":"../wallpaper/悠哉暗夜壁纸.jpg",
+  "disabled_wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
   "logo": "../logo/youzai.png",
   "warningText": "../logo/悠哉.txt",
   "notice": "🌞悠哉😊2026🙏拂尘悠哉🐯",
+
   "sites": [
     {
       "key": "豆瓣",
@@ -20,7 +21,6 @@
       },
       "timeout": 30
     },
-
     {
       "key": "配置中心",
       "name": "⚙️配置设置中心⚙️",
@@ -1511,14 +1511,14 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
+      "timeout": 120,
       "style": {
         "type": "list"
       },
       "ext": {
         "sp": "AList",
         "json": "../ext/json/alist.json"
-      },
-      "timeout": 120
+      }
     },
     {
       "key": "WebDAV",
@@ -1530,7 +1530,8 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "../ext/json/webdav.json",
-      "timeout": 120  //"playerType": 2,
+      "playerType": 1,
+      "timeout": 120
     },
     {
       "key": "csp_QuPanSouGuard",
@@ -1714,24 +1715,9 @@
       "timeout": 90
     }
   ],
-
+ 
   "doh": [
-     {
-    "name": "悠哉360DNS",
-    "url": "https://doh.360.cn/dns-query",
-    "ips": [
-        "101.226.4.6",
-        "218.30.118.6",
-        "123.125.81.6",
-        "140.207.198.6"
-    ]
-   },
-        {
-            "name": "悠哉腾讯DNS",
-            "url": "https://doh.pub/dns-query",
-            "ips": []
-        },
-        {
+            {
             "name": "悠哉阿里DNS",
             "url": "https://dns.alidns.com/dns-query",
             "ips": [
@@ -1740,15 +1726,32 @@
                 "2400:3200::1",
                 "2400:3200:baba::1"
             ]
-        },
-      {
-    "name": "悠哉114DNS",
-    "url": "",
-    "ips": [
+           },    
+       {
+        "name": "悠哉114大连DNS",
+        "url": "",
+        "ips": [
         "114.114.114.114",
-        "114.114.115.115"
-    ]
-     },
+        "211.140.197.58",
+        "2409:8014:2000::1",
+        "114.114.115.115",
+        "211.137.32.178",
+        "2409:8014:2000::2"        
+           ]
+       }, 
+         {
+        "name": "悠哉360DNS",
+        "url": "https://doh.360.cn/dns-query",
+        "ips": [
+        "101.226.4.6",
+        "218.30.118.6"
+             ]
+            },             
+       {
+            "name": "悠哉腾讯DNS",
+            "url": "https://doh.pub/dns-query",
+            "ips": []
+        },
         {
             "name": "悠哉谷歌DNS",
             "url": "https://dns.google/dns-query",
@@ -1798,10 +1801,10 @@
                 "2620:fe::fe",
                 "2620:fe::9"
             ]
-        }
-    ],
-
-     "headers": [
+          }
+         ],
+   
+  "headers": [
         {
             "host": "img\\d+.doubanio.com",
             "header": {
@@ -1945,7 +1948,6 @@
         }
       ]
     },
-
     {
       "group": "硬解码",
       "options": [
@@ -2028,8 +2030,28 @@
     }
   ],
 
-
   "parses": [
+    {
+      "name": "聚合0",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "聚合1",
+      "type": 3,
+      "url": "Demo"
+    },  
+   {
+      "name": "嗅探",
+      "type": 2,
+      "url": "嗅探",
+      "ext": {"rules": [".*"] }
+    },
+     {
+      "name": "嗅探",
+      "type": 2,
+      "url": "video://"
+    },
      {
       "name": "云析",
       "url": "https://jx.yparse.com/index.php?url=",
@@ -2094,7 +2116,6 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
-
    {
       "name": "8090",
       "type": 0,
@@ -2169,8 +2190,6 @@
                 }
             }
         },
-
-
     {
       "name": "虾米",
       "url": "https://jx.xmflv.com/?url=",
@@ -2235,7 +2254,6 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
-
     {
       "name": "冰豆",
       "url": "https://bd.jx.cn/?url=",
@@ -2305,23 +2323,6 @@
                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
                    }}},
     {
-      "name": "聚合0",
-      "type": 3,
-      "url": "Web"
-    },
-    {
-      "name": "聚合1",
-      "type": 3,
-      "url": "Demo"
-    },
-   {
-      "name": "嗅探",
-      "type": 2,
-      "url": "嗅探",
-      "ext": {"rules": [".*"] }
-    },
-
-    {
       "name": "qiyi[官源]",
       "type": 1,
       "url": "http://39.104.230.177:1122/lxjx/myyk.php?url="
@@ -2361,7 +2362,6 @@
         ]
       }
     },
-
     {
       "name": "77",
       "type": 0,
@@ -2689,6 +2689,7 @@
        }
       }
   ],
+
   "flags":
     [
     "imgo",
@@ -2714,8 +2715,11 @@
     "renrenmi"
     ],
 
-"proxy":
-[
+  "proxy": [
+    "file://TV/proxy.json"
+  ],
+
+  "proxy": [
   {
  "name": "指定域名代理",
   "hosts": [
