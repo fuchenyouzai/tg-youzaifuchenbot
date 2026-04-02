@@ -393,8 +393,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="悠哉体育赛事",五星体育
-http://43.251.226.110:5124/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
 
 #EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV5.png" group-title="悠哉体育赛事",CCTV5体育
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=QeGQgn0sZtoWh%2FXfjDik1g%3D%3D
