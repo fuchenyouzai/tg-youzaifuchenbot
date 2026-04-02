@@ -1,11 +1,15 @@
-[
+    [
     {
-     "name":"悠哉咪咕体育",
-     "url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/悠哉口米口古.m3u&&&https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png?para=1920x1080"
+     "name":"悠哉口米口古体育",
+     "url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/悠哉口米口古体育.m3u&&&https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png?para=1920x1080"
     },
 	{
-     "name":"悠哉综合直播",
-     "url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/悠哉直播.m3u&&&https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png?para=1920x1080"
+     "name":"悠哉LN移动内网",
+     "url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/悠哉LN移动内网.m3u&&&https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png?para=1920x1080"
+     },
+	{
+     "name":"悠哉口米口古直播",
+     "url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/悠哉口米口古直播.m3u&&&https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png?para=1920x1080"
      },
     {
      "name":"悠哉Youtube直播",
@@ -23,5 +27,4 @@
      "name":"待定二",
      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/待定.m3u&&&https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png?para=1920x1080"
       }
-
-]
+      ]
