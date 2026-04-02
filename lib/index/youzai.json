@@ -60,9 +60,9 @@
       "key": "直播转点播",
       "name": "🐯悠哉直播📺",
       "type": 3,
-	  "playerType": 1,
 	  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/live2vod.js",
 	  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/json/feimaolive.json",
+	  "playerType": 2,
        "style":
        {
        "type": "list",
