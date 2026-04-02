@@ -2957,9 +2957,9 @@
       "timeout": 60
     },
     {
-      "name": "悠哉咪咕体育",
+      "name": "悠哉口米口古体育",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/悠哉口米口古.m3u",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/悠哉口米口古体育.m3u",
       "playerType": 2,
       "timeout": 60
     },
