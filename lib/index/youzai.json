@@ -1,9 +1,9 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/spider/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
-  "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/wallpaper/悠哉暗夜壁纸.jpg",
-  "disabled_wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/wallpaper/悠哉暗夜壁纸.jpg",
-  "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/logo/youzai.png",
-  "warningText": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/logo/悠哉.txt",
+  "spider": "../spider/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+  "wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
+  "disabled_wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
+  "logo": "../logo/youzai.png",
+  "warningText": "../logo/悠哉.txt",
   "notice": "🌞悠哉😊2026🙏拂尘悠哉🐯",
 
   "sites": [
@@ -40,17 +40,17 @@
       "key": "應用商店",
       "name": "🏠悠哉应用商店🛍️",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
+      "jar": "../jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
       "api": "csp_Market",
       "searchable": 0,
 	  "changeable": 0,
-	  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/json/market.json"
+	  "ext": "../ext/json/market.json"
 	},
     {
       "key": "Local",
       "name": "▶️悠哉本机视频播放器",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
+      "jar": "../jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
       "api": "csp_Local",
       "searchable": 0,
       "changeable": 0,
@@ -60,8 +60,8 @@
       "key": "直播转点播",
       "name": "🐯悠哉直播📺",
       "type": 3,
-	  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/live2vod.js",
-	  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/json/feimaolive.json",
+	  "api": "../api/live2vod.js",
+	  "ext": "../ext/json/feimaolive.json",
 	  "playerType": 2,
        "style":
        {
@@ -69,7 +69,7 @@
        "ratio": 0.75
         },
       "timeout": 120
-	},
+	},	
     {
       "key": "文才",
       "name": "🌺文才┃弹幕",
@@ -77,14 +77,15 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "playerType": 1,
+      "timeout": 90,
+      "order_num": 0, 
       "ext": {
         "sp": "Jpys",
-       "danmu": true
-      },
-      "timeout": 90
+       "danmu": false
+      }
     },
         {
       "key": "糯米",
@@ -93,278 +94,279 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "playerType": 1,
-      "ext": {
+      "order_num": 1, 
+     "timeout": 90,
+     "ext": {
         "sp": "Nmys",
         "danmu": true
-      },
-      "timeout": 90
+      }
     },
     {
       "key": "hipy_js_奇珍异兽[官]",
       "name": "奇珍异兽[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "playerType": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/爱奇艺.js",
-      "timeout": 120
+      "ext": "../ext/js/爱奇艺.js",
+      "timeout": 180
     },
     {
       "key": "hipy_js_优酷[官]",
       "name": "优酷[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
        "playerType": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/优酷[官].js",
-      "timeout": 120
+      "ext": "../ext/js/优酷[官].js",
+      "timeout": 180
     },
     {
       "key": "hipy_js_腾云驾雾[官]",
       "name": "腾云驾雾[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "playerType": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/腾云驾雾[官].js",
-      "timeout": 120
+      "playerType": 2,
+      "ext": "../ext/js/腾云驾雾[官].js",
+      "timeout": 180
     },
     {
       "key": "hipy_js_百忙无果[官]",
       "name": "百忙无果[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "playerType": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/百忙无果[官].js",
-      "timeout": 120
+      "ext": "../ext/js/百忙无果[官].js",
+      "timeout": 180
     },
     {
       "key": "hipy_js_菜狗[官]",
       "name": "菜狗[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "playerType": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/菜狗[官].js",
+      "ext": "../ext/js/菜狗[官].js",
       "timeout": 200
     },
 {
       "key": "hipy_js_360影视[官]",
       "name": "360影视[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "playerType": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/360影视[官].js",
+      "ext": "../ext/js/360影视[官].js",
       "timeout": 200
     },
     {
       "key": "hipy_js_哔哩影视[官]",
       "name": "哔哩影视[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
        "playerType": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/哔哩影视[官].js",
+      "ext": "../ext/js/哔哩影视[官].js",
       "timeout": 90
     },
     {
       "key": "hipy_js_我的哔哩[官]1",
       "name": "哔哩大全[官](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/哔哩大全.json",
+      "ext": "../ext/js/哔哩大全.json",
       "timeout": 90
     },
     {
       "key": "hipy_js_歪片星球[资]",
       "name": "歪片星球[资](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "playerType": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/歪片星球[资].js",
+      "ext": "../ext/js/歪片星球[资].js",
       "timeout": 90
     },
     {
       "key": "hipy_js_量子资源[资]",
       "name": "量子资源18[资](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "playerType": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/量子资源[资].js",
+      "ext": "../ext/js/量子资源[资].js",
      "timeout": 90
     },
     {
       "key": "hipy_js_暴风资源[资]",
       "name": "暴风资源18[资](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "playerType": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/暴风资源[资].js",
+      "ext": "../ext/js/暴风资源[资].js",
       "timeout": 90
     },
     {
       "key": "hipy_js_索尼资源[资]",
       "name": "索尼资源18[资](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "playerType": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/索尼资源[资].js",
+      "ext": "../ext/js/索尼资源[资].js",
       "timeout": 90
     },
     {
       "key": "hipy_js_非凡资源[资]",
       "name": "非凡资源18[资](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "playerType": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/非凡资源[资].js",
+      "ext": "../ext/js/非凡资源[资].js",
       "timeout": 90
     },
     {
       "key": "hipy_js_黑狐影院",
       "name": "黑狐影院18(drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "playerType": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/黑狐影院.js",
+      "ext": "../ext/js/黑狐影院.js",
       "timeout": 90
     },
     {
       "key": "hipy_js_金鹰资源[资]",
       "name": "金鹰资源18[资](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/金鹰资源[资].js",
+      "ext": "../ext/js/金鹰资源[资].js",
       "timeout": 90
     },
     {
       "key": "hipy_js_冠建影视",
       "name": "冠建影视(drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/冠建影视.js",
+      "ext": "../ext/js/冠建影视.js",
       "timeout": 90
     },
     {
       "key": "hipy_js_TVB云播",
       "name": "TVB云播(drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/TVB云播.js",
+      "ext": "../ext/js/TVB云播.js",
       "timeout": 90
     },
     {
       "key": "hipy_js_蛋蛋赞",
       "name": "蛋蛋赞(drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/蛋蛋赞明码.js",
+      "ext": "../ext/js/蛋蛋赞明码.js",
       "timeout": 90
     },
     {
       "key": "hipy_js_剧集TV",
       "name": "剧集TV(drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/剧集TV.js",
+      "ext": "../ext/js/剧集TV.js",
      "timeout": 90
     },
     {
       "key": "hipy_js_voflix",
       "name": "voflix非凡有广(drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/voflix非凡微广.js",
+      "ext": "../ext/js/voflix非凡微广.js",
      "timeout": 90
     },
     {
       "key": "hipy_js_极速资源[资]",
       "name": "极速资源[资]有广(drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/极速资源[资].js",
+      "ext": "../ext/js/极速资源[资].js",
      "timeout": 90
     },
 
@@ -372,20 +374,20 @@
       "key": "hipy_js_爱看机器人[虫]",
       "name": "爱看机器人[虫](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
         "changeable": 0,
       "filterable": 1,
       "playerType": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/爱看机器人[虫].js",
+      "ext": "../ext/js/爱看机器人[虫].js",
       "timeout": 90
     },
         {
             "key": "csp_Jianpian",
             "name": "荐片",
             "type": 3,
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
+            "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
             "api": "csp_Jianpian",
             "searchable": 1,
             "quickSearch": 1,
@@ -396,7 +398,7 @@
             "ext": {
                 "imgUrl": "https://img.jgsfnl.com",            
                  "sites": "https://api.ztcgi.com",
-                "filters": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/json/jianpian.json"
+                "filters": "../ext/json/jianpian.json"
             }
         },
 
@@ -404,7 +406,7 @@
             "key": "耐看",
             "name": "耐看",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/耐看.js",
+            "api": "../ext/js/耐看.js",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -416,19 +418,19 @@
       "key": "hipy_js_饭团影视",
       "name": "饭团影视(drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/饭团影视.js",
+      "ext": "../ext/js/饭团影视.js",
       "timeout": 90
     },
     {
       "key": "hipy_js_88看球[球]",
       "name": "⚽悠哉88看球[球](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -439,22 +441,22 @@
       "type": "list",
       "ratio": 0.75
         },
-     "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/悠哉88看球.js",
+     "ext": "../ext/js/悠哉88看球.js",
       "timeout": 120
     },
         {
             "key": "凤凰FM",
             "name": "📻凤凰 听┃FM",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/凤凰FM.js"
+            "api": "../api/drpy2.min.js",
+            "ext": "../ext/js/凤凰FM.js"
         },
         {
             "key": "蜻蜓FM",
             "name": "📻蜻蜓 听┃FM",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/蜻蜓FM.js"
+            "api": "../api/drpy2.min.js",
+            "ext": "../ext/js/蜻蜓FM.js"
         },
     {
       "key": "88看球",
@@ -929,17 +931,6 @@
       "timeout": 10
     },
     {
-      "name": "虎牙一起看",
-      "type": 0,
-      "api": "csp_AweSomeGuard",
-      "url": "yqk",
-      "playerType": 2,
-      "ext": {
-      "sp": "Huya"
-                 },
-      "timeout": 10
-    },
-    {
       "key": "虎牙直播",
       "name": "🐯虎牙┃直播",
       "type": 3,
@@ -1121,38 +1112,38 @@
       "key": "hipy_js_贝乐虎[儿]",
       "name": "🐯贝乐虎[儿](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/贝乐虎[儿].js",
+      "ext": "../ext/js/贝乐虎[儿].js",
       "timeout": 20
     },
     {
       "key": "hipy_js_童趣[儿]",
       "name": "童趣[儿](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/童趣[儿].js",
+      "ext": "../ext/js/童趣[儿].js",
       "timeout": 20
     },
     {
       "key": "hipy_js_兔小贝[儿]",
       "name": "兔小贝[儿](drpy_t3)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/api/drpy2.min.js",
+      "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/js/兔小贝[儿].js"
+      "ext": "../ext/js/兔小贝[儿].js"
     },
     {
       "key": "少儿教育",
@@ -1490,19 +1481,19 @@
       },
       "ext": {
         "sp": "AList",
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/json/alist.json"
+        "json": "../ext/json/alist.json"
       }
     },
     {
       "key": "WebDAV",
       "name": "🙃Web┃DAV",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
+      "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
       "api": "csp_WebDAV",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/ext/json/webdav.json",
+      "ext": "../ext/json/webdav.json",
       "playerType": 1,
       "timeout": 120
     },
@@ -2004,25 +1995,40 @@
   ],
 
   "parses": [
-    {
-      "name": "聚合0",
-      "type": 3,
-      "url": "Web"
+       {
+      "name": "云析ik9",
+      "url": "https://yparse.ik9.cc/index.php?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
     },
-    {
-      "name": "聚合1",
-      "type": 3,
-      "url": "Demo"
-    },  
-     {
-      "name": "嗅探",
-      "type": 0
-    },
-      {
-      "name": "解析",
-      "type": 1
-    },   
-     {
+
+   {
       "name": "云析",
       "url": "https://jx.yparse.com/index.php?url=",
       "type": 0,
@@ -2055,37 +2061,23 @@
       }
     },
     {
-      "name": "ik9",
-      "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "qq 预告及花絮",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "mgtv",
-          "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
-        ]
-      },
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
+      "name": "聚合0",
+      "type": 3,
+      "url": "Web"
     },
+    {
+      "name": "聚合1",
+      "type": 3,
+      "url": "Demo"
+    },  
+     {
+      "name": "嗅探",
+      "type": 0
+    },
+      {
+      "name": "解析",
+      "type": 1
+    },   
    {
       "name": "8090",
       "type": 0,
@@ -2119,7 +2111,7 @@
       }
     },
     {
-      "name": "ikun",
+      "name": "虾米解析1",
       "type": 0,
       "url": "https://jx.hls.one/?url=",
       "ext": {
@@ -2150,18 +2142,8 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
-     {
-            "name": "手动解析①",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-                }
-            }
-        },
     {
-      "name": "虾米",
+      "name": "虾米解析2",
       "url": "https://jx.xmflv.com/?url=",
       "type": 0,
       "ext": {
@@ -2225,7 +2207,7 @@
       }
     },
     {
-      "name": "冰豆",
+      "name": "冰豆解析",
       "url": "https://bd.jx.cn/?url=",
       "type": 0,
       "ext": {
@@ -2257,7 +2239,7 @@
       }
     },
         {
-            "name": "手动解析②",
+            "name": "七哥解析",
             "type": 0,
             "url": "https://jx.nnxv.cn/tv.php?url=",
             "ext": {
@@ -2267,7 +2249,7 @@
             }
         },
         {
-            "name": "手动解析③",
+            "name": "废了",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url=",
             "ext": {
@@ -2277,7 +2259,7 @@
             }
         },
         {
-         "name": "手动解析④",
+         "name": "BT解析",
          "type": 0,
          "url": "https://www.ckplayer.vip/jiexi/?url=",
          "ext": {
@@ -2333,7 +2315,7 @@
       }
     },
     {
-      "name": "77",
+      "name": "七七解析",
       "type": 0,
       "url": "https://jx.77flv.cc/?url=",
       "ext": {
@@ -2942,7 +2924,7 @@
     {
       "name": "悠哉口米口古直播",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/悠哉口米口古直播.m3u",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉口米口古直播.m3u",
       "playerType": 1,
       "boot": true,
       "timeZone": "Asia",
@@ -2951,7 +2933,7 @@
     {
       "name": "悠哉LN移动内网",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/悠哉LN移动内网.m3u",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉LN移动内网.m3u",
       "playerType": 2,
       "timeZone": "Asia",
       "timeout": 60
@@ -2959,7 +2941,7 @@
     {
       "name": "悠哉口米口古体育",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/悠哉口米口古体育.m3u",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉口米口古体育.m3u",
       "playerType": 2,
       "timeout": 60
     },
@@ -2982,13 +2964,13 @@
       "name": "悠哉Youtube",
       "type": 0,
       "playerType": 1,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/悠哉Youtube.m3u"
+      "url": "../live/悠哉Youtube.m3u"
     },
     {
       "name": "网络平台直播",
       "type": 3,
       "playerType": 1,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/网络平台直播.m3u",
+      "url": "../live/网络平台直播.m3u",
       "timeout": 60
     },
     {
@@ -3005,7 +2987,7 @@
     {
       "name": "悠哉EPG测试",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/lib/测试一.m3u",
+      "url": "../lib/测试一.m3u",
       "playerType": 2,
       "epg": "egp地址/?ch={name}&date={date}",
       "logo": "logo地址/logo/{name}.png"
