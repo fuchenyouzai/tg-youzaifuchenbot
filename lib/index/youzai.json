@@ -2934,7 +2934,7 @@
       "name": "悠哉LN移动内网",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉LN移动内网.m3u",
-      "playerType": 2,
+      "playerType": 1,
       "timeZone": "Asia",
       "timeout": 60
     },
@@ -2959,18 +2959,19 @@
       "playerType": 1,
       "timeout": 60
     },
-
     {
       "name": "悠哉Youtube",
       "type": 0,
-      "playerType": 1,
-      "url": "../live/悠哉Youtube.m3u"
+      "playerType": 2,
+      "timeout": 90,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉Youtube.m3u"
     },
     {
       "name": "网络平台直播",
       "type": 3,
-      "playerType": 1,
+      "playerType": 2,
       "url": "../live/网络平台直播.m3u",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/网络平台直播.m3u",
       "timeout": 60
     },
     {
