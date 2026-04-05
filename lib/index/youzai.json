@@ -132,7 +132,13 @@
             "api": "../xs/js/drpy2.min.js",
             "ext": "../xs/js/爱奇艺.js"
         },
-
+        {
+            "key": "三六零",
+            "name": "三六零｜视频",
+            "type": 3,
+            "jar": "../xs/xsspider.jar",
+            "api": "csp_SP360"
+        },
             {
             "key": "采集之王",
             "name": "采集｜合集",
@@ -215,7 +221,7 @@
       "ext": "../ext/js/菜狗[官].js",
       "timeout": 200
     },
-{
+   {
       "key": "hipy_js_360影视[官]",
       "name": "360影视[官](drpy_t3)",
       "type": 3,
