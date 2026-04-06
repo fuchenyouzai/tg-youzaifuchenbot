@@ -16,9 +16,17 @@
     },
       {
         "name": "悠哉本地包",
-        "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/tg-youzaifuchenbot/raw/refs/heads/main/%E5%8D%95%E7%BA%BF%E8%B7%AF.zip",
+        "url": "https://github.com/fuchenyouzai/tg-youzaifuchenbot/raw/refs/heads/main/%E6%82%A0%E5%93%89.zip",
         "icon": "https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/apple-touch-icon-precomposed.png",
-        "version": "1.0"
+        "copy": "",
+        "version": "version"
+    },    
+      {
+        "name": "悠哉本地包",
+        "url": "https://github.com/fuchenyouzai/tg-youzaifuchenbot/raw/refs/heads/main/%E6%82%A0%E5%93%89.zip",
+        "icon": "https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/apple-touch-icon-precomposed.png",
+        "copy": "",
+        "version": "悠哉"
     },    
       {
         "name": "悠哉博客",
