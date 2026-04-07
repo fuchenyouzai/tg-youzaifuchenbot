@@ -57,6 +57,20 @@
             "indexs": 0,
             "ext": "../ext/json/market.json"
         },
+                {
+            "key": "配置中心啊",
+            "name": "配置｜中心",
+            "type": 3,
+           "jar": "../xs/xsspider.jar",
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
     {
       "key": "Local",
       "name": "▶️悠哉本机视频播放器",
