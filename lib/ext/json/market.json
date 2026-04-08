@@ -41,6 +41,25 @@
     }
     ]
   },
+      {
+        "name": "悠哉本地包",
+        "list": [
+            {
+                "name": "悠哉",
+                "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/tg-youzaifuchenbot/raw/refs/heads/main/%E5%8D%95%E7%BA%BF%E8%B7%AF.zip",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+                "copy": "",
+                "version": "本地包"
+            },
+            {
+                "name": "说明",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/README.md",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+                "copy": "",
+                "version": "README"
+            }
+        ]
+    },
   {
     "name": "电视TVBOX",
     "list": [
