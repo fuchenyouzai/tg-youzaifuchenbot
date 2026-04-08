@@ -46,6 +46,16 @@
 	  "changeable": 0,
 	  "ext": "../ext/json/market.json"
 	},
+	        {
+            "key": "商店",
+            "name": "测试",
+            "type": 3,
+            "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "../ext/json/market.json"
+        },
     {
       "key": "Local",
       "name": "▶️悠哉本机视频播放器",
