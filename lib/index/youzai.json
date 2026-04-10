@@ -46,16 +46,6 @@
 	  "changeable": 0,
 	  "ext": "../ext/json/market.json"
 	},
-	        {
-            "key": "商店",
-            "name": "测试",
-            "type": 3,
-            "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "../ext/json/market.json"
-        },
     {
       "key": "Local",
       "name": "▶️悠哉本机视频播放器",
@@ -115,6 +105,39 @@
         "sp": "Nmys",
         "danmu": true
       }
+    },
+            {
+            "name": "🌻瓜子|秒播",
+            "key": "Guazi",
+            "type": 3,
+             "jar": "../jar/aowu.png;md5;92b31f34bfcc1ea7c3e75d0cd9f28bf9",
+            "api": "csp_GuaziAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "playerType": 1,     
+            "timeout": 90,
+            "ext": {
+                "sites": "",
+                "filters": "../ext/json/guazi.json"
+            }
+        },
+            {
+      "key": "瓜子",
+      "name": "🍉瓜子┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "playerType": 1,              
+      "ext": {
+        "sp": "Guazi",
+        "danmu": true
+      },
+      "timeout": 90
     },
          {
             "key": "腾讯视频",
@@ -628,6 +651,16 @@
       },
       "timeout": 30
     },
+    	        {
+            "key": "商店",
+            "name": "vox测试",
+            "type": 3,
+            "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "../ext/json/market.json"
+        },
     {
             "key": "版本信息",
             "name": "🤖悠哉智能🛍️市场",
@@ -654,21 +687,7 @@
             }
         },
 
-    {
-      "key": "瓜子",
-      "name": "🍉瓜子┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "Guazi",
-        "danmu": true
-      },
-      "timeout": 90
-    },
+
     {
       "key": "热播弹幕版",
       "name": "📺热播┃弹幕",
