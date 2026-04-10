@@ -120,6 +120,7 @@
             "timeout": 90,
             "ext": {
                 "sites": "",
+                "danmu": true,
                 "filters": "../ext/json/guazi.json"
             }
         },
