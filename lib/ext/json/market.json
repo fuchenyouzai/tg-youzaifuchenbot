@@ -16,7 +16,7 @@
     },
       {
         "name": "悠哉本地包",
-        "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/tg-youzaifuchenbot/raw/refs/heads/main/本地包.zip",
+        "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/tg-youzaifuchenbot/raw/refs/heads/main/空.zip",
         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
         "version": "version"
     },
@@ -46,7 +46,7 @@
         "list": [
             {
                 "name": "悠哉",
-                "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/tg-youzaifuchenbot/raw/refs/heads/main/本地包.zip",
+                "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/tg-youzaifuchenbot/raw/refs/heads/main/空.zip",
                 "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
                 "copy": "",
                 "version": "本地包"
