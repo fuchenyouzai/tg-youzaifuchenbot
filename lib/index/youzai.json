@@ -72,6 +72,23 @@
         },
       "timeout": 120
 	},	
+	        {
+      "key": "糯米",
+      "name": "🍓糯米┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "playerType": 1,
+      "order_num": 1, 
+     "timeout": 90,
+     "ext": {
+        "sp": "Nmys",
+        "danmu": true
+      }
+    },
     {
       "key": "文才",
       "name": "🌺文才┃弹幕",
@@ -89,28 +106,25 @@
        "danmu": false
       }
     },
-        {
-      "key": "糯米",
-      "name": "🍓糯米┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "playerType": 1,
-      "order_num": 1, 
-     "timeout": 90,
-     "ext": {
-        "sp": "Nmys",
-        "danmu": true
-      }
-    },
+            {
+            "name": "🥇金牌|秒播",
+            "key": "JinPai",
+            "type": 3,
+            "jar": "../jar/aowu.png;md5;bc5c6e63636c2ed0063c1b69224ddd0b",
+            "api": "csp_JinPaiAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "playerType": 1,     
+            "timeout": 90
+        },
+
             {
             "name": "🌻瓜子|秒播",
             "key": "Guazi",
             "type": 3,
-             "jar": "../jar/aowu.png;md5;92b31f34bfcc1ea7c3e75d0cd9f28bf9",
+             "jar": "../jar/aowu.png;md5;bc5c6e63636c2ed0063c1b69224ddd0b",
             "api": "csp_GuaziAmns",
             "searchable": 1,
             "filterable": 1,
