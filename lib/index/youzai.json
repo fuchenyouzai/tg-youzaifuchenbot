@@ -48,7 +48,7 @@
 	},
     {
       "key": "Local",
-      "name": "▶️悠哉本机视频播放器",
+      "name": "▶️悠哉本机播放器",
       "type": 3,
       "jar": "../jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
       "api": "csp_Local",
