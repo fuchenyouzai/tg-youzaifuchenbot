@@ -74,7 +74,7 @@
 	},	
 	        {
       "key": "糯米",
-      "name": "🍓糯米┃弹幕",
+      "name": "🍓糯米",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -91,7 +91,7 @@
     },
     {
       "key": "文才",
-      "name": "🌺文才┃弹幕",
+      "name": "🥇金牌OK",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -107,7 +107,7 @@
       }
     },
             {
-            "name": "🥇金牌|秒播",
+            "name": "🥇金牌嗷喔",
             "key": "JinPai",
             "type": 3,
             "jar": "../jar/aowu.png;md5;bc5c6e63636c2ed0063c1b69224ddd0b",
@@ -121,7 +121,7 @@
         },
 
             {
-            "name": "🌻瓜子|秒播",
+            "name": "🌻瓜子嗷呜",
             "key": "Guazi",
             "type": 3,
              "jar": "../jar/aowu.png;md5;bc5c6e63636c2ed0063c1b69224ddd0b",
@@ -140,7 +140,7 @@
         },
             {
       "key": "瓜子",
-      "name": "🍉瓜子┃弹幕",
+      "name": "🍉瓜子OK",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -1601,7 +1601,7 @@
     },
     {
       "key": "WebDAV",
-      "name": "🙃Web┃DAV",
+      "name": "☁️悠哉WebDav",
       "type": 3,
       "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
       "api": "csp_WebDAV",
