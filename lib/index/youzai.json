@@ -86,7 +86,7 @@
      "timeout": 90,
      "ext": {
         "sp": "Nmys",
-        "danmu": true
+        "danmu": false
       }
     },
     {
@@ -117,7 +117,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "playerType": 1,     
-            "timeout": 90
+            "timeout": 90,
+            "danmu": false
         },
 
             {
@@ -134,7 +135,7 @@
             "timeout": 90,
             "ext": {
                 "sites": "",
-                "danmu": true,
+                "danmu": false,
                 "filters": "../ext/json/guazi.json"
             }
         },
@@ -150,7 +151,7 @@
       "playerType": 1,              
       "ext": {
         "sp": "Guazi",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
@@ -715,7 +716,7 @@
       "order_num": 3,
       "ext": {
         "sp": "TianTian",
-        "danmu": true,
+        "danmu": false,
         "site": 0
       },
       "timeout": 10
@@ -761,7 +762,7 @@
       "filterable": 1,
       "ext": {
         "sp": "QiQi",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 10
     },
@@ -792,7 +793,7 @@
       "filterable": 1,
       "ext": {
         "sp": "Duboku",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 10
     },
@@ -807,7 +808,7 @@
       "filterable": 1,
       "ext": {
         "sp": "Czzy",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
@@ -821,7 +822,7 @@
       "changeable": 1,
       "ext": {
         "sp": "Btt",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 10
     },
