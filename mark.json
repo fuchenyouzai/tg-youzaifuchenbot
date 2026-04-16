@@ -4,7 +4,13 @@
     "list": [
       {
         "name": "小虎斑",
-        "url": "https://github.com/fuchenyouzai/tg-youzaifuchenbot/raw/refs/heads/main/youzai.zip",
+        "url": "http://103.45.162.207:25252/%E4%BB%85%E4%BE%9B%E6%B5%8B%E8%AF%95/%E5%B0%8F%E8%99%8E%E6%96%91.zip/%E5%B0%8F%E8%99%8E%E6%96%91.zip",
+        "icon": "https://img0.baidu.com/it/u=3253391263,4067854538&fm=253&app=138&f=JPEG?w=800&h=800",
+        "version": "14.7.6"
+      },
+      {
+        "name": "小虎斑",
+        "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/tg-youzaifuchenbot/raw/refs/heads/main/youzai.zip",
         "icon": "https://img0.baidu.com/it/u=3253391263,4067854538&fm=253&app=138&f=JPEG?w=800&h=800",
         "version": "14.7.6"
       },
