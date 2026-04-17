@@ -7,6 +7,32 @@
   "notice": "🌞悠哉😊2026🙏拂尘悠哉🐯",
   "sites": [
     {
+      "key": "世界听书",
+      "name": "🎸世界┃听书",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "sp": "BookTing"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "六月听书",
+      "name": "🎤六月┃听书",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "sp": "WeiTing"
+      },
+      "timeout": 10
+    },
+    {
       "key": "动漫巴士",
       "name": "🚌巴士┃动漫",
       "type": 3,
@@ -20,7 +46,6 @@
       },
       "timeout": 10
     },
-
     {
       "key": "hipy_js_贝乐虎[儿]",
       "name": "🐯贝乐虎[儿](drpy_t3)",
@@ -33,7 +58,7 @@
       "order_num": 0,
       "ext": "../ext/js/贝乐虎[儿].js",
       "timeout": 20
-    },
+    },    
     {
       "key": "hipy_js_童趣[儿]",
       "name": "童趣[儿](drpy_t3)",
@@ -46,7 +71,7 @@
       "order_num": 0,
       "ext": "../ext/js/童趣[儿].js",
       "timeout": 20
-    },
+    },    
     {
       "key": "hipy_js_兔小贝[儿]",
       "name": "兔小贝[儿](drpy_t3)",
@@ -57,7 +82,7 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "../ext/js/兔小贝[儿].js"
-    },
+    },   
     {
       "key": "少儿教育",
       "name": "📚少儿┃教育",
@@ -526,7 +551,6 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
-
    {
       "name": "8090",
       "type": 0,

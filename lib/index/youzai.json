@@ -492,44 +492,56 @@
             "changeable": 0
         },
         {
-            "name": "厂长🐶2K",
+            "name": "🏭厂长|2K",
             "key": "Czzy",
             "type": 3,
-            "api": "csp_CzzyAmns",
-            "playerType": 1,
             "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "api": "csp_CzzyAmns",
+            "playerType": 2,
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
-            "timeout": 90,
-            "changeable": 0
+            "changeable": 1,
+            "ext": {
+                "sites": "https://www.czzy89.com,https://www.cz01.org",
+                "filters": ""
+            }
         },
-        {
-            "name": "LBV🐶2K",
+
+       {
+            "name": "LB🐶2K",
             "key": "Libvio",
             "type": 3,
-            "api": "csp_LibvioAmns",
-            "playerType": 1,
             "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "api": "csp_LibvioAmns",
+            "playerType": 2,
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
-            "timeout": 90,
-            "changeable": 0
+            "changeable": 0,
+            "ext": {
+                "sites": "https://libvio.run,https://www.libvio.mov,https://www.libvio.la,https://www.libhd.com",
+                "filters": ""
+            }
         },
+
         {
-            "name": "2BT🐶2K",
+            "name": "📀俩BT|2K",
             "key": "Bttwo",
             "type": 3,
             "api": "csp_BttwoAmns",
-            "playerType": 1,
             "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "playerType": 2,
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
-            "timeout": 90,
-            "changeable": 0
+            "changeable": 0,
+            "ext": {
+                "sites": "https://www.bttwo.me,https://www.bttwo.org,https://www.bttwoo.com,https://www.bttwo.net",
+                "filters": ""
+            }
         },
+
         {
             "name": "漫剧🐶",
             "key": "MjHggg",
@@ -1117,43 +1129,48 @@
       },
       "timeout": 30
     },
-    	        {
-            "key": "商店",
-            "name": "vox测试",
-            "type": 3,
-            "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "../ext/json/market.json"
-        },
+        {
+      "key": "csp_AListGuard",
+      "name": "🦋AList",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "timeout": 120,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "sp": "AList",
+        "json": "../ext/json/alist.json"
+      }
+    },
     {
-            "key": "版本信息",
-            "name": "🤖悠哉智能🛍️市场",
-            "type": 3,
-             "jar": "../xs/xsspider.jar",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "ext": "../ext/json/market.json"
-        },
-                {
-            "key": "配置中心啊",
-            "name": "配置｜中心",
-            "type": 3,
-           "jar": "../xs/xsspider.jar",
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
+      "key": "WebDAV",
+      "name": "☁️悠哉WebDav",
+      "type": 3,
+      "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "../ext/json/webdav.json",
+      "playerType": 1,
+      "timeout": 120
+    },
 
-
+    {
+  "key": " 电影天堂资源",
+  "name": "电影天堂(采集)",
+  "type": 1,
+  "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?",
+  "playUrl": "https://vip.dyttzyplay.com/?url=",
+  "quickSearch": 1,
+  "filterable": 1,
+  "searchable": 1,
+  "changeable": 0
+ },
     {
       "key": "热播弹幕版",
       "name": "📺热播┃弹幕",
@@ -1396,76 +1413,6 @@
       "timeout": 10
     },
     {
-      "key": "盒马短剧",
-      "name": "🦓盒马┃短剧",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "HeMa"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "星芽短剧",
-      "name": "💖星芽┃短剧",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "AppXY"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "碎片短剧",
-      "name": "🧸碎片┃短剧",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "SuiPian"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "甜圈短剧",
-      "name": "🌸甜圈┃短剧",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "TianQuan"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "动漫巴士",
-      "name": "🚌巴士┃动漫",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "Dm84"
-      },
-      "timeout": 10
-    },
-    {
       "key": "新6V",
       "name": "🧲新6V┃磁力",
       "type": 3,
@@ -1551,32 +1498,6 @@
       "changeable": 0,
       "ext": {
         "sp": "KuGou"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "世界听书",
-      "name": "🎸世界┃听书",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "BookTing"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "六月听书",
-      "name": "🎤六月┃听书",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "WeiTing"
       },
       "timeout": 10
     },
@@ -1671,115 +1592,6 @@
       "ext": {
         "sp": "Bili",
         "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/41F4D38_773_bilixp_20251204150443351newMediaFile.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "hipy_js_贝乐虎[儿]",
-      "name": "🐯贝乐虎[儿](drpy_t3)",
-      "type": 3,
-      "api": "../api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "../ext/js/贝乐虎[儿].js",
-      "timeout": 20
-    },
-    {
-      "key": "hipy_js_童趣[儿]",
-      "name": "童趣[儿](drpy_t3)",
-      "type": 3,
-      "api": "../api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "../ext/js/童趣[儿].js",
-      "timeout": 20
-    },
-    {
-      "key": "hipy_js_兔小贝[儿]",
-      "name": "兔小贝[儿](drpy_t3)",
-      "type": 3,
-      "api": "../api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "../ext/js/兔小贝[儿].js"
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "Bili",
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/32EF375_773_bilisejy_20251204150311837newMediaFile.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "Bili",
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3753221_773_bilixxkt_20251204150347660newMediaFile.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "Bili",
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3ED04A6_773_biliczkt_20251204150157889newMediaFile.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "高中教育",
-      "name": "📚高中┃课堂",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "Bili",
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/531DD35_773_biligzkt_20251204150243460newMediaFile.bmp"
       },
       "timeout": 20
     },
@@ -2034,36 +1846,6 @@
       "timeout": 90
     },
     {
-      "key": "csp_AListGuard",
-      "name": "🦋AList",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 120,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "AList",
-        "json": "../ext/json/alist.json"
-      }
-    },
-    {
-      "key": "WebDAV",
-      "name": "☁️悠哉WebDav",
-      "type": 3,
-      "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
-      "api": "csp_WebDAV",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "../ext/json/webdav.json",
-      "playerType": 1,
-      "timeout": 120
-    },
-    {
       "key": "csp_QuPanSouGuard",
       "name": "🤓趣盘┃搜索",
       "type": 3,
@@ -2230,6 +2012,41 @@
         "sp": "Local"
       }
     },
+         {
+            "key": "商店",
+            "name": "vox测试",
+            "type": 3,
+            "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "../ext/json/market.json"
+        },
+       {
+            "key": "版本信息",
+            "name": "🤖悠哉智能🛍️市场",
+            "type": 3,
+             "jar": "../xs/xsspider.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "ext": "../ext/json/market.json"
+        },
+                {
+            "key": "配置中心啊",
+            "name": "配置｜中心",
+            "type": 3,
+           "jar": "../xs/xsspider.jar",
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
             {
       "key": "雄鹰弹幕版",
       "name": "🦅雄鹰┃弹幕",

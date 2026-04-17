@@ -72,7 +72,7 @@
 	},
     {
       "key": "文才",
-      "name": "🌺文才┃弹幕",
+      "name": "🥇金牌",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -88,22 +88,6 @@
       "timeout": 90
     },
     {
-      "key": "雄鹰弹幕版",
-      "name": "🦅雄鹰┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "order_num": 1,
-      "ext": {
-        "sp": "XiongYing",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
       "key": "糯米",
       "name": "🍓糯米┃弹幕",
       "type": 3,
@@ -114,6 +98,21 @@
       "filterable": 1,
       "ext": {
         "sp": "Nmys",
+        "danmu": true
+      },
+      "timeout": 90
+    },
+        {
+      "key": "瓜子",
+      "name": "🍉瓜子",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "Guazi",
         "danmu": true
       },
       "timeout": 90
@@ -473,21 +472,6 @@
       "timeout": 30
     },
     {
-      "key": "瓜子",
-      "name": "🍉瓜子┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "Guazi",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
       "key": "热播弹幕版",
       "name": "📺热播┃弹幕",
       "type": 3,
@@ -743,76 +727,6 @@
       "timeout": 10
     },
     {
-      "key": "盒马短剧",
-      "name": "🦓盒马┃短剧",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "HeMa"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "星芽短剧",
-      "name": "💖星芽┃短剧",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "AppXY"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "碎片短剧",
-      "name": "🧸碎片┃短剧",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "SuiPian"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "甜圈短剧",
-      "name": "🌸甜圈┃短剧",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "TianQuan"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "动漫巴士",
-      "name": "🚌巴士┃动漫",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "Dm84"
-      },
-      "timeout": 10
-    },
-    {
       "key": "新6V",
       "name": "🧲新6V┃磁力",
       "type": 3,
@@ -912,32 +826,7 @@
       },
       "timeout": 10
     },
-    {
-      "key": "世界听书",
-      "name": "🎸世界┃听书",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "BookTing"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "六月听书",
-      "name": "🎤六月┃听书",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "WeiTing"
-      },
-      "timeout": 10
-    },
+
     {
       "key": "bilimd",
       "name": "🅱哔哩┃影视",
@@ -1029,115 +918,6 @@
       "ext": {
         "sp": "Bili",
         "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/41F4D38_773_bilixp_20251204150443351newMediaFile.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "hipy_js_贝乐虎[儿]",
-      "name": "🐯贝乐虎[儿](drpy_t3)",
-      "type": 3,
-      "api": "../api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "../ext/js/贝乐虎[儿].js",
-      "timeout": 20
-    },
-    {
-      "key": "hipy_js_童趣[儿]",
-      "name": "童趣[儿](drpy_t3)",
-      "type": 3,
-      "api": "../api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "../ext/js/童趣[儿].js",
-      "timeout": 20
-    },
-    {
-      "key": "hipy_js_兔小贝[儿]",
-      "name": "兔小贝[儿](drpy_t3)",
-      "type": 3,
-      "api": "../api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "../ext/js/兔小贝[儿].js"
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "Bili",
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/32EF375_773_bilisejy_20251204150311837newMediaFile.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "Bili",
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3753221_773_bilixxkt_20251204150347660newMediaFile.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "Bili",
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3ED04A6_773_biliczkt_20251204150157889newMediaFile.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "高中教育",
-      "name": "📚高中┃课堂",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "Bili",
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/531DD35_773_biligzkt_20251204150243460newMediaFile.bmp"
       },
       "timeout": 20
     },
@@ -1586,6 +1366,62 @@
       "ext": {
         "sp": "Local"
       }
+    },
+    {
+      "key": "盒马短剧",
+      "name": "🦓盒马┃短剧",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "HeMa"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "星芽短剧",
+      "name": "💖星芽┃短剧",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "AppXY"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "碎片短剧",
+      "name": "🧸碎片┃短剧",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "SuiPian"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "甜圈短剧",
+      "name": "🌸甜圈┃短剧",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "TianQuan"
+      },
+      "timeout": 10
     },
     {
       "key": "push_agent",
