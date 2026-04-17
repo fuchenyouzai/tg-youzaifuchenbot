@@ -9,7 +9,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🌱影视剧综艺导航🏆",
+      "name": "🆕影视剧综艺导航🏆",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 0,
@@ -48,7 +48,7 @@
 	},
     {
       "key": "Local",
-      "name": "▶️本机文件播放器",
+      "name": "▶️本机视频播放器▶️",
       "type": 3,
       "jar": "../jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
       "api": "csp_Local",
@@ -139,7 +139,7 @@
                 "filters": "../ext/json/guazi.json"
             }
         },
-            {
+     {
       "key": "瓜子",
       "name": "🍉瓜子OK",
       "type": 3,
