@@ -1,15 +1,14 @@
 {
   "spider": "../spider/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
   "wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
-  "disabled_wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
   "logo": "../logo/youzai.png",
-  "warningText": "../logo/悠哉.txt",
   "notice": "🌞悠哉😊2026🙏拂尘悠哉🐯",
-
+  "disabled_wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
+  "warningText": "../logo/悠哉.txt",  
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🌱悠哉影视剧综艺导航🏆",
+      "name": "🌱影视剧综艺导航🏆",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 0,
@@ -58,7 +57,7 @@
     },
     {
       "key": "直播转点播",
-      "name": "🐯悠哉直播📺",
+      "name": "📺悠哉直播📺",
       "type": 3,
 	  "api": "../api/live2vod.js",
 	  "ext": "../ext/json/feimaolive.json",
@@ -2418,19 +2417,19 @@
 
   "parses": [
     {
-      "name": "聚合1",
-      "type": 3,
-      "url": "Demo"
+    "name": "Json聚合1",
+    "type": 3,
+    "url": "Demo"
     },
     {
-      "name": "聚合0",
-      "type": 3,
-      "url": "Web"
+    "name": "Web聚合0",
+    "type": 3,
+    "url": "Web"
     },
     {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
+    "name": "Json轮询",
+    "type": 2,
+    "url": "Sequence"
     },
    {
       "name": "自定：请先设置",
@@ -3539,6 +3538,20 @@
       "timeout": 60
     },
     {
+      "name": "aptv直播源",
+      "type": 0,
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "口米口古部署源",
+      "type": 0,
+      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "直播epg",
       "url": "./live.json",
       "epg": "https://epg.example.com/?ch={name},https://epg.example.com/api?id={id},https://epg.example.com/xmltv.xml.gz",
@@ -3619,7 +3632,6 @@
       "timeout": 10
        }
   ],
-
   "ads": [
     "https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/favicon.png",
      "p-pc-weboff.byteimg.com",
