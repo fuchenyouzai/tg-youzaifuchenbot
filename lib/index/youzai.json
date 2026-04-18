@@ -110,7 +110,7 @@
             "name": "🐶金牌嗷喔",
             "key": "JinPai",
             "type": 3,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "api": "csp_JinPaiAmns",
             "searchable": 1,
             "filterable": 1,
@@ -125,7 +125,7 @@
             "name": "🐶瓜子嗷呜",
             "key": "Guazi",
             "type": 3,
-             "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+             "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "api": "csp_GuaziAmns",
             "searchable": 1,
             "filterable": 1,
@@ -161,7 +161,7 @@
             "type": 3,
             "api": "csp_HxqAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "timeout": 90,
@@ -174,7 +174,7 @@
             "type": 3,
             "api": "csp_NewGrAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -205,7 +205,7 @@
             "type": 3,
             "api": "csp_AppV6Amns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -219,7 +219,7 @@
             "type": 3,
             "api": "csp_AppV6Amns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -233,7 +233,7 @@
             "type": 3,
             "api": "csp_AppV6Amns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -247,7 +247,7 @@
             "type": 3,
             "api": "csp_AppV6Amns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -261,7 +261,7 @@
             "type": 3,
             "api": "csp_AppV6Amns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -275,7 +275,7 @@
             "type": 3,
             "api": "csp_AppV6Amns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -289,7 +289,7 @@
             "type": 3,
             "api": "csp_NewNoxAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -307,7 +307,7 @@
             "type": 3,
             "api": "csp_NewNoxAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -319,14 +319,13 @@
                 "data": "1a5c288565eb2ea7fcb9caa81e70fa9b13ee921ef90f07182de55a048be4f69da9cbf70f8b5697fc82d0499ccd36f89dc3e85804e9df9b2ade928718016082fc72dd21bb566aeaade2cbf1c7ed0d7047ad136cd3102a1a58c848c316cbcffbc341c48f17e2c5869cfbc9df7e73ea2cb95c8c104cb9d7cee2725543e287ee64b784f988700aa9be055f7ccc6e0a828c7cfe727cfbfe7de8547de6c1367c214a1ed6c8528a2feb05f0c398611c92868d24d63abcdf6d7948f622a782c88f4449d033ede28737a32eb1146ef41f4b783a67a8e9eacf5d907defb2939f7802c21b70864afb1fb135e21b3d8f5fbac8f446901b6c04aa68836d2f285fabe76ea12ed129f5caf6381167c71154055411da1b167fa5ba7f5c889504275fb3e9a60f3f4f5dec3845a16518de612544443919d9147f051de2b6c735c95104d5d6ad8d03583f1f33837723727796721e44d944574e77dda7e1861ec7eabcb9d2a098aeeec5e3715c224c20826406869fe610002f21482656a236ab0400df483b5b39cbe38d5b143bfb0832aa45e7b96273840691f482aaf84fe14ddf123d3f2e354c52f7bb3a672405096298f4ca20568aada7d63aa69399308acce3c3abfbf05781e44e8e9bd037d5e725a2939b12c56eba95553820cf19948fce2b99438cbfcffdc52d67e04b739b1570da4265df4f7c4c3862a954d6295d6141ef1d0f9ca711a3d7d3421756f3575908d1aa2a3f1e9cd796231fed9b3943bb554f6ea61bf51773d11508c71855148384450eafc3d956819ebd13550ec516cb4e7737be512b75aacd1ba6025cad376cb1f4537fd5b117d394bdbb1a564d327c5109407d370e44116a5866066e1cf468eb3419470ce57ff2bf06986b1d3d8b0d38a85bbdc36ff38ebed69af901232d8c1e97ca21055bdaaf0dbfbbcaf228f5b637b26548ac1afc1e62c8fab283b1a19e2ed04447b6e06ffc8da56b3eefb2312c7b423878f5c2b6e0bd1e1e5f1cbd9fad4f3907855afd69723912c811645e3a9a9ec312a7511d6c74391248772f748b47e8460665176dd32d633ab104662e133153d7fab29107ac6621b2fdda30a67f7ae35c3e36277c1d338bc52a702d5e5a51a0ae65d082c1d84572f0130524162ce4af0e58059c8f5639c1055e9578568a4d40870ccd100da43e2b0a58aff9d0f61eb2f633fe113b5d2123e2dd1134ce607cdba5ed0276cc760a7a18d8099c119c9f5ca7b5627da47932a3a6bdfc71ac774a2a1256f533ee917f03a965c0a8d806598a1d3076754e9497367aff72d7e7b750a8fe0dfda19a70ec85f50bdf80a1d7957cd244a7c3b15799ac8c9c531615a4ae8ff3cd01d6bf7132bb9684738589484170129ef1d1170c09c81bf0da2a0c644a1aa16de6f9c2885750bf2526a5e8ff30e374c9"
             }
         },
-
-                {
+        {
             "name": "幕悦🐶",
             "key": "NewNoxMy",
             "type": 3,
             "api": "csp_NewNoxAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -338,41 +337,38 @@
                 "data": "a211288565eb2ea7fcb9caa81e70fa9b13ee58fa569055a61c76ec776a59bf4da5eb5012bb3792daab61de3834237a47b5cbc7d8c53c6a7ffe4133a5d056b92d98184dac50482fffd4786edb170247b6bcab8a30027288b42c2724d3956c7a79060e03ba90fea4b59282a9594b12b925d8689c882f8b2dbf92920954a9e78ee41cb622e3d8dc0d78ee2176eb2ed393aabc79d6bec0a4acb54486cf1e217b98c42317abf710a09c7cf093dfde2d7b50e67a9dcfe6560859e80a16d3de25791026d86864f3f8c7757ff0a9e2d1fd85b36d2e47456aba7db8dbdb528d0089cee5a31ca43805bbcd152e5064dc763433a2154f6c66e5e0bd1698c322fe1f5bf0a4bd84c80732ac1fa75bff11cb28c434fa0d57ac0214190881a432df3935ec05f71ddf82875e71811d68e6b3c8a8fe0771e102f4707dd4660a2070059d866763b053e7dbc78ec786bd737e0d150a711b9f44d5626ea5881e59beec6304cc6f2118e88282e13fa21767e164178d902fd905b61a36a6e168f91c1e358511e2f8bdcc1a7585c7f63ee34ef0faf9a0892dc1cbda4b9cc1304c48899c993aa411e9d575f99a52ab49e1afeef54cf4425ca947fffb529ed9b8d68423e95a7cd4a8d8aebe2568cdb73fcc4cbf3b46ac12fc18f2345f8fa06a437351e96b3895f107b33d22d1a981bfa9be47d7e2ec2186c687d40b7006be78db8dfc74499d9a319d45d09baa04d6197c7a8b2df93247cdeed03cba6576dd67e5a867a8038f98e9876dc9c5e40406138c6fa98ed4bb33c60e89347a77e6f172252ceb743f309fe70919f2ce8a8b3ab4f938d125f75a5e7b75c29e2509a50b85e0fe45dfbadae8d0a6964e1730a6f198c80f6a3821683dc4f840b89e5c6de7d8a048e07c7f8e0a9d36842c42fe5a563b5b7331480eb533d43662c95bb06c2deed74f622809ef99893e34cb93a424577dcb7593333ff663d4d6d57c2849975a25d52d7b4230a6d1a1374ad8ad1d9fb0827002c83db13ab79808f93530c1c15835835f4a2929b673847e82fec4ba846224dd05226261de4863e33883a535b8bbe897d744d1e26c9dd9c8d5942d696e95a9e140f8c4fa8aba2845fb4fa79b619dd10efb1fdfba922a94d07fa10c46779f4f822de9569ecb32e69177b9c47c9e3abe670c3a7ae73add7905bb65b855ad0b1bd2975cb183a12b262d729bb37d48e6a247831ca7cdcbc2396562c9dd3c9600e3d9b735f0ab8c1ac5191b69e0fb0a95115ca18754c6c1e08838ac5f2fd644ec18148336b70d97aa8a38193a47a6bc0b05dce835728793aa42223468c1daccf82815a31729deb9833115da2cea34001ebc56e1e52cf90bbed2566179789f03068de097f6cc551d3ebe398a0c776916ae1204030a810ce58bef499bf48e44f5298e682afbc462c8"
             }
         },
-
         {
-            "name": "心动🐶",
-            "key": "NewNoxXind",
-            "type": 3,
-            "api": "csp_NewNoxAmns",
-            "playerType": 1,
-            "changeable": 0,
-            "jar": "../jar/0414aowu.png;md5;628e0b27d6ce0e20cb343cd527c81de8",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "timeout": 90,
-            "ext": {
-                "name": "",
-                "password": "",
-                "data": "cfa8288565eb2ea7fcb9caa81e70fad5b9a3d2683cb1b4c363adf0d13791fbb5e4f36ac53f836517c542c5805d824b36486c3e33429813169dc0f731425a072000d4a9af7ea30c7e406efc2f6c9195746f1ded475438da22c058bee936ebb4ed0bc6ba118ba6d632f8c98fc70dfaecfb4277dc46d9d49b94eb09b506332332619e318eaf887e21b61c8e9138b437e22c45648c5891f53da1e48a51fd27cb0b086786a1611ad9b3caf901ada1f8a576519f2824f5ded4a395a3034d9c852c90ca53f688184bc0cb420db6c2d8bfd565f1c240731b03b27eb1f49139759276b03d80b810f4e6b7ee85f3e1a8cfc7bc841cfdb9e89f27d3eb3b1efeb051098aeb45a599073af485e33d88a2ea87f5d503409f30168c27fbfcf33a07ed41d36cc8422d6fbe01098a6d71d8086b85e5778252e7c11f641cda53e632a7b24f79898554ef1bb5f10668d0047d6d746bd21ec90adf8a192abcaf5476c688718ddfc44500d58a0994cfbec4929370741b2b533f4f6dd529ad08405f5e4d94ef5f4928702108f6e05931f3a47d162636dd2d23e29383a2b0411b8033d9f11b151a7bd3f36398421b4a4b30c87a8880611b09d04b5ec7a8c8b67633802aeef14a84b7d73b8f9b82d1d60732f27b9e2ae499055257d64b0c9d36fa1589a4849a67a3f8dd8b72309f7753ebad36d9398f3f13f39deb43bf4b8bf65662d042ff53fb490140f7632097379b1df2c6ea14c4576252107957a77bdefe88660870e6c1478ab5f75c468dd86f739a36409e7375365d992e2a21ded081860fe2863a781f2dbb28e1e4436dfdd8b856823dd7a32bf69f95fc966c98e82aab4012e78501168bc60dda8d0c7dadba6f92ac465e257d44fcde64b2abece3b89ff71fd95a0fee326d4288d30c6d07134af3d7d3dca9c90fc4a54579c1339f219525cb9b9c33bf4a24e24d31b9bc8bf1af08a28efa222716dc1dba2e211036fc8197d493c2c9e24244c3b4f6437f1d33f5ee2582c2317df6ef00208a5c0f24ceb6866cd8da63e540d2c776524ee551b5ef38c383fc628d094a431029b722773c83e5bd2659adb300ea400017062fbf0aec7089755f175c8b48b9bfac450d44ad5f79e104988182c98ec78ec5ec328d71132b5b77b7cc523d4563d11bc01194e7277489cd6a764de5e760a13cd909968170fabd361135b592202253b98b19f4e8717253179021af4212a9ed04481f76d4f0662b98fc5a14eb71a49525b1b45bf3d97df1de425d8cb979dafe24012fafe0b1a65f7ff7443484e836b10c1e6f2f5e7242aa74d921e7481a7b29b8d3f971fc9f75e9dcfa841a9bf87e3182bc2cbdc0168b0c7167384fdd08799ba5e5dc12f55fa1770280bb9be75f1180635fa7235e2ac2fed494a93b569a0780c3744e465b1a41"
-            }
-        },
-                {
-            "name": "小豆🐶",
+            "name": "💞心动|秒播",
             "key": "NewNoxXd",
             "type": 3,
-            "api": "csp_NewNoxAmns",
-            "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+             "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "api": "csp_XdNoxAmns",
+            "playerType": 2,
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "timeout": 90,
             "ext": {
                 "name": "",
                 "password": "",
-                "data": "69d3288565eb2ea7fcb9caa81e70fad5b9a3d2f80878a2056de77ad5ff9d2b3f96d2577a6c0337ef0444c53684e65e78901253fc40b2a4fb0c44dd2842b22eff1cbca2b1f047c16c30cd69dd5f6250966b155c5259e80c2f452c86683aeb5dae2c6c4c0d0b7a504e65ede82724dbb3da79753dfa6e81e50b4667d4e9afafdbdd31e751b24d60f01ba63ba35961917def921925aaf555bf3588c24fc205f1cc52e5311e636232c2fafb620c6c3a03806c1edeaf47c3fe4e5e153e5eba80563787796786ae96bc4e0e6f4d13b4983e82845baee0e9182062cf4104bd59c976a8f5422c1ed4cdd4eb5d47448bdec5260a5885c0414afb954bf60c7ecc7602cad51a6f4ddb8ef5cf8b8aa941eb8f3de9cc1ab7bb003cdc9423cf191e659b270bb9b58cf842ba60c923b1c258f54fa9ad3cb9220da3177163f89b692dce763c6b1a20e059c3e8de5617884bdc617d22f3b455ef0b0d0caba514708692e1b7ae2f0a40af63fc99ad1fc7a2fc295efa5ef864a9dac2470259705a968b28ccd03d69728f739f099247904d6ea6092565b2a72491cb721e4c99063ff16cb5da7e5a70d88a13168dde2d73102638fdc88075e91c76ee8951ea50a86419ff81c7488ba65cb0fc5933ad388b539611263edd5de8a665661d83f8b657b725a8117d5b613942281ea6c0d67d292a37764f651b61595f700e8c89704a1251e6728d377de2dd8342bdc1c1cef5bdae7b2ead9a78a26fc2aa528cf1ef7e1129174d045d02fbc77d1f5f66065403488782d3fa203b84c4d3b20c3e0ec2a79f6319dd0005846f410fa0ead92f23fcdf3de792b242bc7ea3bc9db3ab088aad25e24bc5f858ea00a286f42ab562fda0bf446eced2795b5b28e03d88102d2dac756a1fc7382e3dcc5e8f6cd69871c3bf8f0b30409cb139b2f72671fe6bf49125215a963b85c938442000300e269ee006f20c70a85b2b2b843e32dfb90b353dea37ba5d5d766c0b113a22d91b2e267d224321010f9449e446d0ab55e7791604e18fc594a38b61f3368bf393334db379bca76e3f70671cf498a614b052acfa0743c0dd1a8f20e6211a727a79eeb9028adf6468a92c77ce36824e59b6fae318fae0efb49bf3291652e125f0539d52fdc9cd749a82a9c3a7976fc90d3888207c5d6169f0352e55b3412b33c88a419cb109937e3839c0221ed2cfee2449ff5913c48726928471afc8f06611212950c6d9189b8463afa4abc850f9c59314972236bb16da3d29b0bbd0bed816f9c3718f31433b7160c981483d955f101f8601ee80b088dc1da0345f854e9b26e26b40341e849d96452e06ce9f304cb82c3f205dfb3962d95d06afab8ae0ae87f54b175ef3bfa835aaedd2f018c43569a26d461c83feaea70ed859dc4f622a31307976a53a2baa157931f0115b"
+                "data": "5e4128858d5cb13bbeeb78e30e5a27f95c3ce61f7be9b4cd913aaca700a284c403ae3a55a38de53d0884a99f97ce437e3e0575d3855e6fe9d4187355c364282f3677dcce054027e1a2619e703aabe6d3d170ec0fc94e37194724a6e73661a89531bd2afb40f2f67588e0e01fc3465766be236e0ba147cf32d0faaa294ce0960c5d26e66f823ef8e35a44f50fd1fce4f5023e7ee3c00429473fdd89388cb6dc54f591a719d3548fdc0b4eebc99df6f6fb022686fecebcbeeb7ce5c846e3c543ce39678ce00eca33e192b21212cb86d3c4f111c3c6f715ff2bc07a740b01482f87b349ad819fec2ee942d6ff59c95609ce9320a6e7d04c8f24669dc1668a14795f7dc5d7c0af9d0d187fa7eac7e7d71ba84c2cb63f0412c12a9e785474da2ebaa5144e634d53206239503e46c2e7c5e5d3c9321c2c5ac87d8f538ec91051b2c6e4d28aafd955e07cdfe91b055a494a2fc9099679a3982ca2ed62a580a80062a003972afea9882eba2d200d2d4b538805aeda588d10c104bfad2ccff7a7f61fef0bc51ad51e9b34e0258028c41079b1749939d5af7f0442b72b98e0480a9956693fb843850841280a06c5c0b991c5846367569ea93f64313adf53cee9815d8243567f6d16b4b077920ad5bae2772ae1e45b15ae92c897ac4e08dff8e8df5dc8bb45b773d4967f094176fe795c1c69013f01cd081ba23e99bd25582ecec85d0861cf4ba498166b13cfc28160060403006fe7b2618438040027af7cad9a8e8d1cc9aae469cc0691cc1b309ec887d827f9a40db79b29c3777be0453707ad29549a9d1c37fdcabed8348a3a708d6ffd80e67c9743a66a3b9c1e2719ad63fecf85b6aefd6a3df48157a21ee8daa838e32ee30cd871a5b2571108912a187efca720a31ec8c9e23aed862c9afa348dc7ae4e98636feeebd876aa65b265deaa0a9c8dee1eded9a0aac78f7c7a07b7ab1a24baaf4ec851347653114ad932309f390b099825e92a1d65058bfee6f51c8e77b3b02fe80545747403631941a0723dbe19730319903b6db4cf8d0ea92de0710e4ac17492f4c202dd988d8c3b41f593efc76d5957086f9dd9c8f5754248354dd35e2161faebbcc12fed06625a40d708b301eb7da81b15f48a783a5bb1a34ab6b8894f802b5797800f2a24f1b68399e8d2e6706b0236482cb6f770f3debc4a46bb4989e48eeaea135b4c6381f39dc100c586c5ee7699916886be0eeaf4cbd928ee48d1cceb847b7dd4766a1a79ef925a0b8b175117c009065d0a131af8fbe2d9071c52205a1e07a6121c1be22da9943ace0e92267f3f20bcd7a630e3ec5bc51064b4a06f2879c79b19dc384be264de883955b4efbca5f1b167f3c674c86a1e26142aeadf23915b94e92f5ca00416f59ba7e7e82572df71e548b286"
+            }
+        },
+        {
+            "name": "🫘小豆|秒播",
+            "key": "NewNoxXd",
+            "type": 3,
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "api": "csp_NewNoxAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "name": "",
+                "password": "",
+                "data": "fd43288565eb2ea7fcb9caa81e70fad5b9a3d2f80878a2056de77ad5ff9d2b3f96d2577a848463216e7dd4be901e9104f5b92af57e791098ebe91a6a026a92ec1cb602eca8f58c0adfaa1af23ee3ac056757f36f4aa00e46ff81176adcc40b164d1cf5df6d2b22910ba40014a397dd123797b9a98e04d9a254a47a5dd9ee3c59c702955e83f4d66c3857cb189b0e51981b5413bcd844c9c26bedb0797aa36cf7129601921d4a87cc7b3736f5eebdae23601515a200f2169643b6624b79511f60fe61d6e070e934f71a64a441d3b664ef7c3fa699c5b404901be688c8efd5c30adf724482d53e2a29380dd518d31ce943cd60f40763c1c50a47c48970941e3ff74a8417244c10e13da0e18ab0181067e10ab48858e1ad6e77365563fd46d8535edd727c0bbb95bd8dfbb1925043f814706e85979e47cad30237e75a6cec878d02d7d0f90f211b41160dbed27e827c18987bc56103e15f577ede502df5a847e77b169471751272e0631e3e5cecdeccd39a691fedaf7ee38482815a45f278b9f4b30ace1f84af9ffb4d7d4f8d1ee3257257754d4b84d7ac74b73225e427fc8d3b3f5676c426941ce7cd132e2ef566b9c64c950ae59fcd5499ea82485b7a1c705888639f9f68a43f12b0222556ba78198134461c35758a7668110f14add975a9e65dddf2d03e12cac5dccb20a6596b0107485d0e6d05e365c04a7d8db117cbc495544d9427b55820c2545754e3f7e87dc8340066a4df058a15e0623fceb6d6d4dd428d42db70aa254a2026f73aadd80c39b1ecab726bccac46386085c96eec452f37e89b0942217bd862b6197ddb5f40b9cbf123c406e365824cddd08970f2a74638383da627faedbeab52ac48b2a8ff6e07ef138da898c4dd4a2d8d3f3bdc2488540594311531d14df6a2c3797dc4cc3bd7112c860e8be64cbe74d56743f39d9bf2fc81796d72410f06af7b943672dbbd5585daafe118a0a48d81a0ca16aba5c4e2ea99a9b94038e88d4b8ed9ee864c77e74474541ab1af3c37ee91ff1fc916c1ba8c18fb3924cb93c47bdfd7fe4e92b363360ff54169299abab4e3f081977628613e8df77fec1537ef3275747b3aab769fdb602423ac7f38b9a2b34a92df9415e8dcea383544c24d8643fc28b57849a7057567ec4fd1843b6fe8113355d15c07b662174314819ccd7a4e56658d4f4a49109dc8e121ba35c88ce161a60ff135f25b0f4c1532ca7eca5cc750ab5941bb2e0927ef096bd204c9829be998b0fded6d6f166e2c25ac9f6d876bdd92785a93142080c257ad5dc056d1f90a1c4c2108010fdfd81f2b2c90456626cf2f3d19e27580d38071e3f65d9774a7c33f756aa13b717765bc1e5af8d43a10754402ebad8ce2c45aab815f2832a134172bd3a7f55ee83cdfef7f8afea4c5994a95"
             }
         },
         {
@@ -381,7 +377,7 @@
             "type": 3,
             "api": "csp_NewNoxAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -394,21 +390,54 @@
             }
         },
         {
-            "name": "片喵🐶",
+            "name": "🐱片喵|秒播",
             "key": "NewNoxPm",
             "type": 3,
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "api": "csp_NewNoxAmns",
-            "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "playerType": 2,
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 0,
-             "timeout": 90,
             "ext": {
                 "name": "",
                 "password": "",
-                "data": "746a288565eb2ea7fcb9caa81e70fa9b13ee4a648c74e053af598da6a6d7dd947be5a0a70e007fe1c45a7b635a9a3b593f4d4d6caccfd5c433afd25ea31df7b5526eb65f2333da7a46c46feb8f5e77c8398f4032e1b5a60aaf638c8f1761a09d6a1dc53e84967db81cbec73e71417f1747c4374db1d74bf6e21125edcfac569913a6d29e171281f36bdd0fb4c08c1df02ad44f051b624089eb09fc5f14da83f483620d3c9c05c04a3d5fed0901204a766e25ae49a95fd9e4ac819786fded542e207f44d28d566787417ec6b8be17f92bf8092d7dac6f2099632d86b800b234d731b7d0debf6fc8fa24cdd718e317e1bd8c9a992894e444c6d9d8cff080e68e4a4f84e1599b96dd9a7bbfaab9302948ee42147df3c6bc16b82af56893ff75100e37c5f75fc35edf14ad191b5c213b3a2730072d6d4450899aeb197de3c04e099841f6026c62f1ae65fe296e2d0cc2733778d5e9275ca854108fbafa6f4c38927a0ea6f2bf206170ef3a5f5db41038d8e25a3c1e4c830641704e7cd418431077b70a8e71d5b7df257998582595dfdcc57abe532d832d09197ea8616ccbbfeda47b50442b25222b604ffff36af3f85faf8da3ab321d33c3b393abdb795b0b00d15c25f7087282466f372615ad898d6e9afcb463fec7f54de73d305fbb79621961bf24af82f8b637f8a512aee2c12d89f5452ddf17d4ad1d27ef2cadd29697bc5cfe7255a3d12d191748ad13f5af40b8e6fdc46876bb0822487e708d2fa50072905c5506853022e314e6fa6134cb2d73ca12078cb10f0bf2849c63651e32e4f79cc4691d259587048f6af6f148624ab8ee2328c7776b1202f18b7be5b0b98644c9ea8482c9e0c864d0fa02167303912e6249b5497db3f875c802f7b10acab7ad5ede032e8c60dcfebc456f7d8c58415a3919c578540ae10d89dc13e6e0f990aea655f7b112a4ae0797c4a9e900acb857c784fb090d9ce557df6a804ae3597b81f3ed9442e3e930cbbb0b574e7535acdf9df43a17a589b77faae31a1ebd312c49098641ae025a01da3359b5792e33147868a12c27246542e074795e24eed7fd47b7b5fca342b228f3dcaa1c9c2fd54d407fbff43954422b6b6ab16a55b35f9bb6fe531fccc9585972c2bcdc90d13e9cf4f48bc11295261aeacc043ff5c89037998532c8708c5611a22499519617545908214985b0d2ae3809c942557e8c58819495f4f271bc81551899f4e243ebbf002a7867b023c4580b9abdc3691d4dfade1e71af641f8b783a89fdd36357db2004dae3c39152350d71c1c3ba7af7e0377c0111e0a2338ca640d2132e783df671426808c8792f661301486fff7285af196b134160d0fac268bc4f5f3e28a5201dfb37b0c5716d0ea456927d4fc5f8f2419b46d16246c6"
+                "data": "238628858d5cb13bbeeb78e30e5a27f95c3ce61f7be9b4cd913aaca700a284c403ae3a55a38de53d0884a99f97ce437e3e0575d3855e6fe9d4187355c364282f3677dcce054027e1a2619e703aabe6d3d170ec0fc94e37194724a6e73661a89531bd2afb08381048cd182debfe0d09d0a303c358813ea2f55c260414093028d9198e6f1be37560b90c361e4449985b363097a7b7b84727096dd5df20ec8d3589abd94f5ac9d415ae1c2c94085be834e93cbf5acc3d13b9e3ca5805544b08a95b177e9ed0ef678a24a033a41903b234d7bb51633562536fdfbb618c4ef37de013cda0581ab135604787c8cf46018a852cf8d97f95c7c4cdcaa319a53f341399fa821a6ddb875cff9b1906636b54d0a53578958196971e11d8a9b3627b2a2b9ac411eef2f9e8a52e57353d9e2ea4e7547e66efbac71748bfc5118c6f93c7e45c165f96ff2fd4942df9eae138ab66196fbf847a16840df29694730525cdcd9e656f10f65054117a38bfdcf852f206900de682023d65da54790947de6febdeb41ee03ae59ade854e078053145dd23dd3130027a70a04dbf434b132f56233eaf5f40595127dd34528509e69e558242cf1cec2d15073f32e3b4240bfe998781c2268b782c0b7910552f7ab6c478d30ca4cef8b1956db865de82c176da522bdd6ace6bba2e3cafea6ddab95eb419366faa506101de46873c47440f074558da69626225fcfa87a0d136052c051bca001ebdd8384ab13b35f094aef7b16ec22e3683372818b5a3bd5854c016eded2af7772e9968ccb28aecf0ddacbcad17a4c2a6403d12aa02ba6918f5409a8a40bf5af60e9f67b1886d7d83f33d2ec54a48a58633b58e80acc91961f3a9254058cc17624319ad2cb70544c79bb06be9c08cdc0f50d6181ab5395c807304016a793899007401f50fd4bc3a678e364b76cf788685aa076cfbb9319ec5ef2c43a20274caa06da8dcacb9099a67839e2933325b6412981eb1b7faf2a958d9c45d0999a59fae6dd9d0435dfafc1ff1f290967ad42fa66f156b03ca5baff3e4b8fca49bcba698a9c0d20cecaf7ff2efb9e345066f471a495b31b7d454ba22089f3b34c3e44f20602ef437797a1a1a857b16b209fff1f9bfea43b16fcca764ad8cd84316d444a4112f72d262f262332012fbf34bd6893179aabd36b0fb3670cca9becec4bc3a83e6142f85a666ed5eda50e26ae514ddc5ffa6e01d7a822c5cdc4db65b6637d037b5a2f76f6798d002b9b0c58c8e8903794a6ae7d86ba5faa10517750dd70d47e8a968decba0b1d7c5aa816cf6925ebf79e1e71e7a2f399ff8e3e52fefa295e0252383701c718bc81475ba77a56349e177b82e503c67bac99579a030e45fc20e55618e9b36cffc2881d704a00276f4c4ab92702f81aa4"
+            }
+        },
+                {
+            "name": "🦀螃蟹|秒播",
+            "key": "NewNoxPx",
+            "type": 3,
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "api": "csp_NewNoxAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "name": "",
+                "password": "",
+                "data": "b808288565eb2ea7fcb9caa81e70fad5b9a3d2b826997b51ddc06f0b1bdad3b4ea83f1b98e94ad4d059ce791c5b6e69373ad6afbd65e4f7ede78f4f73e1b892a1ec66f9ddf8e3d01875025a53e13cfba926264f38ec675f71aaeda86adade6cdeb9b19ecc0e6fc2ba03bbcd185e6a68b135ecbe6d6ec0c289828546a3a33e29be1895fca8ddc2da91a4e9308a11da11317e6a87902fa046e78df1fac96fe2609d72296260440173898f2d20e312ba8a56c0d33930ddacbca634555ea08f23e49152c8eae40022939702fae59f17d20d9238f0954e9655846ff737e63a4bf5c105f8ef90f396b3a0fcd48cbd0edf52e711ede8778da266ac1d910755b61b19e6c9eea080c5b480976d0c8077c3af9c65a37cf49fc68e1de12b5db29855fb00e58a5617e2bc4e48442cd12353df47d20099da8c8b6080ad94425d53fed86c65bde716f4c6ad27c4088131e7b138b4c7ff9345d9378ea9fa39bbbd13965b285bd535776c63ea275d8428710955021810b503767aed145aaa60527ed40848fdc53ae640f75c51d48993a9e3aa6e76649bf559dc09120f42f1a8e012e7ed55dda339939ddcfd09fd695f4eaf972edb09d95c27987f94f7103a195cb10b551d35e31e14afc1802eb971d560fced9c6cd163909afebb0cf45c8adf3224d4bb2a627eacba1e3e2bf3e0b29470f6cb4e93e390020907a86c667cba5a564058d48c3bc5c3610dcf74f8bfc2e9779a562e316fadc32a6c1af89dd04d96cf0d341c4cdac1e488522d61841821d9e937a1c3ca46f30f73a257e3d5200a70b4d3c8678fac5bb2d364f45fc5082a3fb52b49856c9a476a7e4299eb058d21578b0abfaeff04d5f76460663535bc8cda26c2d762bcad4fb3b4874b65fd95cffdd1314f501631bf19b83c8a74969a3ecfb24af4244e3272279f023be1903c22b2166450b125150691fbf194d3ae42fd8d261b75a0a01f2866a2ecf3ff50e8a5d5635af022a348b23214e6c1ce4f8f71446afa1aa796c19e905df104daa906e420e37379ea6e8a51ede9160cc06737108ae24059bc6e55d6fa1d2e0d8787cfb3c198f48eb393c31985217d4b70759e2c6da33d7d9cec5fcaed3f183419aed2d98ac7c1d03fa36bb26f7f411ad57b3bfdc84a1eb60f36e311a2620e5009a47aa74873b57d3d80720c23c109ed9ceafcd4d0095b0487a42b0ccecd4d091462bd923a9eabbf02f141a6fa9029c87f6501a2741d5e0f0906731afa52424864ff9c5f3e3aa608c58a98c9dfcfa21c3261431af4d181dcdd1e0752166b6c03f0dfbe5f4e4cbe80153a9afdee2fb716c6372897cef32d4dfc6cdb4ae32e0219670b2bc530e6ebdcaf6cf6cb8229821fb8f4fc05be94b8c316decfff665b6b36a6baae79c527fefda40f3bf66bff4a122ed6651ff85"
+            }
+        },
+                {
+            "name": "🛫爱电影|秒播",
+            "key": "NewNoxAdy",
+            "type": 3,
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "api": "csp_NewNoxAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "name": "",
+                "password": "",
+                "data": "df3928858d5cb13bbeeb78e30e5a27f95c3ce61f7be9b4cd913aaca700a284c403ae3a55a38de53d0884a99f97ce437e3e0575d3855e6fe9d4187355c364282f3677dcce054027e1a2619e703aabe6d3d170ec0fc94e37194724a6e73661a89531bd2afbae4fc15abfe302249a2e1a4095423b1363cb9502871a3dc53579f0b51c1c1dd42fc1db7cb88b47f4e0efce4cdd523bdd6fa96e61c618fd3984e4862cd0e0a02124fb5e86a373641d99e62cc9335f539477939d1ccd78f6bf00804de66c05fbd795f69c72fe5b4b72baf5ac05e7b9a291dfdc5d46b57b4c54b9e5cefa723ffcff1e6a881cbf09b50fe99d0528f893590a8b8c955c95d0c7ae88bebe45854203c49d1c1168b83b8e368256814415ee5aea36d1c35a1fb6a2e7a66558bebca19848434a675155cca91989f65656e7c9c1f01ef86447458c091aeb0d41d059fc427a5a5a472e6077e4efb6f524d91b7ca4f9c06ec07486008388d7ec866c867a34dd25d38d4a25151bc2f537b03b6e47533a948e3b1f573c5e6a722bea23a69b09bcfedd0dcea9736cbb083ab84515268ce860a3345737055d4273c11578bee96843919e03a6a2b368235228986aae7364ab3629a20b17b4d2465b08115e872a2c8b173090faaaeb60b550a0fe2b2eb5e2e77031c2da59f48866ba659874c6b04044d156e18b21cd3143ab8595a4249f21a5b827783f8e4aa3619c840d16a551e3c7575a6761567c348de7e72ce992fa7093cf942d3156b6da0e91460fb06a2d4cd4ad8ffbad7abf90a0566a92f21abed076a2053187193c666b9a0e092e06cebfa7e89dbd4d5fcc89704ca8567e00164bfa7ed36bb11ce602249a1ef18b0396b7f1fe4fc16a200fdd0ec9fcd4bc64d757aa4092fd5badf32063f2a77c71b8590df21ef8eca5e4b1f0a9a8fda4f3a4733c1d8134d2e4da8a09225cd275bf3a8f670381343047bd71444a811ed15a9dfae05109209874c06876cd7541e9956ba590e830493999e36136b536c9839463a5024cb9b7f68b6b0705fc767152d0cb70b651c176d0ca51667e5bdb8ced33d07a9c2064d9854cc770b41153f2b6d51b669e3044a2bc9573fdb059e915e9437797a1a1a857b16b209fff1f9bfea43b16fcca764ad8cd84316d444a411809409d4a5392e7351260469ce9df5508d9faaa436bcd3f59a97330953935ac0d4fe01a7c263372c31536ee3be4ef70cbe5a3fc11dbf0f07f22c79330240d7b59f23bb053b3a145d3b3625eb4ea1f73d9ce0a7fee20c2e56df0c3a11bbc6952389a249012b51173b9f39b23cf778b07ca43ce99baef673260d04de0e9a879427098fc4267b4a948c8ee03f7e2c116d247f75348f4e83f64d9eba3b403f5f7b687753f8e588d4681be56e6823af67742f2367f687786a66089c5f2d2a0529227c1"
             }
         },
         {
@@ -417,7 +446,7 @@
             "type": 3,
             "api": "csp_YIysAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -430,7 +459,7 @@
             "type": 3,
             "api": "csp_JPianAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -444,7 +473,7 @@
             "type": 3,
             "api": "csp_RbysAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -458,7 +487,7 @@
             "type": 3,
             "api": "csp_DubkAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -472,12 +501,25 @@
             "type": 3,
             "api": "csp_DdysAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
             "timeout": 90,
             "changeable": 0
+        },
+        {
+            "name": "🍿哔嘀|2K",
+            "key": "Bidys",
+            "type": 3,
+            "api": "csp_BidysAmns",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://www.xlys02.com,https://xl02.com.de"
         },
         {
             "name": "哔嘀🐶2K",
@@ -485,7 +527,7 @@
             "type": 3,
             "api": "csp_BidysAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -493,10 +535,10 @@
             "changeable": 0
         },
         {
-            "name": "🏭厂长|2K",
+            "name": "🐶厂长|2K",
             "key": "Czzy",
             "type": 3,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "api": "csp_CzzyAmns",
             "playerType": 2,
             "searchable": 1,
@@ -508,12 +550,11 @@
                 "filters": ""
             }
         },
-
        {
             "name": "LB🐶2K",
             "key": "Libvio",
             "type": 3,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "api": "csp_LibvioAmns",
             "playerType": 2,
             "searchable": 1,
@@ -525,13 +566,12 @@
                 "filters": ""
             }
         },
-
         {
-            "name": "📀俩BT|2K",
+            "name": "🐶俩BT|2K",
             "key": "Bttwo",
             "type": 3,
             "api": "csp_BttwoAmns",
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "playerType": 2,
             "searchable": 1,
             "filterable": 1,
@@ -549,7 +589,7 @@
             "type": 3,
             "api": "csp_HgggAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;7a47eba7b096a0b6eaa6f97eab653957",
+            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -3552,6 +3592,13 @@
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "aptv直播",
+      "type": 0,
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 2,
+      "ua": "AptvPlayer-UA"     
+    },    
     {
       "name": "直播epg",
       "url": "./live.json",
