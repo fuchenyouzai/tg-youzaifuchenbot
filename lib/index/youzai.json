@@ -20,6 +20,7 @@
         "sp": "Douban"
       }
     },
+    
     {
       "key": "配置中心",
       "name": "⚙️配置设置中心⚙️",
@@ -110,7 +111,7 @@
             "name": "🐶金牌嗷喔",
             "key": "JinPai",
             "type": 3,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "api": "csp_JinPaiAmns",
             "searchable": 1,
             "filterable": 1,
@@ -125,7 +126,7 @@
             "name": "🐶瓜子嗷呜",
             "key": "Guazi",
             "type": 3,
-             "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+             "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "api": "csp_GuaziAmns",
             "searchable": 1,
             "filterable": 1,
@@ -136,7 +137,7 @@
             "ext": {
                 "sites": "",
                 "danmu": 0,
-                "filters": "../ext/json/guazi.json"
+                "filters": "../aowu/json/guazi.json"
             }
         },
      {
@@ -161,7 +162,7 @@
             "type": 3,
             "api": "csp_HxqAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "timeout": 90,
@@ -174,7 +175,7 @@
             "type": 3,
             "api": "csp_NewGrAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -205,7 +206,7 @@
             "type": 3,
             "api": "csp_AppV6Amns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -219,7 +220,7 @@
             "type": 3,
             "api": "csp_AppV6Amns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -233,7 +234,7 @@
             "type": 3,
             "api": "csp_AppV6Amns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -247,7 +248,7 @@
             "type": 3,
             "api": "csp_AppV6Amns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -261,7 +262,7 @@
             "type": 3,
             "api": "csp_AppV6Amns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -275,7 +276,7 @@
             "type": 3,
             "api": "csp_AppV6Amns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -289,7 +290,7 @@
             "type": 3,
             "api": "csp_NewNoxAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -307,7 +308,7 @@
             "type": 3,
             "api": "csp_NewNoxAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -325,7 +326,7 @@
             "type": 3,
             "api": "csp_NewNoxAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -341,7 +342,7 @@
             "name": "💞心动|秒播",
             "key": "NewNoxXd",
             "type": 3,
-             "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+             "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "api": "csp_XdNoxAmns",
             "playerType": 2,
             "searchable": 1,
@@ -358,7 +359,7 @@
             "name": "🫘小豆|秒播",
             "key": "NewNoxXd",
             "type": 3,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "api": "csp_NewNoxAmns",
             "playerType": 2,
             "searchable": 1,
@@ -377,7 +378,7 @@
             "type": 3,
             "api": "csp_NewNoxAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -393,7 +394,7 @@
             "name": "🐱片喵|秒播",
             "key": "NewNoxPm",
             "type": 3,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "api": "csp_NewNoxAmns",
             "playerType": 2,
             "searchable": 1,
@@ -410,7 +411,7 @@
             "name": "🦀螃蟹|秒播",
             "key": "NewNoxPx",
             "type": 3,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "api": "csp_NewNoxAmns",
             "playerType": 2,
             "searchable": 1,
@@ -427,7 +428,7 @@
             "name": "🛫爱电影|秒播",
             "key": "NewNoxAdy",
             "type": 3,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "api": "csp_NewNoxAmns",
             "playerType": 2,
             "searchable": 1,
@@ -446,7 +447,7 @@
             "type": 3,
             "api": "csp_YIysAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -459,7 +460,7 @@
             "type": 3,
             "api": "csp_JPianAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -473,7 +474,7 @@
             "type": 3,
             "api": "csp_RbysAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -487,7 +488,7 @@
             "type": 3,
             "api": "csp_DubkAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -501,7 +502,7 @@
             "type": 3,
             "api": "csp_DdysAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -513,7 +514,7 @@
             "key": "Bidys",
             "type": 3,
             "api": "csp_BidysAmns",
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "playerType": 2,
             "searchable": 1,
             "filterable": 1,
@@ -527,7 +528,7 @@
             "type": 3,
             "api": "csp_BidysAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -538,7 +539,7 @@
             "name": "🐶厂长|2K",
             "key": "Czzy",
             "type": 3,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "api": "csp_CzzyAmns",
             "playerType": 2,
             "searchable": 1,
@@ -554,7 +555,7 @@
             "name": "LB🐶2K",
             "key": "Libvio",
             "type": 3,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "api": "csp_LibvioAmns",
             "playerType": 2,
             "searchable": 1,
@@ -571,7 +572,7 @@
             "key": "Bttwo",
             "type": 3,
             "api": "csp_BttwoAmns",
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "playerType": 2,
             "searchable": 1,
             "filterable": 1,
@@ -589,7 +590,7 @@
             "type": 3,
             "api": "csp_HgggAmns",
             "playerType": 1,
-            "jar": "../jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -1120,23 +1121,9 @@
       },
       "timeout": 120
     },
-        {
-            "key": "凤凰FM",
-            "name": "📻凤凰 听┃FM",
-            "type": 3,
-            "api": "../api/drpy2.min.js",
-            "ext": "../ext/js/凤凰FM.js"
-        },
-        {
-            "key": "蜻蜓FM",
-            "name": "📻蜻蜓 听┃FM",
-            "type": 3,
-            "api": "../api/drpy2.min.js",
-            "ext": "../ext/js/蜻蜓FM.js"
-        },
     {
       "key": "我的夸克",
-      "name": "🗽我的┃夸克",
+      "name": "☁️夸克网盘",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 0,
@@ -1154,7 +1141,7 @@
     },
     {
       "key": "我的UC",
-      "name": "😼我的┃UC",
+      "name": "☁️UC网盘",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 0,
@@ -1172,7 +1159,7 @@
     },
         {
       "key": "csp_AListGuard",
-      "name": "🦋AList",
+      "name": "☁️AList云盘",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -1200,18 +1187,132 @@
       "playerType": 1,
       "timeout": 120
     },
-
     {
-  "key": " 电影天堂资源",
-  "name": "电影天堂(采集)",
-  "type": 1,
-  "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?",
-  "playUrl": "https://vip.dyttzyplay.com/?url=",
-  "quickSearch": 1,
-  "filterable": 1,
-  "searchable": 1,
-  "changeable": 0
- },
+      "key": "我的百度",
+      "name": "☁️百度网盘",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "sp": "MyBaidu"
+      },
+      "timeout": 30
+    },
+    {
+      "key": "我的123",
+      "name": "☁️123网盘",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "sp": "My123"
+      },
+      "timeout": 30
+    },
+    {
+      "key": "我的天逸",
+      "name": "☁️天翼网盘",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "sp": "My189"
+      },
+      "timeout": 30
+    },
+    {
+      "key": "我的115",
+      "name": "☁️115网盘",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "sp": "My115"
+      },
+      "timeout": 30
+    },
+    {
+      "key": "我的阿里",
+      "name": "☁️阿里网盘",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "sp": "MyAli"
+      },
+      "timeout": 30
+    },
+        {
+            "name": "⚙️嗷呜配置中心",
+            "key": "MyConfig",
+            "type": 3,
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "api": "csp_MyConfigAmns",
+            "playerType": 2,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "name": "☁️夸克",
+            "key": "MyQuark",
+            "type": 3,
+            "api": "csp_MyQuarkAmns",
+            "playerType": 2,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "../aowu/json/quark.json"
+        },
+        {
+            "name": "☁️百度",
+            "key": "MyBaidu",
+            "type": 3,
+            "api": "csp_MyBaiduAmns",
+            "playerType": 2,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "../aowu/json/baidu.json"
+        },
     {
       "key": "热播弹幕版",
       "name": "📺热播┃弹幕",
@@ -1327,7 +1428,7 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "ext": {
         "sp": "Btt",
         "danmu": false
@@ -1352,107 +1453,27 @@
       "timeout": 10
     },
     {
-      "key": "我的百度",
-      "name": "☘️我的┃百度",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "MyBaidu"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的123",
-      "name": "🌂我的┃123",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "My123"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的天逸",
-      "name": "🧽我的┃天逸",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "My189"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的115",
-      "name": "🌷我的┃115",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "My115"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的阿里",
-      "name": "🐱我的┃阿里",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "MyAli"
-      },
-      "timeout": 30
-    },
-
-    {
       "key": "电影天堂",
-      "name": "🎞️天堂┃采集",
+      "name": "电影天堂采集",
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "timeout": 10
     },
+    {
+  "key": " 电影天堂资源",
+  "name": "电影天堂(采集)",
+  "type": 1,
+  "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?",
+  "playUrl": "https://vip.dyttzyplay.com/?url=",
+  "quickSearch": 1,
+  "filterable": 1,
+  "searchable": 1,
+  "changeable": 0
+ },    
     {
       "key": "新6V",
       "name": "🧲新6V┃磁力",
@@ -1542,6 +1563,53 @@
       },
       "timeout": 10
     },
+            {
+            "name": "🎸酷狗|音乐",
+            "key": "KuGou",
+            "type": 3,
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "api": "csp_KuGouAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "genre": "music"
+        },
+         {
+            "key": "凤凰FM",
+            "name": "📻凤凰 听┃FM",
+            "type": 3,
+            "api": "../api/drpy2.min.js",
+            "ext": "../ext/js/凤凰FM.js"
+        },
+        {
+            "key": "蜻蜓FM",
+            "name": "📻蜻蜓 听┃FM",
+            "type": 3,
+            "api": "../api/drpy2.min.js",
+            "ext": "../ext/js/蜻蜓FM.js"
+        },
+                {
+            "name": "🎉Bili|合集",
+            "key": "Bili",
+            "type": 3,
+            "jar": "../aowu/jar/aowu.png;md5;0a4698b92a918c05b7c826f572a48d68",
+            "api": "csp_BiliAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "json": "http://mytv6688.xyz/aowu/json/bili.json",
+                "cookie": ""
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
     {
       "key": "bilimd",
       "name": "🅱哔哩┃影视",
