@@ -544,7 +544,7 @@
             "changeable": 0
         },
         {
-            "name": "哔嘀🐶",
+            "name": "哔嘀🐶修罗",
             "key": "Bidys",
             "type": 3,
             "api": "csp_BidysAmns",
@@ -555,19 +555,6 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.xlys02.com,https://xl02.com.de"
-        },
-        {
-            "name": "哔嘀🐶",
-            "key": "Bidys",
-            "type": 3,
-            "api": "csp_BidysAmns",
-            "playerType": 1,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "timeout": 90,
-            "changeable": 0
         },
         {
             "name": "厂长🐶",
