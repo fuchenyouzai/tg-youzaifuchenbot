@@ -4123,7 +4123,6 @@
     {
       "name": "悠哉口米口古直播",
       "type": 0,
-      "jar": "../spider/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
       "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉口米口古直播.m3u",
       "playerType": 1,
       "boot": true,
