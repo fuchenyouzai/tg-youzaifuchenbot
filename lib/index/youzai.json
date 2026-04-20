@@ -1310,7 +1310,7 @@
             "changeable": 0
         },
         {
-            "name": "☁️夸克",
+            "name": "☁️夸克🐶",
             "key": "MyQuark",
             "type": 3,
              "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",           
@@ -1323,7 +1323,7 @@
             "ext": "../aowu/json/quark.json"
         },
         {
-            "name": "☁️百度",
+            "name": "☁️百度🐶",
             "key": "MyBaidu",
             "type": 3,
              "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",           
@@ -1335,7 +1335,7 @@
             "changeable": 0,
             "ext": "../aowu/json/baidu.json"
         },
-    {
+  {
       "key": "热播弹幕版",
       "name": "📺热播┃弹幕",
       "type": 3,
@@ -4123,6 +4123,7 @@
     {
       "name": "悠哉口米口古直播",
       "type": 0,
+      "jar": "../spider/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
       "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉口米口古直播.m3u",
       "playerType": 1,
       "boot": true,
