@@ -1,5 +1,5 @@
 {
-  "spider": "../spider/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+  "spider": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
   "wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
   "logo": "../logo/youzai.png",
   "notice": "🌞悠哉😊2026🙏拂尘悠哉🐯",
@@ -42,6 +42,25 @@
       "changeable": 0,
       "timeout": 60
     },
+        {
+      "key": "hipy_js_88看球[球]",
+      "name": "⚽悠哉🏆看球🏀",
+      "type": 3,
+      "api": "../api/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "playerType": 1,
+     "style":
+      {
+      "type": "list",
+      "ratio": 0.75
+        },
+     "ext": "../ext/js/悠哉88看球.js",
+      "timeout": 120
+    },
+
             {
             "name": "金牌🐶",
             "key": "JinPai",
@@ -75,22 +94,6 @@
                 "filters": "../aowu/json/guazi.json"
             }
         },
-     {
-      "key": "瓜子",
-      "name": "🍉瓜子OK",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "playerType": 1,              
-      "ext": {
-        "sp": "Guazi",
-        "danmu": false
-      },
-      "timeout": 90
-    },
             {
             "name": "韩剧🐶",
             "key": "Hxq",
@@ -909,21 +912,6 @@
       "ext": "../ext/js/爱看机器人[虫].js",
       "timeout": 90
     },
-    {
-      "key": "️爱看Bot弹幕版",
-      "name": "💩爱看机器人OK",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "Ikanbot",
-        "danmu": true
-      },
-      "timeout": 120
-    },
         {
             "key": "csp_Jianpian",
             "name": "vox荐片",
@@ -943,21 +931,6 @@
             }
         },
     {
-      "key": "荐片弹幕版",
-      "name": "💩荐片OK",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "Jianpian",
-        "danmu": true
-      },
-      "timeout": 120
-    },
-    {
       "key": "hipy_js_饭团影视",
       "name": "饭团影视(drpy_t3)",
       "type": 3,
@@ -968,59 +941,6 @@
       "filterable": 1,
       "ext": "../ext/js/饭团影视.js",
       "timeout": 90
-    },
-    {
-      "key": "hipy_js_88看球[球]",
-      "name": "⚽悠哉88看球[球](drpy_t3)",
-      "type": 3,
-      "api": "../api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "playerType": 1,
-     "style":
-      {
-      "type": "list",
-      "ratio": 0.75
-        },
-     "ext": "../ext/js/悠哉88看球.js",
-      "timeout": 120
-    },
-
-    {
-      "key": "88看球",
-      "name": "⚽88┃看球",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-       "playerType": 1,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "Kanqiu"
-      },
-      "timeout": 120
-    },
-    {
-      "key": "瓜子看球",
-      "name": "⚽瓜子┃看球",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "GzSport"
-      },
-      "timeout": 120
     },
         {
       "name": "斑虎腾讯🐯",
@@ -1077,59 +997,6 @@
       "timeout": 90
     },
     {
-      "key": "我的夸克",
-      "name": "☁️夸克网盘",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "MyQuark"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的UC",
-      "name": "☁️UC网盘",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "MyUc"
-      },
-      "timeout": 30
-    },
-        {
-      "key": "csp_AListGuard",
-      "name": "☁️AList云盘",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 120,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "AList",
-        "json": "../ext/json/alist.json"
-      }
-    },
-    {
       "key": "WebDAV",
       "name": "☁️悠哉WebDav",
       "type": 3,
@@ -1141,96 +1008,6 @@
       "ext": "../ext/json/webdav.json",
       "playerType": 1,
       "timeout": 120
-    },
-    {
-      "key": "我的百度",
-      "name": "☁️百度网盘",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "MyBaidu"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的123",
-      "name": "☁️123网盘",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "My123"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的天逸",
-      "name": "☁️天翼网盘",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "My189"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的115",
-      "name": "☁️115网盘",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "My115"
-      },
-      "timeout": 30
-    },
-    {
-      "key": "我的阿里",
-      "name": "☁️阿里网盘",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "MyAli"
-      },
-      "timeout": 30
     },
         {
             "name": "🐶配置中心⚙️",
@@ -1270,145 +1047,6 @@
             "changeable": 0,
             "ext": "../aowu/json/baidu.json"
         },
-  {
-      "key": "热播弹幕版",
-      "name": "📺热播┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "order_num": 3,
-      "ext": {
-        "sp": "TianTian",
-        "danmu": false,
-        "site": 0
-      },
-      "timeout": 10
-    },
-    {
-      "key": "云云弹幕版",
-      "name": "☁️云云┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "YunYun",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "一起弹幕版",
-      "name": "📺一起┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "Yqs",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "奇奇弹幕版",
-      "name": "🐵奇奇┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "QiQi",
-        "danmu": false
-      },
-      "timeout": 10
-    },
-    {
-      "key": "紫金弹幕版",
-      "name": "🍇紫金┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "AppFox",
-        "danmu": true,
-        "siteUrl": "https://www.zjcvod.com"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "独播弹幕版",
-      "name": "👠独播┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "Duboku",
-        "danmu": false
-      },
-      "timeout": 10
-    },
-    {
-      "key": "厂长弹幕版",
-      "name": "📔厂长┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "Czzy",
-        "danmu": false
-      },
-      "timeout": 90
-    },
-    {
-      "key": "csp_Btt",
-      "name": "🌞比特┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "Btt",
-        "danmu": false
-      },
-      "timeout": 10
-    },
-
-    {
-      "key": "韩圈",
-      "name": "🦄韩圈┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "HanXiaoQuan",
-        "danmu": true
-      },
-      "timeout": 10
-    },
     {
       "key": "电影天堂",
       "name": "电影天堂采集",
@@ -1431,95 +1069,6 @@
   "searchable": 1,
   "changeable": 0
  },    
-    {
-      "key": "新6V",
-      "name": "🧲新6V┃磁力",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "Xb6v"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "快手直播",
-      "name": "😎快手┃直播",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "sp": "KsLive"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "虎牙直播",
-      "name": "🐯虎牙┃直播",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "sp": "Huya"
-      },
-      "timeout": 10
-    },
-
-    {
-      "key": "爱听音乐",
-      "name": "🎧爱听┃音乐",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "AiMusic"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "易听音乐",
-      "name": "🎧易听┃音乐",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "ShiJiMusic"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "酷狗音乐",
-      "name": "🐕酷狗┃音乐",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "KuGou"
-      },
-      "timeout": 10
-    },
             {
             "name": "酷狗🐶",
             "key": "KuGou",
@@ -1557,7 +1106,7 @@
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
-            "changeable": 1,
+            "changeable": 0,
             "ext": {
                 "json": "../aowu/json/bili.json",
                 "cookie": ""
@@ -1567,607 +1116,19 @@
                 "ratio": 1.433
             }
         },
-    {
-      "key": "bilimd",
-      "name": "🅱哔哩┃影视",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "sp": "Bilimd"
-      },
-      "timeout": 90
-    },
-    {
-      "key": "bili",
-      "name": "🅱哔哩┃合集",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "sp": "Bili",
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/57EAD2E_773_bili_20251204145747516newMediaFile.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "biliych",
-      "name": "🅱哔哩┃歌曲",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "sp": "Bili",
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/28CD73E_773_biliych_20251204150624308newMediaFile.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "bilixs",
-      "name": "🅱哔哩┃相声",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "sp": "Bili",
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/C7FB4B_773_bilixs_20251204150416832newMediaFile.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "bilixp",
-      "name": "🅱哔哩┃小品",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "sp": "Bili",
-        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/41F4D38_773_bilixp_20251204150443351newMediaFile.bmp"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "二小弹幕",
-      "name": "🦢二小┃4K弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "ErXiao",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "双星",
-      "name": "🤩双星┃4K弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "Star2",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "玩偶弹幕版",
-      "name": "👽玩偶┃4K弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "sp": "Wogg",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "立播弹幕版",
-      "name": "🌟立播┃4K弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "sp": "Libvio",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "蜡笔弹幕",
-      "name": "👠蜡笔┃4K弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Labi",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "木偶弹幕",
-      "name": "🪵木偶┃4K弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Muou",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "多多弹幕",
-      "name": "🪅多多┃4K弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "DuoDuo",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "小飒弹幕",
-      "name": "💒小飒┃4K弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Xsayang",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "至臻弹幕",
-      "name": "💌至臻┃4K弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "ZhiZhen",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "虎斑弹幕",
-      "name": "🐯虎斑┃4K弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "hide": 0,
-      "ext": {
-        "sp": "HuBan",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "SeedHub弹幕",
-      "name": "🍀种子┃4K弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "SeedHub",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "光影弹幕版",
-      "name": "🎥光影┃4K弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "Guanying",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "云集",
-      "name": "🍊云集┃4K弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "YunJi",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "盘他",
-      "name": "🎸盘他┃4K",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Panta"
-      },
-      "timeout": 90
-    },
-    {
-      "key": "海绵",
-      "name": "🧽海绵┃4K",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "HaiMian"
-      },
-      "timeout": 90
-    },
-    {
-      "key": "雷鲸",
-      "name": "🐳雷鲸┃4K",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "LeiJing"
-      },
-      "timeout": 90
-    },
-    {
-      "key": "123社区",
-      "name": "🌂123┃4K",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "Time123"
-      },
-      "timeout": 90
-    },
-    {
-      "key": "csp_QuPanSouGuard",
-      "name": "🤓趣盘┃搜索",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "QuPanSou",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "太极",
-      "name": "☯️太极┃搜索",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "TaiChi",
-        "taichi": 1
-      },
-      "timeout": 90
-    },
-    {
-      "key": "糖果搜",
-      "name": "🍬糖果┃搜索",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "TaiChi",
-        "taichi": 2
-      },
-      "timeout": 90
-    },
-    {
-      "key": "音海",
-      "name": "🎸音海┃搜索",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "YinHai",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "影链",
-      "name": "🎞️影链┃搜索",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "YingLian"
-      },
-      "timeout": 90
-    },
-    {
-      "key": "爱盘",
-      "name": "❤️爱盘┃搜索",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "AiPan",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "云搜",
-      "name": "☁️云搜┃搜索",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "YunPanPan",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "度搜",
-      "name": "🦈度搜┃搜索",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "Bdxd",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "找盘",
-      "name": "🎾找盘┃搜索",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "V2Pan",
-        "danmu": true
-      },
-      "timeout": 90
-    },
-    {
-      "key": "djps",
-      "name": "🔍短剧┃搜索",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "Djps"
-      },
-      "timeout": 90
-    },
-    {
-      "key": "djso",
-      "name": "🔍剧搜┃搜索",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "Djso"
-      },
-      "timeout": 90
-    },
-    {
-      "key": "本地播放",
-      "name": "🐼本地┃播放",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 30,
-      "ext": {
-        "sp": "Local"
-      }
-    },
-         {
-            "key": "商店",
-            "name": "vox测试",
-            "type": 3,
-            "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "../ext/json/market.json"
-        },
-       {
-            "key": "版本信息",
-            "name": "🤖悠哉智能🛍️市场",
-            "type": 3,
-             "jar": "../xs/xsspider.jar",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "ext": "../ext/json/market.json"
-        },
-                {
-            "key": "配置中心啊",
-            "name": "配置｜中心",
-            "type": 3,
-           "jar": "../xs/xsspider.jar",
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-            {
-      "key": "雄鹰弹幕版",
-      "name": "🦅雄鹰┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "playerType": 1,
-      "ext": {
-        "sp": "XiongYing",
-        "danmu": true
-      },
-      "timeout": 90
-    },
         {
-      "key": "hipy_js_黑狐影院",
-      "name": "黑狐影院18(drpy_t3)",
-      "type": 3,
-      "api": "../api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "playerType": 1,
-      "ext": "../ext/js/黑狐影院.js",
-      "timeout": 90
-    },
-            {
-            "key": "耐看影视",
-            "name": "耐看影视",
+            "name": "链接推送播放",
+            "key": "push_agent",
             "type": 3,
-            "api": "../ext/js/耐看.js",
-            "searchable": 1,
-            "quickSearch": 1,
+            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+            "api": "csp_PushAmns",
+            "playerType": 2,
+            "searchable": 0,
+            "filterable": 0,
             "changeable": 0,
-            "timeout": 90
-        },  
-    {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "Push",
-        "danmu": true
-      },
-      "timeout": 90
-    }
-  ],
- 
+            "timeout": 120
+        }
+  ], 
   "doh": [
             {
             "name": "悠哉阿里DNS",
@@ -2254,8 +1215,7 @@
                 "2620:fe::9"
             ]
           }
-         ],
-   
+         ],  
   "headers": [
         {
             "host": "img\\d+.doubanio.com",
@@ -2318,7 +1278,6 @@
             }
         }
     ],
-
   "ijk": [
     {
       "group": "软解码",
@@ -3739,7 +2698,6 @@
     "url": "Parallel"
     }
   ],
-
   "flags": [
     "正片",
     "预告",
@@ -3797,15 +2755,6 @@
     "wasu",
     "renrenmi"
     ],
-
-
-
-  "proxy": [
-    "file://TV/proxy.json"
-   ], 
-
-
-
   "rules": [
      {
       "name": "cl",
@@ -4053,7 +3002,6 @@
       ]
     }
   ],
-
   "lives": [
     {
       "name": "悠哉LN移动内网",
@@ -4115,6 +3063,7 @@
         {
       "name": "悠哉口米口古直播",
       "type": 0,
+      "jar": "../spider/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
       "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉口米口古直播.m3u",
       "playerType": 1,
       "boot": true,
@@ -4124,90 +3073,11 @@
    {
       "name": "MIGU（登录版）",
       "type": 0,
+      "jar": "../spider/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
       "url": "http://127.0.0.:9978/proxy?do=migu&type=m3u8",
       "playerType": 1,
       "timeout": 60
-    },
-    {
-      "name": "直播epg",
-      "url": "./live.json",
-      "epg": "https://epg.example.com/?ch={name},https://epg.example.com/api?id={id},https://epg.example.com/xmltv.xml.gz",
-      "logo": "https://example.com/logo/tvbs.png",
-      "catchup": {
-                "type": "append",
-                "days": "3",
-                "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-                       }
-    },
-    {
-      "name": "悠哉EPG测试",
-      "type": 0,
-      "url": "../lib/测试一.m3u",
-      "playerType": 2,
-      "epg": "egp地址/?ch={name}&date={date}",
-      "logo": "logo地址/logo/{name}.png"
-    },
-   {
-      "name": "直播epg和logo和回放",
-  	"type": 0,
-	  "url": "./lib/悠哉直播.m3u",
-  	"ua": "okhttp/3.15",
-	  "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-	  "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-      "catchup": {
-        "type": "append",
-		"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-   }
-   },
-    {
-      "name": "直播1",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dbingcha1130%26json%3Dtrue",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
-    },
-   {      
-     "name": "直播2", 
-     "type": 0,
-     "playerType": 2,
-     "url":"https://iptv.gstory.cn/Cinetry",
-     "ua": "bingcha/1.1 (mianfeifenxiang)"
-     },
-    {
-      "name": "江苏移动",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/529EAA1_773_jsyd_20251205182514164newMediaFile.bmp",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "信号测试一",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=1.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "信号测试二",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=0.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
-    },
-    {
-      "name": "一起看",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "url": "yqk",
-      "playerType": 2,
-      "ext": {
-        "sp": "Huya"
-      },
-      "timeout": 10
-       }
+    }
   ],
   "ads": [
     "https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/favicon.png",
