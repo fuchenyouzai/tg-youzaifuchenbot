@@ -4154,22 +4154,6 @@
       "playerType": 1,
       "timeout": 60
     },
-        {
-      "name": "悠哉口米口古直播",
-      "type": 0,
-      "url": "../live/悠哉口米口古直播.m3u",
-      "playerType": 1,
-      "boot": true,
-      "timeZone": "Asia",
-      "timeout": 60
-    },
-   {
-      "name": "MIGU（登录版）",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8",
-      "playerType": 1,
-      "timeout": 60
-    },
     {
       "name": "悠哉Youtube",
       "type": 0,
@@ -4184,7 +4168,6 @@
       "url": "../live/网络平台直播.m3u",
       "timeout": 60
     },
-
     {
       "name": "悠哉aptv",
       "type": 0,
@@ -4192,6 +4175,22 @@
       "playerType": 2,
       "ua": "AptvPlayer-UA"     
     },    
+        {
+      "name": "悠哉口米口古直播",
+      "type": 0,
+      "url": "../live/悠哉口米口古直播.m3u",
+      "playerType": 1,
+      "boot": true,
+      "timeZone": "Asia",
+      "timeout": 60
+    },
+   {
+      "name": "MIGU（登录版）",
+      "type": 0,
+      "url": "http://127.0.0.2:9978/proxy?do=migu&type=m3u8",
+      "playerType": 1,
+      "timeout": 60
+    },
     {
       "name": "直播epg",
       "url": "./live.json",
