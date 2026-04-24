@@ -18,20 +18,8 @@
         "name": "悠哉本地包",
         "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/tg-youzaifuchenbot/raw/refs/heads/main/空.zip",
         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "version"
+        "version": "空"
     },
-              {
-                "name": "本地包版本",
-                "url": "",
-                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/tvbox/.版本.png",
-                "version": ""
-            },
-                          {
-                "name": "在线版本",
-                "url": "",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/.%E7%89%88%E6%9C%AC.png",
-                "version": ""
-            },
       {
         "name": "悠哉博客",
         "url": "https://d.kstore.dev/download/6644/悠哉博客谷歌版.apk",
@@ -41,25 +29,6 @@
     }
     ]
   },
-      {
-        "name": "悠哉本地包",
-        "list": [
-            {
-                "name": "悠哉",
-                "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/tg-youzaifuchenbot/raw/refs/heads/main/空.zip",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-                "copy": "",
-                "version": "本地包"
-            },
-            {
-                "name": "说明",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/README.md",
-                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-                "copy": "",
-                "version": "README"
-            }
-        ]
-    },
   {
     "name": "电视TVBOX",
     "list": [
