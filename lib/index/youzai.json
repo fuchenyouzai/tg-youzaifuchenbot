@@ -44,7 +44,7 @@
       "timeout": 60
     },
         {
-            "name": "🐶配置☁️中心⚙️",
+            "name": "🐶网盘设置☁️",
             "key": "MyConfig",
             "type": 3,
             "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
@@ -116,7 +116,7 @@
             }
         },
         {
-            "name": "🥸欧哥|4K",
+            "name": "🤢欧哥|4K",
             "key": "ogWobg",
             "type": 3,
             "api": "csp_WobgAmns",
