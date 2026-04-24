@@ -14,7 +14,7 @@
 	  "ext": "../ext/json/feimaolive.json",
       "changeable": 0,
       "filterable": 1,
-	  "playerType": 2,
+	  "playerType": 1,
        "style":
        {
        "type": "list",
@@ -40,8 +40,96 @@
       "api": "csp_Local",
       "searchable": 0,
       "changeable": 0,
+      "playerType": 2,
       "timeout": 60
     },
+        {
+            "name": "🐶配置☁️中心⚙️",
+            "key": "MyConfig",
+            "type": 3,
+            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+            "api": "csp_MyConfigAmns",
+            "playerType": 2,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+                {
+            "name": "🤪玩偶|4K",
+            "key": "woWogg",
+            "type": 3,
+            "api": "csp_WoggAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "http://woggpan.888484.xyz,http://woggpan.xxooo.cf,http://wogg.xxooo.cf,http://wogg4k.333232.xyz,https://www.wogg.one",
+                "filters": "http://mytv6688.xyz/aowu/json/wogg.json"
+            }
+        },
+        {
+            "name": "😆虎斑|4K",
+            "key": "hbWobg",
+            "type": 3,
+            "api": "csp_WobgAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "http://103.45.162.207:20720",
+                "filters": "http://mytv6688.xyz/aowu/json/wohb.json"
+            }
+        },
+        {
+            "name": "🤠至臻|4K",
+            "key": "zzWobg",
+            "type": 3,
+            "api": "csp_WobgAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "http://www.miqk.cc,https://www.zhizhenpan.fun,https://www.mihdr.top,https://mihdr.top",
+                "filters": "http://mytv6688.xyz/aowu/json/wozz.json"
+            }
+        },
+        {
+            "name": "🤓多多|4K",
+            "key": "ddWobg",
+            "type": 3,
+            "api": "csp_WobgAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "https://tv.yydsys.top,https://tv.yydsys.cc,https://tv.214521.xyz",
+                "filters": "http://mytv6688.xyz/aowu/json/wodd.json"
+            }
+        },
+        {
+            "name": "🥸欧哥|4K",
+            "key": "ogWobg",
+            "type": 3,
+            "api": "csp_WobgAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "https://woog.nxog.eu.org",
+                "filters": "http://mytv6688.xyz/aowu/json/woog.json"
+            }
+        },
    {
       "key": "hipy_js_88看球[球]",
       "name": "⚽悠哉🏆看球🏀",
@@ -60,6 +148,7 @@
      "ext": "../ext/js/悠哉88看球.js",
       "timeout": 120
     },
+   
     {
       "name": "金牌🐶",
       "key": "JinPai",
@@ -394,7 +483,7 @@
                 "data": "e64a288565eb2ea7fcb9caa81e70fad5b9a3d2b826997b51ddc06f0b1bdad3b4ea83f1b98e94ad4d059ce791c5b6e69373a5b2e178239ae412a4d89087d443d0c9a2c256c9feb41ddd9299d625b996b2d450451a216b3021eea3f2510b42c772d650b3d195d65bf63a3d5e6c6ad985dc61772e0dfb05e16500fe50825f40f7339eba5aa258e0567060edc896c77ca843e5193d8d5750519ef1a908349cb46e47ff4bdbd6ad6d7837d6201682472ab8fd328fd11eebcd6bdf61a7a2596b332af1b2938fd61f3aaa4d672d6c05b1dd13a89ada97284252f153252fde46690139dfeb89f917cbdc23410df6085c4be0ae7586d819922739f28389f852bc380387dccb68564269f15eae143eb60949e0f6558d32261da3c7735917ce91c80f22d8b274b708bc78197f27d0323e75e2e574e10a34b60129331aa8daa028fb982462a7f4f188c8271b196e4ef432752adb953cf6f932fbd07458588d602cfd6e49d774c6803f93cf2ca28d431e5b322c5b672f60edea3922d36d3fb8d11184fdedd40c4f4ee55931a1ce4aa573f6f7fead5ce80a3cce8e85469f6a185efbc915c20d30fe594502833e3a87a103e35151a2cec28138247542002f5fddfaa8777ab1dc32e021b691fda50c486595c96e5c181f2038afba891f68da6ce63bde4e73139154b5b922ed9836725925bdd8b6fe3f5ae62adf0f846d135160f00bb507a1bf96743e17a5e1165887d443dc1fcc357198448d62b45fa187cdfc7c95f907eb4f1f58afe1fae72e4127019f4a33eb26e9ec2b98c2a739322b5a5e35752c4d910619a64c2caeb9a8df657f46aedac64d3af2434f664cca2d318204a71315dc8d5c07265ee46ad5ed655a3ebe9309ece86f28f122ad0a5c09380ae8a44bc3feae3d58cef11315a448c0d562686586268c669224c810155c010a898a89aa32d505227239465c5bcaff073117b549239d37f9b65d1f7c64c3e56fe22de0cb0f8267c1934405dcaf4fd1563fffe2810f842f0331b902dc1934e4ddd59ab3c1b1c7dd1c091037e7524aa917579683a20abc48a2b6730e3e144241e0445675f57085fdbd5e8e4bdc71fd262372c15b96f77fcc341a5e37ff90c6c594bb2b785f055c19106f393685a7994718ef7be683a1099956cf9c499c7105ab6fa0bbcce890387c63303908ded75e2ba96cf954a69800133a1846ff09c3b87e837557f7232ccd25932bc7d32a145aab55f1b34c148d67ca5ccaca898171c4c5a4fe3be872fcd7a5ec9cf4ba23b3a9b054daf26346a35e5410f8a4cc13a5e19efe2c9e7a6d2572b2d79b0c4654430a3bd3ce6296b90a6cfa0df16cce101dc455f32d0126ffd8664b48d7ddf1ea49faa67f8023157ebc490b0057681e6e0c5c31abbe630834fc11698b05d8194603f42e93f5d5"
             }
         },
-                {
+        {
             "name": "爱电影🐶",
             "key": "NewNoxAdy",
             "type": 3,
@@ -1008,18 +1097,6 @@
       "timeout": 120
     },
         {
-            "name": "🐶配置中心⚙️",
-            "key": "MyConfig",
-            "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-            "api": "csp_MyConfigAmns",
-            "playerType": 2,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "name": "☁️夸克🐶",
             "key": "MyQuark",
             "type": 3,
@@ -1057,15 +1134,15 @@
       "timeout": 10
     },
     {
-  "key": " 电影天堂资源",
-  "name": "电影天堂(采集)",
-  "type": 1,
-  "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?",
-  "playUrl": "https://vip.dyttzyplay.com/?url=",
-  "quickSearch": 1,
-  "filterable": 1,
-  "searchable": 1,
-  "changeable": 0
+      "key": " 电影天堂资源",
+      "name": "电影天堂(采集)",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?",
+      "playUrl": "https://vip.dyttzyplay.com/?url=",
+     "quickSearch": 1,
+     "filterable": 1,
+     "searchable": 1,
+     "changeable": 0
  },    
             {
             "name": "酷狗🐶",
