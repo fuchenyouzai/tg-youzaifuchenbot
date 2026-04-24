@@ -42,7 +42,7 @@
       "changeable": 0,
       "timeout": 60
     },
-        {
+   {
       "key": "hipy_js_88看球[球]",
       "name": "⚽悠哉🏆看球🏀",
       "type": 3,
@@ -60,39 +60,37 @@
      "ext": "../ext/js/悠哉88看球.js",
       "timeout": 120
     },
-
-            {
-            "name": "金牌🐶",
-            "key": "JinPai",
-            "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-            "api": "csp_JinPaiAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "playerType": 1,     
-            "timeout": 90,
-            "danmu": false
-        },
-
-            {
-            "name": "瓜子🐶",
-            "key": "Guazi",
-            "type": 3,
-             "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-            "api": "csp_GuaziAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "playerType": 1,     
-            "timeout": 90,
-            "ext": {
-                "sites": "",
-                "danmu": 0,
-                "filters": "../aowu/json/guazi.json"
-            }
+    {
+      "name": "金牌🐶",
+      "key": "JinPai",
+      "type": 3,
+      "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+      "api": "csp_JinPaiAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "playerType": 1,     
+      "timeout": 90,
+      "danmu": false
+    },
+    {
+      "name": "瓜子🐶",
+      "key": "Guazi",
+      "type": 3,
+      "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+      "api": "csp_GuaziAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "playerType": 1,     
+      "timeout": 90,
+      "ext": {
+         "sites": "",
+         "danmu": 0,
+         "filters": "../aowu/json/guazi.json"
+        }
         },
             {
             "name": "韩剧🐶",
@@ -1144,21 +1142,21 @@
         "name": "悠哉114大连DNS",
         "url": "",
         "ips": [
-        "114.114.114.114",
-        "211.140.197.58",
-        "2409:8014:2000::1",
-        "114.114.115.115",
-        "211.137.32.178",
-        "2409:8014:2000::2"        
-           ]
+           "114.114.114.114",
+           "211.140.197.58",
+           "2409:8014:2000::1",
+           "114.114.115.115",
+           "211.137.32.178",
+           "2409:8014:2000::2"        
+        ]
        }, 
          {
         "name": "悠哉360DNS",
         "url": "https://doh.360.cn/dns-query",
         "ips": [
-        "101.226.4.6",
-        "218.30.118.6"
-             ]
+          "101.226.4.6",
+          "218.30.118.6"
+              ]
             },             
        {
             "name": "悠哉腾讯DNS",
@@ -1440,7 +1438,6 @@
       ]
     }
   ],
-
   "parses": [
         {
             "name": "虾米",
@@ -1587,7 +1584,6 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
-
    {
       "name": "云析",
       "url": "https://jx.yparse.com/index.php?url=",
@@ -1653,7 +1649,6 @@
         "User-Agent": "Mozilla/5.0"
       }
     },
-
    {
       "name": "8090",
       "type": 0,
@@ -3002,6 +2997,71 @@
       ]
     }
   ],
+  "ads": [
+    "https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/favicon.png",
+     "p-pc-weboff.byteimg.com",
+    "mozai.4gtv.tv",
+    "static-mozai.4gtv.tv",
+    "mimg.0c1q0l.cn",
+    "c.weimobwmc.com",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    "s23.cnzz.com",
+    "z3.cnzz.com",
+    "c.cnzz.com",
+    "stj.v1vo.top",
+    "z12.cnzz.com",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "s9.cnzz.com",
+    "z6.cnzz.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "z5.cnzz.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "z1.cnzz.com",
+    "s13.cnzz.com",
+    "xg.huataisangao.cn",
+    "z7.cnzz.com",
+    "z2.cnzz.com",
+    "s96.cnzz.com",
+    "q11.cnzz.com",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "s19.cnzz.com",
+    "z8.cnzz.com",
+    "s4.cnzz.com",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "pv.vipwm.cc",
+    "cms.qdwght.com",
+    "s3t3d2y8.afcdn.net"
+    ],
   "lives": [
     {
       "name": "悠哉LN移动内网",
@@ -3078,72 +3138,7 @@
       "playerType": 1,
       "timeout": 60
     }
-  ],
-  "ads": [
-    "https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/favicon.png",
-     "p-pc-weboff.byteimg.com",
-    "mozai.4gtv.tv",
-    "static-mozai.4gtv.tv",
-    "mimg.0c1q0l.cn",
-    "c.weimobwmc.com",
-    "www.googletagmanager.com",
-    "www.google-analytics.com",
-    "mc.usihnbcq.cn",
-    "mg.g1mm3d.cn",
-    "mscs.svaeuzh.cn",
-    "cnzz.hhttm.top",
-    "tp.vinuxhome.com",
-    "cnzz.mmstat.com",
-    "www.baihuillq.com",
-    "s23.cnzz.com",
-    "z3.cnzz.com",
-    "c.cnzz.com",
-    "stj.v1vo.top",
-    "z12.cnzz.com",
-    "img.mosflower.cn",
-    "tips.gamevvip.com",
-    "ehwe.yhdtns.com",
-    "xdn.cqqc3.com",
-    "www.jixunkyy.cn",
-    "sp.chemacid.cn",
-    "hm.baidu.com",
-    "s9.cnzz.com",
-    "z6.cnzz.com",
-    "um.cavuc.com",
-    "mav.mavuz.com",
-    "wofwk.aoidf3.com",
-    "z5.cnzz.com",
-    "xc.hubeijieshikj.cn",
-    "tj.tianwenhu.com",
-    "xg.gars57.cn",
-    "k.jinxiuzhilv.com",
-    "cdn.bootcss.com",
-    "ppl.xunzhuo123.com",
-    "xomk.jiangjunmh.top",
-    "img.xunzhuo123.com",
-    "z1.cnzz.com",
-    "s13.cnzz.com",
-    "xg.huataisangao.cn",
-    "z7.cnzz.com",
-    "z2.cnzz.com",
-    "s96.cnzz.com",
-    "q11.cnzz.com",
-    "thy.dacedsfa.cn",
-    "xg.whsbpw.cn",
-    "s19.cnzz.com",
-    "z8.cnzz.com",
-    "s4.cnzz.com",
-    "f5w.as12df.top",
-    "ae01.alicdn.com",
-    "www.92424.cn",
-    "k.wudejia.com",
-    "vivovip.mmszxc.top",
-    "qiu.xixiqiu.com",
-    "cdnjs.hnfenxun.com",
-    "pv.vipwm.cc",
-    "cms.qdwght.com",
-    "s3t3d2y8.afcdn.net"
-    ]
+  ]
 }
 
 
