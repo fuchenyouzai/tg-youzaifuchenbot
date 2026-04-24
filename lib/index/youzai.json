@@ -5,7 +5,6 @@
   "notice": "🌞悠哉😊2026🙏拂尘悠哉🐯",
   "disabled_wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
   "warningText": "../logo/悠哉.txt",  
-
   "sites": [
     {
       "key": "豆瓣",
@@ -19,8 +18,7 @@
       "ext": {
         "sp": "Douban"
       }
-    },
-    
+    },    
     {
       "key": "配置中心",
       "name": "⚙️配置设置中心⚙️",
@@ -4121,18 +4119,9 @@
 
   "lives": [
     {
-      "name": "悠哉口米口古直播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉口米口古直播.m3u",
-      "playerType": 1,
-      "boot": true,
-      "timeZone": "Asia",
-      "timeout": 60
-    },
-    {
       "name": "悠哉LN移动内网",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉LN移动内网.m3u",
+      "url": "../live/悠哉LN移动内网.m3u",
       "playerType": 1,
       "timeZone": "Asia",
       "timeout": 60
@@ -4140,40 +4129,12 @@
     {
       "name": "悠哉口米口古体育",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉口米口古体育.m3u",
+      "url": "../live/悠哉口米口古体育.m3u",
       "playerType": 2,
       "timeout": 60
     },
-   {
-      "name": "MIGU（登录版）",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8",
-      "playerType": 1,
-      "timeout": 60
-    },
     {
-      "name": "MIGU（AI版本）",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://ds65.tv1288.xyz",
-      "playerType": 1,
-      "timeout": 60
-    },
-    {
-      "name": "悠哉Youtube",
-      "type": 0,
-      "playerType": 2,
-      "timeout": 90,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉Youtube.m3u"
-    },
-    {
-      "name": "网络平台直播",
-      "type": 3,
-      "playerType": 2,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/网络平台直播.m3u",
-      "timeout": 60
-    },
-    {
-      "name": "aptv直播源",
+      "name": "悠哉aptv",
       "type": 0,
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
@@ -4186,8 +4147,46 @@
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+        {
+      "name": "MIGU（AI版本）",
+      "type": 0,
+      "url": "https://ds65.tv1288.xyz",
+      "playerType": 1,
+      "timeout": 60
+    },
+        {
+      "name": "悠哉口米口古直播",
+      "type": 0,
+      "url": "../live/悠哉口米口古直播.m3u",
+      "playerType": 1,
+      "boot": true,
+      "timeZone": "Asia",
+      "timeout": 60
+    },
+   {
+      "name": "MIGU（登录版）",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8",
+      "playerType": 1,
+      "timeout": 60
+    },
     {
-      "name": "aptv直播",
+      "name": "悠哉Youtube",
+      "type": 0,
+      "playerType": 2,
+      "timeout": 90,
+      "url": "../live/悠哉Youtube.m3u"
+    },
+    {
+      "name": "网络平台直播",
+      "type": 3,
+      "playerType": 2,
+      "url": "../live/网络平台直播.m3u",
+      "timeout": 60
+    },
+
+    {
+      "name": "悠哉aptv",
       "type": 0,
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2,
