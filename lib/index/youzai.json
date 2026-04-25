@@ -55,7 +55,7 @@
             "quickSearch": 0,
             "changeable": 0
         },
-                {
+        {
             "name": "🤪玩偶|4K",
             "key": "woWogg",
             "type": 3,
@@ -66,7 +66,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "sites": "http://woggpan.888484.xyz,http://woggpan.xxooo.cf,http://wogg.xxooo.cf,http://wogg4k.333232.xyz,https://www.wogg.one",
+                "sites": "http://woggpan.888484.xyz,http://woggpan.xxooo.cf,http://wogg.xxooo.cf,https://www.wogg.net,http://wogg4k.333232.xyz,https://wogg.333232.xyz,https://www.wogg.one",
                 "filters": "http://mytv6688.xyz/aowu/json/wogg.json"
             }
         },
@@ -111,7 +111,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "sites": "http://103.45.162.207:20720",
+                "sites": "http://103.45.162.207:20720,http://xhban.xyz:20720,http://154.222.27.33:2072,http://xsayang.fun:12512",
                 "filters": "http://mytv6688.xyz/aowu/json/wohb.json"
             }
         },
@@ -156,7 +156,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "sites": "https://woog.nxog.eu.org",
+                "sites": "https://woog.nxog.eu.org,https://woog.nxog.fun,https://woog.430520.xyz",
                 "filters": "http://mytv6688.xyz/aowu/json/woog.json"
             }
         },
@@ -558,7 +558,7 @@
             "ext": "../aowu/json/jpian.json"
         },
         {
-            "name": "热播🐶",
+            "name": "热播??",
             "key": "Rbys",
             "type": 3,
             "api": "csp_RbysAmns",
