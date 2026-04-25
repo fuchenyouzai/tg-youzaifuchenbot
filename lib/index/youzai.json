@@ -1137,7 +1137,7 @@
             "filterable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "../aowu/json/quark.json"
+            "ext": "../aowu/json/quark(1).json"
         },
         {
             "name": "☁️百度🐶",
@@ -1150,7 +1150,7 @@
             "filterable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "../aowu/json/baidu.json"
+            "ext": "../aowu/json/baidu(1).json"
         },
     {
       "key": "电影天堂",
