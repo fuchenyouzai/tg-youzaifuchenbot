@@ -70,6 +70,36 @@
                 "filters": "http://mytv6688.xyz/aowu/json/wogg.json"
             }
         },
+                {
+            "name": "😀蜡笔|4K",
+            "key": "lbWobg",
+            "type": 3,
+            "api": "csp_WobgAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "http://xiaocge.fun,http://feimo.fun,http://www.labi88.sbs,http://fmao.site,http://fmao.shop,http://xiaocgege.shop,http://feimao888.fun,https://feimao666.fun",
+                "filters": "http://mytv6688.xyz/aowu/json/wolb.json"
+            }
+        },
+                {
+            "name": "😄二小|4K",
+            "key": "exWobg",
+            "type": 3,
+            "api": "csp_WobgAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "https://www.2xiaopan.top,https://2xiaopan.top,https://www.erxiaozhan.top,https://www.2xiaozhan.top,http://erxiaofn.click,http://2xiaopan.fun,http://erxiaofn.site,https://www.erixaopan.fun,https://wexwp.cc,https://xhww.net",
+                "filters": "http://mytv6688.xyz/aowu/json/woex.json"
+            }
+        },
         {
             "name": "😆虎斑|4K",
             "key": "hbWobg",
