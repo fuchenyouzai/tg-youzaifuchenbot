@@ -639,7 +639,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "sites": "https://www.bttwo.me,https://www.bttwo.org,https://www.bttwoo.com,https://www.bttwo.net",
+                "sites": "https://www.bttwo.org,https://www.bttwo.me,https://www.bttwoo.com,https://www.bttwo.net",
                 "filters": ""
             }
         },
@@ -655,7 +655,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "sites": "https://libvio.run,https://www.libvio.mov,https://www.libvio.la,https://www.libhd.com",
+                "sites": "libvio.run,www.libvio.life,libhd.com,www.libvios.com,libvio.mov,https://www.libvio.mov,https://www.libvio.la,https://libvio.run,https://www.libhd.com",
                 "filters": ""
             }
         },
@@ -3233,7 +3233,6 @@
       "jar": "../spider/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
       "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉口米口古直播.m3u",
       "playerType": 1,
-      "boot": true,
       "timeZone": "Asia",
       "timeout": 60
     },
