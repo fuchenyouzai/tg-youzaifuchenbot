@@ -3189,13 +3189,13 @@
       "name": "悠哉aptv",
       "type": 0,
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 2
+      "playerType": 1
     },
     {
       "name": "口米口古部署源",
       "type": 0,
       "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "playerType": 2,
+      "playerType": 1,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -3224,7 +3224,7 @@
       "name": "悠哉aptv",
       "type": 0,
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 2,
+      "playerType": 1,
       "ua": "AptvPlayer-UA"     
     },    
         {
