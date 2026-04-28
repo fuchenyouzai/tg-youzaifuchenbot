@@ -6,7 +6,21 @@
   "disabled_wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
   "warningText": "../logo/悠哉.txt",  
   "sites": [
-    {
+     {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "🏆影视剧综艺导航🏆",
+      "type": 3,
+      "indexs": 1,
+      "api": "../api/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "../ext/js/腾云驾雾[官].js",
+      "timeout": 180
+    },
+   {
       "key": "直播转点播",
       "name": "📺悠哉😁直播📺",
       "type": 3,
