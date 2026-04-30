@@ -22,7 +22,25 @@
        "ratio": 0.75
         },
       "timeout": 120
-	},	
+	},
+   {
+      "key": "hipy_js_88看球[球]",
+      "name": "⚽悠哉🏆看球🏀",
+      "type": 3,
+      "api": "../api/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "playerType": 1,
+     "style":
+      {
+      "type": "list",
+      "ratio": 0.75
+        },
+     "ext": "../ext/js/悠哉88看球.js",
+      "timeout": 120
+    },   	
 	{
       "key": "應用商店",
       "name": "🏠悠哉应用商店🛍️",
@@ -44,25 +62,6 @@
       "playerType": 2,
       "timeout": 60
     },
-   {
-      "key": "hipy_js_88看球[球]",
-      "name": "⚽悠哉🏆看球🏀",
-      "type": 3,
-      "api": "../api/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "playerType": 1,
-     "style":
-      {
-      "type": "list",
-      "ratio": 0.75
-        },
-     "ext": "../ext/js/悠哉88看球.js",
-      "timeout": 120
-    },
-   
     {
       "name": "金牌🐶",
       "key": "JinPai",
