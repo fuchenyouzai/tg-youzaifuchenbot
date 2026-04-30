@@ -56,111 +56,6 @@
             "quickSearch": 0,
             "changeable": 0
         },
-        {
-            "name": "🤪玩偶|4K",
-            "key": "woWogg",
-            "type": 3,
-            "api": "csp_WoggAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sites": "http://woggpan.888484.xyz,http://woggpan.xxooo.cf,http://wogg.xxooo.cf,https://www.wogg.net,http://wogg4k.333232.xyz,https://wogg.333232.xyz,https://www.wogg.one",
-                "filters": "http://mytv6688.xyz/aowu/json/wogg.json"
-            }
-        },
-         {
-            "name": "😀蜡笔|4K",
-            "key": "lbWobg",
-            "type": 3,
-            "api": "csp_WobgAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sites": "http://xiaocge.fun,http://feimo.fun,http://www.labi88.sbs,http://fmao.site,http://fmao.shop,http://xiaocgege.shop,http://feimao888.fun,https://feimao666.fun",
-                "filters": "http://mytv6688.xyz/aowu/json/wolb.json"
-            }
-        },
-                {
-            "name": "😄二小|4K",
-            "key": "exWobg",
-            "type": 3,
-            "api": "csp_WobgAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sites": "https://www.2xiaopan.top,https://2xiaopan.top,https://www.erxiaozhan.top,https://www.2xiaozhan.top,http://erxiaofn.click,http://2xiaopan.fun,http://erxiaofn.site,https://www.erixaopan.fun,https://wexwp.cc,https://xhww.net",
-                "filters": "http://mytv6688.xyz/aowu/json/woex.json"
-            }
-        },
-        {
-            "name": "😆虎斑|4K",
-            "key": "hbWobg",
-            "type": 3,
-            "api": "csp_WobgAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sites": "http://103.45.162.207:20720,http://xhban.xyz:20720,http://154.222.27.33:2072,http://xsayang.fun:12512",
-                "filters": "http://mytv6688.xyz/aowu/json/wohb.json"
-            }
-        },
-        {
-            "name": "🤠至臻|4K",
-            "key": "zzWobg",
-            "type": 3,
-            "api": "csp_WobgAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sites": "http://www.miqk.cc,https://www.zhizhenpan.fun,https://www.mihdr.top,https://mihdr.top",
-                "filters": "http://mytv6688.xyz/aowu/json/wozz.json"
-            }
-        },
-        {
-            "name": "🤓多多|4K",
-            "key": "ddWobg",
-            "type": 3,
-            "api": "csp_WobgAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sites": "https://tv.yydsys.top,https://tv.yydsys.cc,https://tv.214521.xyz",
-                "filters": "http://mytv6688.xyz/aowu/json/wodd.json"
-            }
-        },
-        {
-            "name": "🤢欧哥|4K",
-            "key": "ogWobg",
-            "type": 3,
-            "api": "csp_WobgAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sites": "https://woog.nxog.eu.org,https://woog.nxog.fun,https://woog.430520.xyz",
-                "filters": "http://mytv6688.xyz/aowu/json/woog.json"
-            }
-        },
    {
       "key": "hipy_js_88看球[球]",
       "name": "⚽悠哉🏆看球🏀",
@@ -1024,6 +919,111 @@
       "playerType": 1,
       "timeout": 120
     },
+            {
+            "name": "🤪玩偶|4K",
+            "key": "woWogg",
+            "type": 3,
+            "api": "csp_WoggAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "http://woggpan.888484.xyz,http://woggpan.xxooo.cf,http://wogg.xxooo.cf,https://www.wogg.net,http://wogg4k.333232.xyz,https://wogg.333232.xyz,https://www.wogg.one",
+                "filters": "http://mytv6688.xyz/aowu/json/wogg.json"
+            }
+        },
+         {
+            "name": "😀蜡笔|4K",
+            "key": "lbWobg",
+            "type": 3,
+            "api": "csp_WobgAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "http://xiaocge.fun,http://feimo.fun,http://www.labi88.sbs,http://fmao.site,http://fmao.shop,http://xiaocgege.shop,http://feimao888.fun,https://feimao666.fun",
+                "filters": "http://mytv6688.xyz/aowu/json/wolb.json"
+            }
+        },
+                {
+            "name": "😄二小|4K",
+            "key": "exWobg",
+            "type": 3,
+            "api": "csp_WobgAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "https://www.2xiaopan.top,https://2xiaopan.top,https://www.erxiaozhan.top,https://www.2xiaozhan.top,http://erxiaofn.click,http://2xiaopan.fun,http://erxiaofn.site,https://www.erixaopan.fun,https://wexwp.cc,https://xhww.net",
+                "filters": "http://mytv6688.xyz/aowu/json/woex.json"
+            }
+        },
+        {
+            "name": "😆虎斑|4K",
+            "key": "hbWobg",
+            "type": 3,
+            "api": "csp_WobgAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "http://103.45.162.207:20720,http://xhban.xyz:20720,http://154.222.27.33:2072,http://xsayang.fun:12512",
+                "filters": "http://mytv6688.xyz/aowu/json/wohb.json"
+            }
+        },
+        {
+            "name": "🤠至臻|4K",
+            "key": "zzWobg",
+            "type": 3,
+            "api": "csp_WobgAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "http://www.miqk.cc,https://www.zhizhenpan.fun,https://www.mihdr.top,https://mihdr.top",
+                "filters": "http://mytv6688.xyz/aowu/json/wozz.json"
+            }
+        },
+        {
+            "name": "🤓多多|4K",
+            "key": "ddWobg",
+            "type": 3,
+            "api": "csp_WobgAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "https://tv.yydsys.top,https://tv.yydsys.cc,https://tv.214521.xyz",
+                "filters": "http://mytv6688.xyz/aowu/json/wodd.json"
+            }
+        },
+        {
+            "name": "🤢欧哥|4K",
+            "key": "ogWobg",
+            "type": 3,
+            "api": "csp_WobgAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "https://woog.nxog.eu.org,https://woog.nxog.fun,https://woog.430520.xyz",
+                "filters": "http://mytv6688.xyz/aowu/json/woog.json"
+            }
+        },
         {
             "name": "☁️夸克🐶",
             "key": "MyQuark",
