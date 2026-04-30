@@ -44,18 +44,6 @@
       "playerType": 2,
       "timeout": 60
     },
-        {
-            "name": "🐶网盘设置☁️",
-            "key": "MyConfig",
-            "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-            "api": "csp_MyConfigAmns",
-            "playerType": 2,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
    {
       "key": "hipy_js_88看球[球]",
       "name": "⚽悠哉🏆看球🏀",
@@ -920,6 +908,44 @@
       "timeout": 120
     },
             {
+            "name": "🐶网盘设置☁️",
+            "key": "MyConfig",
+            "type": 3,
+            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+            "api": "csp_MyConfigAmns",
+            "playerType": 2,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+                {
+            "name": "☁️夸克🐶",
+            "key": "MyQuark",
+            "type": 3,
+             "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",           
+            "api": "csp_MyQuarkAmns",
+            "playerType": 2,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "../aowu/json/quark(1).json"
+        },
+        {
+            "name": "☁️百度🐶",
+            "key": "MyBaidu",
+            "type": 3,
+             "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",           
+            "api": "csp_MyBaiduAmns",
+            "playerType": 2,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "../aowu/json/baidu(1).json"
+        },
+            {
             "name": "🤪玩偶|4K",
             "key": "woWogg",
             "type": 3,
@@ -1023,32 +1049,6 @@
                 "sites": "https://woog.nxog.eu.org,https://woog.nxog.fun,https://woog.430520.xyz",
                 "filters": "http://mytv6688.xyz/aowu/json/woog.json"
             }
-        },
-        {
-            "name": "☁️夸克🐶",
-            "key": "MyQuark",
-            "type": 3,
-             "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",           
-            "api": "csp_MyQuarkAmns",
-            "playerType": 2,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "../aowu/json/quark(1).json"
-        },
-        {
-            "name": "☁️百度🐶",
-            "key": "MyBaidu",
-            "type": 3,
-             "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",           
-            "api": "csp_MyBaiduAmns",
-            "playerType": 2,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "../aowu/json/baidu(1).json"
         },
     {
       "key": "电影天堂",
