@@ -1,5 +1,6 @@
 {
   "spider": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+  "spider": "../spider/youzai.jar;md5;568546F5A864CBD732CF91A22C8A1B15",
   "wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
   "logo": "../logo/youzai.png",
   "danmaku": "https://logo.saodu.work:8888/87654321/?name={name}&episode={episode}",
@@ -7,6 +8,87 @@
   "disabled_wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
   "warningText": "../logo/悠哉.txt",  
   "sites": [
+    {
+      "key": "豆瓣",
+      "name": "🆕影视剧综艺导航🏆",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "indexs": 1,
+      "ext": {
+        "sp": "Douban"
+      }
+    },    
+    {
+      "key": "配置中心",
+      "name": "⚙️配置设置中心⚙️",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.43
+      },
+      "ext": {
+        "sp": "Config"
+      }
+    },
+    
+    
+       {
+      "key": "糯米",
+      "name": "💩糯米OK",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "playerType": 1,
+      "order_num": 1, 
+     "timeout": 90,
+     "ext": {
+        "sp": "Nmys",
+        "danmu": false
+      }
+    },
+    {
+      "key": "文才",
+      "name": "🥇金牌OK",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "playerType": 1,
+      "timeout": 90,
+      "order_num": 0, 
+      "ext": {
+        "sp": "Jpys",
+       "danmu": false
+      }
+    },
+         {
+      "key": "瓜子",
+      "name": "🍉瓜子OK",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "playerType": 1,              
+      "ext": {
+        "sp": "Guazi",
+        "danmu": false
+      },
+      "timeout": 90
+    },
     {
       "key": "直播转点播",
       "name": "📺悠哉😁直播📺",
@@ -3159,21 +3241,19 @@
       "playerType": 1,
       "ua": "AptvPlayer-UA"     
     },    
+   {
+      "name": "MIGU登录版",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8",
+      "playerType": 1,
+      "timeout": 60
+    },
         {
       "name": "悠哉口米口古直播",
       "type": 0,
-      "jar": "../spider/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
       "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉口米口古直播.m3u",
       "playerType": 1,
       "timeZone": "Asia",
-      "timeout": 60
-    },
-   {
-      "name": "MIGU（登录版）",
-      "type": 0,
-      "jar": "../spider/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
-      "url": "http://127.0.0.:9978/proxy?do=migu&type=m3u8",
-      "playerType": 1,
       "timeout": 60
     }
   ]
