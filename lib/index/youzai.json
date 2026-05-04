@@ -3184,6 +3184,21 @@
     "s3t3d2y8.afcdn.net"
     ],
   "lives": [
+   {
+      "name": "口米口古登录版",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8",
+      "playerType": 1,
+      "timeout": 60
+    },
+        {
+      "name": "悠哉口米口古直播",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉口米口古直播.m3u",
+      "playerType": 1,
+      "timeZone": "Asia",
+      "timeout": 60
+    },
     {
       "name": "悠哉LN移动内网",
       "type": 0,
@@ -3240,21 +3255,6 @@
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 1,
       "ua": "AptvPlayer-UA"     
-    },    
-   {
-      "name": "MIGU登录版",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8",
-      "playerType": 1,
-      "timeout": 60
-    },
-        {
-      "name": "悠哉口米口古直播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉口米口古直播.m3u",
-      "playerType": 1,
-      "timeZone": "Asia",
-      "timeout": 60
     }
   ]
 }
