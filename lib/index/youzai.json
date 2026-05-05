@@ -49,7 +49,7 @@
             }, 
          {
             "key": "七味",
-            "name": "七味💩",
+            "name": "🌈七味💩",
             "type": 3,
             "api": "csp_AweSomeGuard",
             "searchable": 1,
@@ -633,36 +633,6 @@
       "timeout": 60
       },
     {
-      "key": "云云弹幕版",
-      "name": "☁️云云💩",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "YunYun",
-        "danmu": false
-      },
-      "timeout": 60
-    },
-    {
-      "key": "一起弹幕版",
-      "name": "📺一起看💩",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "Yqs",
-        "danmu": false
-      },
-      "timeout": 60
-    },
-    {
       "key": "奇奇弹幕版",
       "name": "🐵奇奇💩",
       "type": 3,
@@ -757,6 +727,36 @@
                 "海外动漫"
             ]
         },
+    {
+      "key": "荐片弹幕版",
+      "name": "💩荐片",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "Jianpian",
+        "danmu": false
+      },
+      "timeout": 120
+    },
+    {
+      "key": "️爱看Bot弹幕版",
+      "name": "💩爱看bot",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "Ikanbot",
+        "danmu": false
+      },
+      "timeout": 120
+    },      
          {
             "key": "腾讯视频",
             "name": "腾",
@@ -1227,7 +1227,7 @@
         "json": "../ext/json/alist.json"
       }
     },   
-          {
+   {
       "key": "我的夸克",
       "name": "☁️夸克💩",
       "type": 3,
@@ -1360,7 +1360,7 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "ErXiao",
@@ -1392,10 +1392,10 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "filterable": 1,
-      "changeable": 1,
+      "changeable": 0,
       "ext": {
         "sp": "Wogg",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
@@ -1406,10 +1406,10 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "filterable": 1,
-      "changeable": 1,
+      "changeable": 0,
       "ext": {
         "sp": "Libvio",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
@@ -1420,11 +1420,11 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "Labi",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
@@ -1435,11 +1435,11 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "Muou",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
@@ -1450,11 +1450,11 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "DuoDuo",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
@@ -1465,11 +1465,11 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "Xsayang",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
@@ -1480,11 +1480,11 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "ZhiZhen",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
@@ -1495,12 +1495,12 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "hide": 0,
       "ext": {
         "sp": "HuBan",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
@@ -1511,11 +1511,11 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "SeedHub",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
@@ -1529,7 +1529,7 @@
       "changeable": 0,
       "ext": {
         "sp": "Guanying",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
@@ -1539,14 +1539,28 @@
       "type": 3,
       "api": "csp_AweSomeGuard",
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "YunJi",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
+         {
+            "key": "4K指南",
+            "name": "☁️指南💩",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "ext": {
+                "sp": "Zn4k"
+            },
+            "timeout": 30
+        },
     {
       "key": "盘他",
       "name": "☁️盘他💩",
@@ -1554,7 +1568,7 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "Panta"
@@ -1568,7 +1582,7 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "HaiMian"
@@ -1582,7 +1596,7 @@
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 0,
       "filterable": 1,
       "ext": {
         "sp": "LeiJing"
