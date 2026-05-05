@@ -47,6 +47,21 @@
             "quickSearch": 0,
             "changeable": 0
             }, 
+         {
+            "key": "七味",
+            "name": "七味💩",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "QiWei",
+                "danmu": false
+            },
+            "timeout": 60
+        },
     {
       "key": "糯米",
       "name": "🌾糯米💩",
@@ -602,7 +617,7 @@
         },
    {
       "key": "热播弹幕版",
-      "name": "📺热播",
+      "name": "📺热播💩",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -617,9 +632,134 @@
         },
       "timeout": 60
       },
+    {
+      "key": "云云弹幕版",
+      "name": "☁️云云💩",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "YunYun",
+        "danmu": false
+      },
+      "timeout": 60
+    },
+    {
+      "key": "一起弹幕版",
+      "name": "📺一起看💩",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "Yqs",
+        "danmu": false
+      },
+      "timeout": 60
+    },
+    {
+      "key": "奇奇弹幕版",
+      "name": "🐵奇奇💩",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "QiQi",
+        "danmu": false
+      },
+      "timeout": 60
+    },
+            {
+            "key": "量子资源",
+            "name": "量子💩资源",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "timeout": 60,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "记录片",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "体育",
+                "足球",
+                "篮球",
+                "网球",
+                "斯诺克"
+            ]
+        },
+        {
+            "key": "非凡影视",
+            "name": "非凡💩影视",
+            "type": 0,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+           "quickSearch": 1,
+            "changeable": 0,
+            "timeout": 60,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "动漫片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "香港剧",
+                "欧美剧",
+                "记录片",
+                "台湾剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫"
+            ]
+        },
          {
             "key": "腾讯视频",
-            "name": "腾讯｜视频",
+            "name": "腾",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -632,7 +772,7 @@
         },
         {
             "key": "优酷视频",
-            "name": "优酷｜视频",
+            "name": "优",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -645,7 +785,7 @@
         },
         {
             "key": "芒果视频",
-            "name": "芒果｜视频",
+            "name": "芒",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -658,7 +798,7 @@
         },
         {
             "key": "爱奇艺",
-            "name": "爱奇艺｜视频",
+            "name": "爱",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -671,7 +811,7 @@
         },
         {
             "key": "三六零",
-            "name": "三六零｜视频",
+            "name": "三六零",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -1059,7 +1199,7 @@
     },
     {
       "key": "WebDAV",
-      "name": "☁️悠哉WebDav",
+      "name": "☁️悠哉WebDav示例",
       "type": 3,
       "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
       "api": "csp_WebDAV",
@@ -1072,7 +1212,7 @@
     },
           {
       "key": "csp_AListGuard",
-      "name": "☁️AList💩",
+      "name": "☁️AList示例",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -1224,7 +1364,7 @@
       "filterable": 1,
       "ext": {
         "sp": "ErXiao",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
@@ -1241,7 +1381,7 @@
       },
       "ext": {
         "sp": "Star2",
-        "danmu": true
+        "danmu": false
       },
       "timeout": 90
     },
