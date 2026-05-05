@@ -1,5 +1,4 @@
 {
-  "spider": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
   "spider": "../spider/youzai.jar;md5;568546F5A864CBD732CF91A22C8A1B15",
   "wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
   "logo": "../logo/youzai.png",
@@ -36,9 +35,7 @@
       "ext": {
         "sp": "Config"
       }
-    },
-    
-    
+    },    
        {
       "key": "糯米",
       "name": "💩糯米OK",
@@ -1053,6 +1050,7 @@
             "name": "🤪玩偶|4K",
             "key": "woWogg",
             "type": 3,
+            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
             "api": "csp_WoggAmns",
             "playerType": 2,
             "searchable": 1,
@@ -1069,6 +1067,7 @@
             "name": "😀蜡笔|4K",
             "key": "lbWobg",
             "type": 3,
+            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
             "api": "csp_WobgAmns",
             "playerType": 2,
             "searchable": 1,
@@ -1085,6 +1084,7 @@
             "name": "😄二小|4K",
             "key": "exWobg",
             "type": 3,
+            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
             "api": "csp_WobgAmns",
             "playerType": 2,
             "searchable": 1,
@@ -1101,6 +1101,7 @@
             "name": "😆虎斑|4K",
             "key": "hbWobg",
             "type": 3,
+            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
             "api": "csp_WobgAmns",
             "playerType": 2,
             "searchable": 1,
@@ -1117,6 +1118,7 @@
             "name": "🤠至臻|4K",
             "key": "zzWobg",
             "type": 3,
+            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
             "api": "csp_WobgAmns",
             "playerType": 2,
             "searchable": 1,
@@ -1133,6 +1135,7 @@
             "name": "🤓多多|4K",
             "key": "ddWobg",
             "type": 3,
+            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
             "api": "csp_WobgAmns",
             "playerType": 2,
             "searchable": 1,
@@ -1149,6 +1152,7 @@
             "name": "🤢欧哥|4K",
             "key": "ogWobg",
             "type": 3,
+            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
             "api": "csp_WobgAmns",
             "playerType": 2,
             "searchable": 1,
