@@ -64,7 +64,7 @@
         },
     {
       "key": "糯米",
-      "name": "🌾糯米💩",
+      "name": "🌾农民糯米💩",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -617,7 +617,7 @@
         },
    {
       "key": "热播弹幕版",
-      "name": "📺热播💩",
+      "name": "📺天天热播💩",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -695,7 +695,7 @@
             "type": 0,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
-           "quickSearch": 1,
+            "quickSearch": 1,
             "changeable": 0,
             "timeout": 60,
             "categories": [
@@ -756,7 +756,85 @@
         "danmu": false
       },
       "timeout": 120
-    },      
+    },
+    {
+      "key": "独播弹幕版",
+      "name": "独播库💩",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "Duboku",
+        "danmu": false
+      },
+      "timeout": 60
+    },
+            {
+            "key": "电影天堂",
+            "name": "🎞️天堂💩",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "Caiji",
+                "api": "http://dyttzy5.tv/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+                "exclude": "34",
+                "danmu": false
+            },
+            "timeout": 60
+        },
+        {
+            "key": "量子",
+            "name": "📷量子💩",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "Caiji",
+                "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/m3u8/",
+                "exclude": "34",
+                "danmu": false
+            },
+            "timeout": 60
+        },
+    {
+      "key": "韩圈",
+      "name": "🦄韩圈💩",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "HanXiaoQuan",
+        "danmu": false
+      },
+      "timeout": 60
+    },    
+        {
+      "key": "新6V",
+      "name": "新6V💩磁力",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "sp": "Xb6v"
+      },
+      "timeout": 60
+    },   
          {
             "key": "腾讯视频",
             "name": "腾",
