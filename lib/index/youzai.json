@@ -137,7 +137,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "playerType": 2,
+      "playerType": 1,
      "style":
       {
       "type": "list",
