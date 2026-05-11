@@ -1,5 +1,5 @@
 {
-  "spider": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
   "wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
   "logo": "../logo/youzai.png",
   "danmaku": "https://logo.saodu.work:8888/87654321/?name={name}&episode={episode}",
@@ -66,7 +66,6 @@
       "key": "糯米",
       "name": "🌾农民糯米💩",
       "type": 3,
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
