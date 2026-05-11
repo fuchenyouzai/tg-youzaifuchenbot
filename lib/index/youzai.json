@@ -66,6 +66,7 @@
       "key": "糯米",
       "name": "🌾农民糯米💩",
       "type": 3,
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
@@ -4409,6 +4410,7 @@
    {
       "name": "口米口古登录版",
       "type": 0,
+      "jar": "../spider/youzai.jar;md5;568546F5A864CBD732CF91A22C8A1B15",
       "url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8",
       "playerType": 1,
       "timeout": 60
