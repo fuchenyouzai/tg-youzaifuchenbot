@@ -1,6 +1,5 @@
 {
   "spider": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-  "spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
   "wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
   "logo": "../logo/youzai.png",
   "danmaku": "https://fuchen.youzai.com:443/9527/?name={name}&episode={episode}",
@@ -10,17 +9,28 @@
   "sites": [
     {
     "name": "🆕影视剧综艺导航🔍",
-      "key": "Douban",
-      "type": 3,
-      "jar": "../aowu/jar/gou0511.jar;md5;fa475f32371156c775ef1da684248a78",
-      "api": "csp_DoubanAmns",
-      "indexs": 1,
-      "filterable": 0,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "../aowu/json/douban.json"
-      },
+    "key": "Douban",
+    "type": 3,
+    "jar": "../aowu/jar/gou0511.jar;md5;fa475f32371156c775ef1da684248a78",
+    "api": "csp_DoubanAmns",
+    "indexs": 1,
+    "filterable": 1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "../aowu/json/douban.json"
+    },
+   {
+    "name": "☁️网盘设置🐶",
+    "key": "MyConfig",
+    "type": 3,
+    "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+    "api": "csp_MyConfigAmns",
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable": 0,
+    "filterable": 1
+    },     
      {
       "key": "豆瓣",
       "name": "🆕影视剧综艺导航👀",
@@ -30,7 +40,7 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "indexs": 0,
+      "indexs": 1,
       "ext": "../fuma/douban.json"
      },
       {
@@ -41,7 +51,7 @@
       "api": "csp_TgYunDouBanPan",
       "searchable": 1,
       "changeable": 1,
-      "indexs": 0,
+      "indexs": 1,
       "quickSearch": 1,
       "ext": {
         "siteUrl": "http://127.0.0.1:9999",
@@ -83,47 +93,6 @@
         "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
         }
       },
-     {
-      "key": "豆瓣",
-      "name": "🆕影视剧综艺导航👀",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,   
-      "timeout": 120,
-      "ext": {
-        "sp": "Douban"
-        }
-    },    
-    {
-      "key": "配置中心",
-      "name": "☁️配置设置中心💩",
-      "type": 3,
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",      
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.43
-        },
-      "ext": {
-        "sp": "Config"
-        }
-      },   
-     {
-      "name": "☁️网盘设置🐶",
-      "key": "MyConfig",
-      "type": 3,
-      "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-      "api": "csp_MyConfigAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0
-      }, 
             {
             "key": "悠哉cmc非凡m3u8",
             "name": "悠哉非凡M3U8",
@@ -1236,6 +1205,7 @@
       "key": "糯米",
       "name": "🌾农民糯米💩",
       "type": 3,
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
@@ -1253,6 +1223,7 @@
       "key": "文才",
       "name": "🥇金牌💩",
       "type": 3,
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",      
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
@@ -2403,19 +2374,20 @@
       "timeout": 90
     },
     {
-      "key": "WebDAV",
-      "name": "☁️悠哉WebDav示例",
-      "type": 3,
-      "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
-      "api": "csp_WebDAV",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "../ext/json/webdav.json",
-      "playerType": 1,
-      "timeout": 120
+    "key": "WebDAV",
+    "name": "🌧️悠哉WebDav示例",
+    "type": 3,
+    "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
+    "api": "csp_WebDAV",
+    "searchable": 1,
+    "changeable": 0,
+    "quickSearch": 0,    
+    "filterable": 1,    
+    "playerType": 1,    
+    "timeout": 180,
+    "ext": "../ext/json/webdav.json"
     },
-          {
+   {
       "key": "csp_AListGuard",
       "name": "☁️AList示例",
       "type": 3,
@@ -3522,63 +3494,6 @@
             "changeable": 0,
             "ext": {
                 "sp": "TingYou"
-            },
-            "timeout": 10
-        },
-                {
-            "key": "盒马短剧",
-            "name": "🦓盒马┃短剧",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "HeMa"
-            },
-            "timeout": 10
-        },
-        {
-            "key": "星芽短剧",
-            "name": "💖星芽┃短剧",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "AppXY"
-            },
-            "timeout": 10
-        },
-        {
-            "key": "甜圈短剧",
-            "name": "🌸甜圈┃短剧",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "TianQuan"
-            },
-            "timeout": 10
-        },
-        {
-            "key": "Omofun",
-            "name": "🏖️奥陌┃动漫",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "Omofuns",
-                "danmu": true
             },
             "timeout": 10
         },
