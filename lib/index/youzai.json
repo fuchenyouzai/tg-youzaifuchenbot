@@ -2438,7 +2438,7 @@
             }
         },
         {
-            "name": "📖教育|少儿",
+            "name": "📚教育|少儿",
             "key": "BiliSer",
             "type": 3,
      "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
@@ -2456,7 +2456,7 @@
             }
         },
         {
-            "name": "📖教育|小学",
+            "name": "📚教育|小学",
             "key": "BiliXxue",
             "type": 3,
      "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
@@ -2474,7 +2474,7 @@
             }
         },
         {
-            "name": "📖教育|初中",
+            "name": "📚教育|初中",
             "key": "BiliCzong",
             "type": 3,
      "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
@@ -2492,7 +2492,7 @@
             }
         },
         {
-            "name": "📖教育|高中",
+            "name": "📚教育|高中",
             "key": "BiliGzong",
             "type": 3,
      "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
