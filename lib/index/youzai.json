@@ -907,7 +907,63 @@
                 "港台动漫",
                 "海外动漫"
             ]
-        },                
+        },       
+    {
+    "key": "电影天堂",
+    "name": "电影天堂采集",
+    "type": 1,
+    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+    "quickSearch": 1,
+    "searchable": 1,
+    "changeable": 0,
+    "playerType": 1,
+    "filterable": 1,
+    "timeout": 120,
+    "categories": [
+                "国产剧",
+                "国产动漫",
+                "韩国剧",
+                "日本剧",
+                "动漫片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "香港剧",
+                "欧美剧",
+                "记录片",
+                "台湾剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+    "日韩动漫",
+    "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+    "短剧",
+    "动画片",
+    "伦理片"
+            ]
+    },
+    {
+    "key": " 电影天堂资源",
+    "name": "电影天堂(采集)",
+    "type": 1,
+    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+    "playUrl": "https://vip.dyttzyplay.com/?url=",
+    "quickSearch": 1,
+    "searchable": 1,
+    "changeable": 0,
+    "playerType": 1,
+    "filterable": 1,
+    "timeout": 120
+     },             
         {
             "key": "悠哉金鹰双线",
             "name": "悠哉金鹰双线",
@@ -2296,31 +2352,6 @@
                 "filters": "http://mytv6688.xyz/aowu/json/woog.json"
             }
         },
-    {
-      "key": "电影天堂",
-      "name": "电影天堂采集",
-      "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,     
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 90
-    },
-    {
-      "key": " 电影天堂资源",
-      "name": "电影天堂(采集)",
-      "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?",
-      "playUrl": "https://vip.dyttzyplay.com/?url=",
-     "quickSearch": 1,
-     "filterable": 1,
-    "playerType": 1,     
-     "searchable": 1,
-     "changeable": 0,
-     "timeout": 90
-     },    
             {
             "name": "酷狗🐶",
             "key": "KuGou",
@@ -2349,11 +2380,11 @@
             "api": "../api/drpy2.min.js",
             "ext": "../ext/js/蜻蜓FM.js"
         },
-                {
-            "name": "Bili🐶合集",
+             {
+            "name": "📺广场舞Bili合集🐶",
             "key": "Bili",
             "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+            "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
             "api": "csp_BiliAmns",
             "playerType": 2,
             "searchable": 1,
@@ -2367,20 +2398,116 @@
             },
             "style": {
                 "type": "rect",
+                "ratio": 1.43
+            }
+        },
+        {
+            "name": "🎉Bili|歌曲",
+            "key": "BiliGequ",
+            "type": 3,
+     "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+           "api": "csp_BiliAmns",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "../aowu/json/bilisong.json",
+                "cookie": ""
+            },
+            "style": {
+                "type": "rect",
                 "ratio": 1.433
             }
         },
         {
-            "name": "链接推送播放",
-            "key": "push_agent",
+            "name": "🎉Bili|戏曲",
+            "key": "BiliXiqu",
             "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-            "api": "csp_PushAmns",
-            "playerType": 2,
+     "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+            "api": "csp_BiliAmns",
             "searchable": 0,
-            "filterable": 0,
+            "quickSearch": 0,
             "changeable": 0,
-            "timeout": 120
+            "ext": {
+                "json": "../aowu/json/bilixiqu.json",
+                "cookie": ""
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
+            "name": "📖教育|少儿",
+            "key": "BiliSer",
+            "type": 3,
+     "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+            "api": "csp_BiliAmns",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "../aowu/json/bilisr.json",
+                "cookie": ""
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
+            "name": "📖教育|小学",
+            "key": "BiliXxue",
+            "type": 3,
+     "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+            "api": "csp_BiliAmns",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "../aowu/json/bilixx.json",
+                "cookie": ""
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
+            "name": "📖教育|初中",
+            "key": "BiliCzong",
+            "type": 3,
+     "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+            "api": "csp_BiliAmns",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "../aowu/json/bilicz.json",
+                "cookie": ""
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
+            "name": "📖教育|高中",
+            "key": "BiliGzong",
+            "type": 3,
+     "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+            "api": "csp_BiliAmns",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "../aowu/json/biligz.json",
+                "cookie": ""
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
         },
             {
             "name": "🔍fish|盘搜",
@@ -2417,7 +2544,20 @@
             "filterable": 0,
             "quickSearch": 1,
             "changeable": 0
-        }
+        },
+    {
+    "name": "链接推送播放",
+    "key": "push_agent",
+    "type": 3,
+    "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+    "api": "csp_PushAmns",
+    "playerType": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 0,
+    "filterable": 1,
+    "timeout": 120
+    }
   ], 
   "doh": [
     {
