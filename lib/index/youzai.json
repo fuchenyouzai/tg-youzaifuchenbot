@@ -1,5 +1,5 @@
 {
-  "spider": "../aowu/jar/gou0511.jar;md5;fa475f32371156c775ef1da684248a78",
+  "spider": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
   "spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
   "wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
   "logo": "../logo/youzai.png",
@@ -100,6 +100,7 @@
       "key": "配置中心",
       "name": "☁️配置设置中心💩",
       "type": 3,
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",      
       "api": "csp_AweSomeGuard",
       "searchable": 0,
       "changeable": 0,
@@ -3597,17 +3598,17 @@
         }
   ], 
   "doh": [
-            {
-            "name": "悠哉阿里DNS",
-            "url": "https://dns.alidns.com/dns-query",
-            "ips": [
-                "223.5.5.5",
-                "223.6.6.6",
-                "2400:3200::1",
-                "2400:3200:baba::1"
-            ]
-           },    
-       {
+    {
+    "name": "悠哉阿里DNS",
+    "url": "https://dns.alidns.com/dns-query",
+    "ips": [
+      "223.5.5.5",
+      "223.6.6.6",
+      "2400:3200::1",
+      "2400:3200:baba::1"
+       ]
+    },    
+    {
         "name": "悠哉114大连DNS",
         "url": "",
         "ips": [
@@ -5254,31 +5255,31 @@
     "renrenmi"
     ],
   "rules": [
-     {
-      "name": "cl",
-      "hosts": [
-        "magnet"
+    {
+    "name": "cl",
+    "hosts": [
+      "magnet"
       ],
-      "regex": [
-					"澳门",
-					"更多",
-					"社 區",
-					"x u u",
-					"最 新",
-					"直 播",
-					"更 新",
-					"社 区",
-					"有 趣",
-					"英皇体育",
-					"全中文AV在线",
-					"澳门皇冠赌场",
-					"哥哥快来",
-					"美女荷官",
-					"裸聊",
-					"新片首发",
-					"UUE29"
-                        ]
-                         },
+    "regex": [
+      "澳门",
+      "更多",
+      "社 區",
+      "x u u",
+      "最 新",
+      "直 播",
+      "更 新",
+      "社 区",
+      "有 趣",
+      "英皇体育",
+      "全中文AV在线",
+      "澳门皇冠赌场",
+      "哥哥快来",
+      "美女荷官",
+      "裸聊",
+      "新片首发",
+	  "UUE29"
+      ]
+    },
     {
       "name": "海外看",
       "hosts": [
@@ -5580,90 +5581,95 @@
     "s3t3d2y8.afcdn.net"
     ],
   "lives": [
+    {
+    "name": "口米口古部署源",
+    "type": 0,
+    "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+    "playerType": 1,
+    "timeout": 60,
+    "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
    {
-      "name": "口米口古登录版",
-      "type": 0,
-      "jar": ".http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
-      "url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8",
-      "playerType": 1,
-      "timeout": 60
-    },
-        {
-      "name": "悠哉口米口古直播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉口米口古直播.m3u",
-      "playerType": 1,
-      "timeZone": "Asia",
-      "timeout": 60
+    "name": "悠哉LN移动内网",
+    "type": 0,
+    "url": "../live/悠哉LN移动内网.m3u",
+    "playerType": 1,
+    "timeZone": "Asia",
+    "timeout": 60
     },
     {
-      "name": "悠哉LN移动内网",
-      "type": 0,
-      "url": "../live/悠哉LN移动内网.m3u",
-      "playerType": 1,
-      "timeZone": "Asia",
-      "timeout": 60
+    "name": "悠哉口米口古体育",
+    "type": 0,
+    "url": "../live/悠哉口米口古体育.m3u",
+    "playerType": 2,
+    "timeout": 60
     },
     {
-      "name": "悠哉口米口古体育",
-      "type": 0,
-      "url": "../live/悠哉口米口古体育.m3u",
-      "playerType": 2,
-      "timeout": 60
+    "name": "悠哉APTV",
+    "type": 0,
+    "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+    "playerType": 1,
+    "timeout": 60
+    },
+   {
+    "name": "大杂烩",
+    "type": 0,
+    "url": "https://ds65.tv1288.xyz",
+    "playerType": 1,
+    "timeout": 60
     },
     {
-      "name": "悠哉aptv",
-      "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 1
+    "name": "悠哉Youtube",
+    "type": 0,
+    "playerType": 2,
+    "timeout": 90,
+    "url": "../live/悠哉Youtube.m3u"
     },
     {
-      "name": "口米口古部署源",
-      "type": 0,
-      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "playerType": 1,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-        {
-      "name": "MIGU（AI版本）",
-      "type": 0,
-      "url": "https://ds65.tv1288.xyz",
-      "playerType": 1,
-      "timeout": 60
+    "name": "网络平台直播",
+    "type": 3,
+    "playerType": 2,
+    "url": "../live/网络平台直播.m3u",
+    "timeout": 60
     },
     {
-      "name": "悠哉Youtube",
-      "type": 0,
-      "playerType": 2,
-      "timeout": 90,
-      "url": "../live/悠哉Youtube.m3u"
+    "name": "悠aptv",
+    "type": 0,
+    "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+    "playerType": 1,
+    "timeout": 60,
+    "ua": "AptvPlayer-UA"     
     },
-    {
-      "name": "网络平台直播",
-      "type": 3,
-      "playerType": 2,
-      "url": "../live/网络平台直播.m3u",
-      "timeout": 60
+   {
+    "name": "口米口古登录版",
+    "type": 0,
+    "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+    "url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8",
+    "playerType": 1,
+    "timeout": 60
     },
+   {
+    "name": "悠哉口米口古直播",
+    "type": 0,
+    "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",      
+    "url": "http://127.0.0.1:9978/proxy?do=live&url=../live/悠哉口米口古直播.m3u",
+    "playerType": 1,
+    "timeZone": "Asia",
+    "timeout": 60
+   },    
     {
-      "name": "悠aptv",
-      "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 1,
-      "ua": "AptvPlayer-UA"     
-    },
-    {
-      "name": "一起看",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "url": "yqk",
-      "playerType": 2,
-      "ext": {
-        "sp": "Huya"
+    "name": "一起看",
+    "type": 3,
+    "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",    
+    "api": "csp_AweSomeGuard",
+    "url": "yqk",
+    "playerType": 2,
+    "ext": {
+      "sp": "Huya"
       },
-      "timeout": 10
-       }
+    "timeout": 60
+    }
   ]
 }
 
