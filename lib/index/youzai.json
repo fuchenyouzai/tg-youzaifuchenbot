@@ -1,5 +1,6 @@
 {
   "spider": "../aowu/jar/gou0511.jar;md5;fa475f32371156c775ef1da684248a78",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
   "wallpaper": "../wallpaper/悠哉暗夜壁纸.jpg",
   "logo": "../logo/youzai.png",
   "danmaku": "https://fuchen.youzai.com:443/9527/?name={name}&episode={episode}",
@@ -238,7 +239,7 @@
         }, 
           {
             "key": "非凡影视",
-            "name": "非凡💩采集",
+            "name": "非凡采集",
             "type": 0,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
@@ -276,7 +277,7 @@
         },    
             {
             "key": "量子资源",
-            "name": "量子💩资源",
+            "name": "量子资源",
             "type": 0,
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
@@ -5582,6 +5583,7 @@
    {
       "name": "口米口古登录版",
       "type": 0,
+      "jar": ".http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
       "url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8",
       "playerType": 1,
       "timeout": 60
