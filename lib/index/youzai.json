@@ -21,17 +21,6 @@
     "ext": "../aowu/json/douban.json"
     },
     {
-    "name": "⚙️配置和网盘设置🐶",
-    "key": "MyConfig",
-    "type": 3,
-    "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
-    "api": "csp_AAConfigAmns",
-    "searchable": 0,
-    "quickSearch": 0,
-    "changeable": 0,
-    "filterable": 1
-   },
-    {
     "key": "豆瓣",
     "name": "🆕影视剧综艺导航👀",
     "type": 3,
@@ -2388,6 +2377,17 @@
     "timeout": 60,
     "playerType": 2,
     "ext":"../ext/json/alist.json"
+   },
+    {
+    "name": "⚙️配置和网盘设置🐶",
+    "key": "MyConfig",
+    "type": 3,
+    "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+    "api": "csp_AAConfigAmns",
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable": 0,
+    "filterable": 1
    },
         {
             "name": "☁️玩偶网盘🐶",
