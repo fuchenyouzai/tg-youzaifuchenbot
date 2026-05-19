@@ -20,17 +20,6 @@
     "changeable": 1,
     "ext": "../aowu/json/douban.json"
     },
-   {
-    "name": "☁️网盘⚙️设置🐶",
-    "key": "MyConfig",
-    "type": 3,
-    "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-    "api": "csp_MyConfigAmns",
-    "searchable": 0,
-    "quickSearch": 0,
-    "changeable": 0,
-    "filterable": 1
-    },     
     {
     "name": "⚙️配置和网盘设置🐶",
     "key": "MyConfig",
@@ -2214,182 +2203,6 @@
       "playerType": 1,
       "timeout": 90
     },
-    {
-    "key": "WebDAV",
-    "name": "🌧️悠哉WebDav示例",
-    "type": 3,
-    "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
-    "api": "csp_WebDAV",
-    "searchable": 1,
-    "changeable": 0,
-    "quickSearch": 0,    
-    "filterable": 1,    
-    "playerType": 1,    
-    "timeout": 180,
-    "ext": "../ext/json/webdav.json"
-    },
-   {
-      "key": "csp_AListGuard",
-      "name": "☁️AList示例",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 120,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "AList",
-        "json": "../ext/json/alist.json"
-      }
-    },   
-           {
-            "name": "☁️夸克🐶",
-            "key": "MyQuark",
-            "type": 3,
-             "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",           
-            "api": "csp_MyQuarkAmns",
-            "playerType": 2,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "../aowu/json/quark(1).json"
-        },
-        {
-            "name": "☁️百度🐶",
-            "key": "MyBaidu",
-            "type": 3,
-             "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",           
-            "api": "csp_MyBaiduAmns",
-            "playerType": 2,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "../aowu/json/baidu(1).json"
-        },
-            {
-            "name": "☁️玩偶🐶",
-            "key": "woWogg",
-            "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-            "api": "csp_WoggAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "timeout": 90,
-            "ext": {
-                "sites": "http://woggpan.888484.xyz,http://woggpan.xxooo.cf,http://wogg.xxooo.cf,https://www.wogg.net,http://wogg4k.333232.xyz,https://wogg.333232.xyz,https://www.wogg.one",
-                "filters": "http://mytv6688.xyz/aowu/json/wogg.json"
-            }
-        },
-         {
-            "name": "☁️蜡笔🐶",
-            "key": "lbWobg",
-            "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-            "api": "csp_WobgAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "timeout": 90,
-            "ext": {
-                "sites": "http://xiaocge.fun,http://feimo.fun,http://www.labi88.sbs,http://fmao.site,http://fmao.shop,http://xiaocgege.shop,http://feimao888.fun,https://feimao666.fun",
-                "filters": "http://mytv6688.xyz/aowu/json/wolb.json"
-            }
-        },
-                {
-            "name": "☁️二小🐶",
-            "key": "exWobg",
-            "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-            "api": "csp_WobgAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "timeout": 90,
-            "ext": {
-                "sites": "https://www.2xiaopan.top,https://2xiaopan.top,https://www.erxiaozhan.top,https://www.2xiaozhan.top,http://erxiaofn.click,http://2xiaopan.fun,http://erxiaofn.site,https://www.erixaopan.fun,https://wexwp.cc,https://xhww.net",
-                "filters": "http://mytv6688.xyz/aowu/json/woex.json"
-            }
-        },
-        {
-            "name": "☁️虎斑🐶",
-            "key": "hbWobg",
-            "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-            "api": "csp_WobgAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "timeout": 90,
-            "ext": {
-                "sites": "http://103.45.162.207:20720,http://xhban.xyz:20720,http://154.222.27.33:2072,http://xsayang.fun:12512",
-                "filters": "http://mytv6688.xyz/aowu/json/wohb.json"
-            }
-        },
-        {
-            "name": "☁️至臻🐶",
-            "key": "zzWobg",
-            "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-            "api": "csp_WobgAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "timeout": 90,
-            "ext": {
-                "sites": "http://www.miqk.cc,https://www.zhizhenpan.fun,https://www.mihdr.top,https://mihdr.top",
-                "filters": "http://mytv6688.xyz/aowu/json/wozz.json"
-            }
-        },
-        {
-            "name": "☁️多多🐶",
-            "key": "ddWobg",
-            "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-            "api": "csp_WobgAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "timeout": 90,
-            "ext": {
-                "sites": "https://tv.yydsys.top,https://tv.yydsys.cc,https://tv.214521.xyz",
-                "filters": "http://mytv6688.xyz/aowu/json/wodd.json"
-            }
-        },
-        {
-            "name": "☁️欧哥🐶",
-            "key": "ogWobg",
-            "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-            "api": "csp_WobgAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "timeout": 90,
-            "ext": {
-                "sites": "https://woog.nxog.eu.org,https://woog.nxog.fun,https://woog.430520.xyz",
-                "filters": "http://mytv6688.xyz/aowu/json/woog.json"
-            }
-        },
             {
             "name": "🎶酷狗🐶",
             "key": "KuGou",
@@ -2403,6 +2216,21 @@
             "changeable": 0,
             "timeout": 90,
             "genre": "music"
+        },
+        {
+            "name": "🐯虎牙|Live",
+            "key": "HuyaLive",
+            "type": 3,
+            "api": "csp_HuyaLiveAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 90,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
         },
              {
             "name": "📺广场舞Bili合集🐶",
@@ -2534,6 +2362,73 @@
             }
         },
     {
+    "key": "WebDAV",
+    "name": "🌧️悠哉WebDav云盘示例",
+    "type": 3,
+    "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
+    "api": "csp_WebDAV",
+    "searchable": 1,
+    "changeable": 0,
+    "quickSearch": 0,    
+    "filterable": 1,    
+    "playerType": 1,    
+    "timeout": 180,
+    "ext": "../ext/json/webdav.json"
+    },
+    {
+    "key": "AList",
+    "name": "☁️悠哉Alist云盘🦋示例",
+    "type": 3,
+    "jar": "../jar/vox.jar;md5;c84f011f925c42239865b195d7de4522",
+    "api": "csp_AList",
+    "searchable": 0,
+    "changeable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "timeout": 60,
+    "playerType": 2,
+    "ext":"../ext/json/alist.json"
+   },
+        {
+            "name": "☁️玩偶网盘",
+            "key": "woWogg",
+            "type": 3,
+     "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+            "api": "csp_WoggAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "sites": [
+                    "http://www.wogg.lol",
+                    "https://wogg.xxooo.cf",
+                    "https://woggpan.888484.xyz",
+                    "https://wogg.333232.xyz",
+                    "http://woggpan.xxooo.cf",
+                    "https://www.wogg.one",
+                    "https://www.wogg.live"
+                ],
+                "filters": "../aowu/json/wogg.json"
+            }
+        },
+        {
+            "name": "☁️木偶网盘",
+            "key": "moWobg",
+            "type": 3,
+     "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+            "api": "csp_WobgAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "sites": [
+                    "http://123.666291.xyz",
+                    "https://666.666291.xyz"
+                ],
+                "filters": "../aowu/json/womo.json"
+            }
+        },
+    {
     "name": "🐟Fish|盘搜🔍",
     "key": "FishPs",
     "type": 3,
@@ -2572,7 +2467,7 @@
     "timeout": 120
     },
     {
-    "name": "🔗链接推送推送播放▶️",
+    "name": "🔗链接按钮推送播放▶️",
     "key": "push_agent",
     "type": 3,
     "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
@@ -2585,93 +2480,6 @@
     "timeout": 120
     }
   ], 
-  "doh": [
-    {
-    "name": "悠哉阿里DNS",
-    "url": "https://dns.alidns.com/dns-query",
-    "ips": [
-      "223.5.5.5",
-      "223.6.6.6",
-      "2400:3200::1",
-      "2400:3200:baba::1"
-       ]
-    },    
-    {
-        "name": "悠哉114大连DNS",
-        "url": "",
-        "ips": [
-           "114.114.114.114",
-           "211.140.197.58",
-           "2409:8014:2000::1",
-           "114.114.115.115",
-           "211.137.32.178",
-           "2409:8014:2000::2"        
-        ]
-       }, 
-         {
-        "name": "悠哉360DNS",
-        "url": "https://doh.360.cn/dns-query",
-        "ips": [
-          "101.226.4.6",
-          "218.30.118.6"
-              ]
-            },             
-       {
-            "name": "悠哉腾讯DNS",
-            "url": "https://doh.pub/dns-query",
-            "ips": []
-        },
-        {
-            "name": "悠哉谷歌DNS",
-            "url": "https://dns.google/dns-query",
-            "ips": [
-                "8.8.4.4",
-                "8.8.8.8",
-                "2001:4860:4860::8888",
-                "2001:4860:4860::8844"
-            ]
-        },
-        {
-            "name": "悠哉CloudflareDNS",
-            "url": "https://cloudflare-dns.com/dns-query",
-            "ips": [
-                "1.1.1.1",
-                "1.0.0.1",
-                "2606:4700:4700::1111",
-                "2606:4700:4700::1001"
-            ]
-        },
-        {
-            "name": "悠哉阿德加德DNS",
-            "url": "https://dns.adguard.com/dns-query",
-            "ips": [
-                "94.140.14.140",
-                "94.140.14.141",
-                "2a10:50c0::ad1:ff",
-                "2a10:50c0::ad2:ff"
-            ]
-        },
-        {
-            "name": "悠哉DNS观察",
-            "url": "https://dns.watch/dns-query",
-            "ips": [
-                "84.200.69.80",
-                "84.200.70.40",
-                "2001:67c:2354:2::64",
-                "2001:67c:2354:3::64"
-            ]
-        },
-        {
-            "name": "悠哉夸德九DNS",
-            "url": "https://dns.quad9.net/dns-query",
-            "ips": [
-                "9.9.9.9",
-                "149.112.112.112",
-                "2620:fe::fe",
-                "2620:fe::9"
-            ]
-          }
-         ],  
   "headers": [
         {
             "host": "img\\d+.doubanio.com",
@@ -2734,168 +2542,6 @@
             }
         }
     ],
-  "ijk": [
-    {
-      "group": "软解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
-      ]
-    },
-    {
-      "group": "硬解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
-      ]
-    }
-  ],
   "parses": [
         {
             "name": "虾米",
@@ -4568,6 +4214,255 @@
     "cms.qdwght.com",
     "s3t3d2y8.afcdn.net"
     ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "doh": [
+    {
+    "name": "悠哉阿里DNS",
+    "url": "https://dns.alidns.com/dns-query",
+    "ips": [
+      "223.5.5.5",
+      "223.6.6.6",
+      "2400:3200::1",
+      "2400:3200:baba::1"
+      ]
+    },    
+    {
+    "name": "悠哉114大连DNS",
+    "url": "",
+    "ips": [
+      "114.114.114.114",
+      "211.140.197.58",
+      "2409:8014:2000::1",
+      "114.114.115.115",
+      "211.137.32.178",
+      "2409:8014:2000::2"        
+      ]
+    }, 
+    {
+    "name": "悠哉360DNS",
+    "url": "https://doh.360.cn/dns-query",
+    "ips": [
+      "101.226.4.6",
+      "218.30.118.6"
+      ]
+    },             
+    {
+    "name": "悠哉腾讯DNS",
+    "url": "https://doh.pub/dns-query",
+    "ips": []
+     },
+     {
+    "name": "悠哉谷歌DNS",
+    "url": "https://dns.google/dns-query",
+    "ips": [
+      "8.8.4.4",
+      "8.8.8.8",
+      "2001:4860:4860::8888",
+      "2001:4860:4860::8844"
+      ]
+    },
+    {
+    "name": "悠哉CloudflareDNS",
+    "url": "https://cloudflare-dns.com/dns-query",
+    "ips": [
+      "1.1.1.1",
+      "1.0.0.1",
+      "2606:4700:4700::1111",
+      "2606:4700:4700::1001"
+      ]
+    },
+    {
+    "name": "悠哉阿德加德DNS",
+    "url": "https://dns.adguard.com/dns-query",
+    "ips": [
+      "94.140.14.140",
+      "94.140.14.141",
+      "2a10:50c0::ad1:ff",
+      "2a10:50c0::ad2:ff"
+      ]
+    },
+   {
+    "name": "悠哉DNS观察",
+    "url": "https://dns.watch/dns-query",
+    "ips": [
+      "84.200.69.80",
+      "84.200.70.40",
+      "2001:67c:2354:2::64",
+      "2001:67c:2354:3::64"
+      ]
+    },
+   {
+    "name": "悠哉夸德九DNS",
+    "url": "https://dns.quad9.net/dns-query",
+    "ips": [
+      "9.9.9.9",
+      "149.112.112.112",
+      "2620:fe::fe",
+      "2620:fe::9"
+      ]
+    }
+  ],  
   "lives": [
     {
     "name": "口米口古部署源",
