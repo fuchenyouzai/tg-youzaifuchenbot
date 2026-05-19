@@ -21,7 +21,7 @@
     "ext": "../aowu/json/douban.json"
     },
    {
-    "name": "☁️配置和网盘设置🐶",
+    "name": "☁️网盘设置🐶",
     "key": "MyConfig",
     "type": 3,
     "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
