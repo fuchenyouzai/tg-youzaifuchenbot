@@ -21,7 +21,7 @@
     "ext": "../aowu/json/douban.json"
     },
    {
-    "name": "☁️网盘设置🐶",
+    "name": "☁️配置和网盘设置🐶",
     "key": "MyConfig",
     "type": 3,
     "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
@@ -31,6 +31,17 @@
     "changeable": 0,
     "filterable": 1
     },     
+    {
+    "name": "⚙️配置和网盘设置🐶",
+    "key": "MyConfig",
+    "type": 3,
+    "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+    "api": "csp_AAConfigAmns",
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable": 0,
+    "filterable": 1
+   },
     {
     "key": "豆瓣",
     "name": "🆕影视剧综艺导航👀",
@@ -113,6 +124,19 @@
       },
     "timeout": 120,
     "ext": "../ext/js/悠哉88看球.js"
+    },
+    {
+    "name": "⚽🏀看球直播🐶",
+    "key": "FeiqLive",
+    "type": 3,
+    "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+    "api": "csp_FeiqLiveAmns",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 0,
+    "filterable": 1,
+    "playerType": 2,
+    "timeout": 120
     },
 	{
     "key": "應用商店",
@@ -1828,6 +1852,20 @@
       "playerType": 2,
       "timeout": 90
      },
+         {
+            "key": "凤凰FM",
+            "name": "📻凤凰 听┃广播",
+            "type": 3,
+            "api": "../api/drpy2.min.js",
+            "ext": "../ext/js/凤凰FM.js"
+        },
+        {
+            "key": "蜻蜓FM",
+            "name": "📻蜻蜓 听 广播",
+            "type": 3,
+            "api": "../api/drpy2.min.js",
+            "ext": "../ext/js/蜻蜓FM.js"
+        },
     {
       "key": "hipy_js_奇珍异兽[官]",
       "name": "奇珍异兽[官](drpy_t3)",
@@ -2366,20 +2404,6 @@
             "timeout": 90,
             "genre": "music"
         },
-         {
-            "key": "凤凰FM",
-            "name": "📻凤凰 听┃FM",
-            "type": 3,
-            "api": "../api/drpy2.min.js",
-            "ext": "../ext/js/凤凰FM.js"
-        },
-        {
-            "key": "蜻蜓FM",
-            "name": "📻蜻蜓 听┃FM",
-            "type": 3,
-            "api": "../api/drpy2.min.js",
-            "ext": "../ext/js/蜻蜓FM.js"
-        },
              {
             "name": "📺广场舞Bili合集🐶",
             "key": "Bili",
@@ -2509,42 +2533,44 @@
                 "ratio": 1.433
             }
         },
-            {
-            "name": "🔍fish|盘搜",
-            "key": "FishPs",
-            "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",           
-            "api": "csp_FishPsAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 0,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "name": "🔍RB|盘搜",
-            "key": "RbPs",
-            "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",           
-            "api": "csp_RbPsAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 0,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "name": "🔍短剧|盘搜",
-            "key": "DuanjPs",
-            "type": 3,
-            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",           
-            "api": "csp_DuanjPsAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 0,
-            "quickSearch": 1,
-            "changeable": 0
-        },
+    {
+    "name": "🔍fish|盘搜",
+    "key": "FishPs",
+    "type": 3,
+    "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",           
+    "api": "csp_FishPsAmns",
+    "playerType": 2,
+    "searchable": 1,
+    "filterable": 1,
+    "quickSearch": 1,
+    "changeable": 0
+    },
+    {
+    "name": "👻github仓库",
+    "key": "GitHub",
+    "type": 3,
+    "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+    "api": "csp_GitHubAmns",
+    "quickSearch": 0,
+    "changeable": 0,
+    "searchable": 0,
+    "filterable": 1,
+    "timeout": 120000,
+    "ext": "../aowu/json/github.json"
+    },
+   {
+    "name": "▶️本机视频播放器▶️",
+    "key": "MyLocal",
+    "type": 3,
+    "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+    "api": "csp_MyLocalAmns",
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable": 0,
+    "filterable": 1,
+    "playerType": 2,
+    "timeout": 120
+    },
     {
     "name": "链接推送播放",
     "key": "push_agent",
