@@ -2390,7 +2390,7 @@
     "ext":"../ext/json/alist.json"
    },
         {
-            "name": "☁️玩偶网盘",
+            "name": "☁️玩偶网盘🐶",
             "key": "woWogg",
             "type": 3,
      "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
@@ -2398,6 +2398,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
+            "filterable": 1,
             "ext": {
                 "sites": [
                     "http://www.wogg.lol",
@@ -2412,7 +2413,7 @@
             }
         },
         {
-            "name": "☁️木偶网盘",
+            "name": "☁️木偶网盘🐶",
             "key": "moWobg",
             "type": 3,
      "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
@@ -2420,6 +2421,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
+            "filterable": 1,
             "ext": {
                 "sites": [
                     "http://123.666291.xyz",
@@ -2428,8 +2430,113 @@
                 "filters": "../aowu/json/womo.json"
             }
         },
+        {
+            "name": "☁️二小|4K🐶",
+            "key": "exWobg",
+            "type": 3,
+     "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+            "api": "csp_WobgAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sites": [
+                    "https://www.2xiaopan.top",
+                    "https://2xiaopan.top",
+                    "https://www.erxiaozhan.top",
+                    "https://www.2xiaozhan.top",
+                    "https://wexwp.cc"
+                ],
+                "filters": "http://52xinghe.top/aowu/json/woex.json"
+            }
+        },
+        {
+            "name": "☁️虎斑|4K🐶",
+            "key": "hbWobg",
+            "type": 3,
+     "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+            "api": "csp_WobgAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sites": [
+                    "http://103.45.162.207:20720"
+                ],
+                "filters": "http://52xinghe.top/aowu/json/wohb.json"
+            }
+        },
+        {
+            "name": "☁️至臻|4K🐶",
+            "key": "zzWobg",
+            "type": 3,
+     "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+            "api": "csp_WobgAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sites": [
+                    "https://pan.mihdr.top",
+                    "https://zhizhen1.top",
+                    "https://mihdr.top",
+                    "https://www.mihdr.top",
+                    "https://www.miqk.cc",
+                    "https://zhizhenpan.com",
+                    "https://zhizhen8.click",
+                    "https://www.zhizhen8.click"
+                ],
+                "filters": "http://52xinghe.top/aowu/json/wozz.json"
+            }
+        },
+        {
+            "name": "☁️多多|4K🐶",
+            "key": "ddWobg",
+            "type": 3,
+     "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+            "api": "csp_WobgAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sites": [
+                    "https://tv.yydsys.top",
+                    "https://tv.yydsys.cc",
+                    "https://tv.214521.xyz"
+                ],
+                "filters": "http://52xinghe.top/aowu/json/wodd.json"
+            }
+        },
+        {
+            "name": "☁️观影|4K🐶",
+            "key": "Gying",
+            "type": 3,
+     "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+            "api": "csp_GyingAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": "http://52xinghe.top/aowu/json/guanying.json"
+        },
+        {
+            "name": "☁️SeedHub|4K🐶",
+            "key": "SeedHub",
+            "type": 3,
+     "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
+            "api": "csp_SeedHubAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": "http://104.243.25.80"
+        },
     {
-    "name": "🐟Fish|盘搜🔍",
+    "name": "🐟Fish🔍盘搜🐶",
     "key": "FishPs",
     "type": 3,
     "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",           
@@ -2441,7 +2548,7 @@
     "changeable": 0
     },
     {
-    "name": "👻github仓库",
+    "name": "👻github仓库🐶",
     "key": "GitHub",
     "type": 3,
     "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
@@ -2454,7 +2561,7 @@
     "ext": "../aowu/json/github.json"
     },
    {
-    "name": "▶️本机视频播放器▶️",
+    "name": "▶️本机视频播放器🐶",
     "key": "MyLocal",
     "type": 3,
     "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
@@ -2467,7 +2574,7 @@
     "timeout": 120
     },
     {
-    "name": "🔗链接按钮推送播放▶️",
+    "name": "🐶链接按钮推送播放▶️",
     "key": "push_agent",
     "type": 3,
     "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
