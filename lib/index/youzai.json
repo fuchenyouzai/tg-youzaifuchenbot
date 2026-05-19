@@ -21,7 +21,7 @@
     "ext": "../aowu/json/douban.json"
     },
    {
-    "name": "☁️网盘设置🐶",
+    "name": "☁️网盘⚙️设置🐶",
     "key": "MyConfig",
     "type": 3,
     "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
@@ -2391,7 +2391,7 @@
             }
         },
             {
-            "name": "酷狗🐶",
+            "name": "🎶酷狗🐶",
             "key": "KuGou",
             "type": 3,
             "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
@@ -2426,7 +2426,7 @@
             }
         },
         {
-            "name": "🎉Bili|歌曲",
+            "name": "📺Bili|歌曲",
             "key": "BiliGequ",
             "type": 3,
      "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
@@ -2444,7 +2444,7 @@
             }
         },
         {
-            "name": "🎉Bili|戏曲",
+            "name": "📺Bili|戏曲",
             "key": "BiliXiqu",
             "type": 3,
      "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
@@ -2462,7 +2462,7 @@
             }
         },
         {
-            "name": "📚教育|少儿",
+            "name": "📚教育|少儿📺",
             "key": "BiliSer",
             "type": 3,
      "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
@@ -2480,7 +2480,7 @@
             }
         },
         {
-            "name": "📚教育|小学",
+            "name": "📚教育|小学📺",
             "key": "BiliXxue",
             "type": 3,
      "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
@@ -2498,7 +2498,7 @@
             }
         },
         {
-            "name": "📚教育|初中",
+            "name": "📚教育|初中📺",
             "key": "BiliCzong",
             "type": 3,
      "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
@@ -2516,7 +2516,7 @@
             }
         },
         {
-            "name": "📚教育|高中",
+            "name": "📚教育|高中📺",
             "key": "BiliGzong",
             "type": 3,
      "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
@@ -2534,7 +2534,7 @@
             }
         },
     {
-    "name": "🔍fish|盘搜",
+    "name": "🐟Fish|盘搜🔍",
     "key": "FishPs",
     "type": 3,
     "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",           
@@ -2572,7 +2572,7 @@
     "timeout": 120
     },
     {
-    "name": "链接推送播放",
+    "name": "🔗链接推送推送播放▶️",
     "key": "push_agent",
     "type": 3,
     "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
