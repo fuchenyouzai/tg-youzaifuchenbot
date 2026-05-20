@@ -1833,6 +1833,25 @@
             "quickSearch": 1,
             "changeable": 0
         },
+      {
+      "key": "采集全集",
+      "name": "🍄悠哉提莫采集🍄",
+      "type": 3,
+      "jar": "../cj/pro0420.jar",
+      "api": "csp_ProxySpider",
+      "style": {
+        "type": "rect"
+         },
+      "playerType": 2,
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "timeout": 90,
+      "ext": {
+        "class": "CJJH",
+        "ext": "../cj/cj.json"
+        }
+      },
      {
       "key": "腾讯视频",
       "name": "腾",
@@ -1886,19 +1905,6 @@
       "ext": "../xs/js/爱奇艺.js"
       },
       {
-      "name": "三六零",
-      "key": "三六零",
-      "type": 3,
-      "jar": "../xs/xsspider.jar",
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "playerType": 2,
-      "timeout": 90
-      },
-      {
       "key": "采集之王",
       "name": "🍄采集🍄合集🍄",
       "type": 3,
@@ -1912,31 +1918,25 @@
       "ext": "../xs/js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
       },
       {
-      "key": "采集全集",
-      "name": "🍄悠哉提莫采集🍄",
+      "name": "三六零",
+      "key": "三六零",
       "type": 3,
-      "jar": "../cj/pro0420.jar",
-      "api": "csp_ProxySpider",
-      "style": {
-        "type": "rect"
-         },
-      "playerType": 2,
-      "searchable": 1,
-      "changeable": 0,
+      "jar": "../xs/jar/spider.jar",
+      "api": "csp_SP360",
+      "searchable": 0,
       "quickSearch": 1,
-      "timeout": 90,
-      "ext": {
-        "class": "CJJH",
-        "ext": "../cj/cj.json"
-        }
+      "changeable": 0,
+      "filterable": 1,
+      "playerType": 2,
+      "timeout": 90
       },
       {
       "key": "1905",
-      "name": "🎬一九零五📽️🎥🎦",
+      "name": "🎬1905📽️🎥🎦",
       "type": 3,
-      "jar": "../xs/xsspider.jar",
+      "jar": "../xs/jar/spider.jar",
       "api": "csp_Web1905",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -1987,6 +1987,7 @@
       "key": "hipy_js_腾云驾雾[官]",
       "name": "腾云驾雾[官](drpy_t3)",
       "type": 3,
+      "jar": "../jar/pig.jar",
       "api": "../api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -2338,6 +2339,7 @@
             "name": "🐯虎牙|Live",
             "key": "HuyaLive",
             "type": 3,
+            "jar": "../aowu/jar/gou0518.jar;md5;a8c555c82c3ae37ce92071d5e1607cb4",
             "api": "csp_HuyaLiveAmns",
             "searchable": 1,
             "quickSearch": 1,
@@ -2836,12 +2838,7 @@
       {
             "name": "咸鱼",
             "type": 0,
-            "url": "https://jx.xymp4.cc/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
+            "url": "https://jx.xymp4.cc/?url="
         },
         {
             "name": "淘片",
@@ -4758,6 +4755,20 @@
     "playerType": 1,
     "timeout": 60,
     "ua": "AptvPlayer-UA"     
+    },
+    {
+    "name": "ha1",
+    "type": 0,
+    "url": "http://ll14s7fe.zjz-service.cn:23588/sub?IEd12PJu=m3u",
+    "playerType": 2,
+    "timeout": 30
+    },
+    {
+    "name": "ha2",
+    "type": 0,
+    "url": "http://ll14s7fe.zjz-service.cn:23588/sub?IEd12PJu=txt",
+    "playerType": 2,
+    "timeout": 30
     },
    {
     "name": "口米口古登录版",
