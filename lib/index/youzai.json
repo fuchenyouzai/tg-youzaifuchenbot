@@ -19,6 +19,38 @@
     "indexs": 1
     },
     {
+    "key": "豆瓣",
+    "name": "🆕影视剧综艺导航👀",
+    "type": 3,
+    "jar": "../fuma/fm.jar;md5;542ed744b07121213f70323b9bcbecca",
+    "api": "csp_Douban",
+    "searchable": 1,
+    "changeable": 1,
+    "quickSearch": 1,
+    "indexs": 1,
+    "filterable": 1,    
+    "ext": "../fuma/douban.json"
+    },
+    {
+    "key": "Tg豆瓣",
+    "name": "🆕影视剧综艺导航👀",
+    "type": 3,
+    "jar": "../nf/nf.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+    "api": "csp_TgYunDouBanPan",
+    "searchable": 1,
+    "changeable": 1,
+    "quickSearch": 1,
+    "indexs": 1,    
+    "filterable": 1,
+    "ext": {
+      "siteUrl": "http://127.0.0.1:9999",
+      "count": 4,
+      "channelUsername": "+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuake_movie,Quark_Movies,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,alyp_1,BaiduCloudDisk",
+      "commonConfig": "../nf/peizhi.json",
+      "filter": "../nf/douban.json"
+      }
+    },
+    {
     "key": "直播转点播",
     "name": "📺悠哉⚽🏀直播📺",
     "type": 3,
@@ -400,7 +432,7 @@
         "欧美综艺"
       ]
     }, 
-        {
+     {
       "key": "悠哉cmc量子云",
       "name": "悠哉量子云",
       "type": 1,
@@ -474,7 +506,7 @@
         "欧美综艺"
       ]
     }, 
-        {
+     {
       "key": "悠哉索尼",
       "name": "悠哉索尼",
       "type": 1,
@@ -553,7 +585,7 @@
                 "预告片"
             ]
         },
-       {
+      {
       "key": "悠哉极速双线",
       "name": "悠哉极速双线",
       "type": 1,
@@ -587,7 +619,7 @@
         "欧美动漫"
       ]
     },
-        {
+     {
       "key": "悠哉光速双线",
       "name": "悠哉光速双线",
       "type": 1,
@@ -1328,6 +1360,19 @@
                 "泰国剧"
             ]
         },  
+           {
+            "name": "韩剧🐶",
+            "key": "Hxq",
+            "type": 3,
+            "api": "csp_HxqAmns",
+            "playerType": 1,
+            "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+            "searchable": 1,
+            "filterable": 1,
+            "timeout": 90,
+            "quickSearch": 1,
+            "changeable": 0
+        },
         {
             "name": "达人🐶",
             "key": "AppV6Dr",
