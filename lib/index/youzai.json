@@ -2074,7 +2074,33 @@
     "timeout": 60,
     "playerType": 2,
     "ext":"../ext/json/alist.json"
-   }
+   },
+   {
+    "name": "▶️本机视频播放器🐶",
+    "key": "MyLocal",
+    "type": 3,
+    "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+    "api": "csp_MyLocalAmns",
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable": 0,
+    "filterable": 1,
+    "playerType": 2,
+    "timeout": 120
+    },
+    {
+    "name": "🐶链接按钮推送播放▶️",
+    "key": "push_agent",
+    "type": 3,
+    "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+    "api": "csp_PushAmns",
+    "playerType": 2,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 0,
+    "filterable": 1,
+    "timeout": 120
+    }
   ], 
   "headers": [
         {
