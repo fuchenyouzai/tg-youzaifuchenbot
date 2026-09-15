@@ -194,11 +194,11 @@
       "ext": "Guazi"
     },
     {
-      "name": "夏天🔥",
+      "name": "⭐夏天┃秒播",
       "key": "NewGrV2",
       "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
       "api": "csp_NewGrV2Amns",
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
