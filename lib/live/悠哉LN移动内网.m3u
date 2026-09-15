@@ -2,13 +2,17 @@
 #EXT-X-VERSION:21
 
 #EXTINF:-1 tvg-id="大连新闻综合" tvg-name="大连新闻综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/Dalian1.png" group-title="辽宁移动直播",大连新闻综合
-https://livepull.dlrm.cn/dlrm/2e80d3a1-b700-48de-8186-5f704308709f.m3u8
+https://livepull.dlrm.cn/dlrm/2e80d3a1-b700-48de-8186-5f704308709f.m3u8?txSecret=a0b83dc6c589d8986d680844099bdd6339d317d75ad9d3f6e182dea9e362788b&txTime=8FBD9180
+video://https://livepull.dlrm.cn/dlrm/2e80d3a1-b700-48de-8186-5f704308709f.m3u8
+
 
 #EXTINF:-1 tvg-id="大连生活频道" tvg-name="大连生活频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/Dalian2.png" group-title="辽宁移动直播",大连生活频道
-https://livepull.dlrm.cn/dlrm/e647ce9f-cb70-4ae4-ac95-40ed9bb27999.m3u8
+https://livepull.dlrm.cn/dlrm/e647ce9f-cb70-4ae4-ac95-40ed9bb27999.m3u8?txSecret=443c6580041c558d66d7aa1a51cbaa56c80557a92b65e4a32ba775f29a5d8e6b&txTime=8FBD9182
+video://https://livepull.dlrm.cn/dlrm/e647ce9f-cb70-4ae4-ac95-40ed9bb27999.m3u8
 
 #EXTINF:-1 tvg-id="大连体育频道" tvg-name="大连体育频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/Dalian4.png" group-title="辽宁移动直播",大连体育频道
-https://livepull.dlrm.cn/dlrm/e5042d6b-0c81-4a88-8641-209adcdf0157.m3u8
+https://livepull.dlrm.cn/dlrm/e5042d6b-0c81-4a88-8641-209adcdf0157.m3u8?txSecret=70561ec381c55d9d18618a95a24c657a4ce76f77ff931d3bc52784c0d628c761&txTime=8FBD9180
+video://https://livepull.dlrm.cn/dlrm/e5042d6b-0c81-4a88-8641-209adcdf0157.m3u8
 
 
 
