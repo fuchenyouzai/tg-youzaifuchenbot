@@ -4161,15 +4161,15 @@
     "url": "../live/悠哉LN移动内网.m3u",
     "playerType": 1,
     "timeZone": "Asia",
-    "timeout": 60
+    "timeout": 30
     },
    {
-    "name": "LN内网EXO硬解",
+    "name": "LN移动内网EXO硬解",
     "type": 0,
-    "url": "../live/LN内网EXO硬解.m3u",
+    "url": "../live/悠哉LN移动内网.m3u",
     "playerType": 2,
     "timeZone": "Asia",
-    "timeout": 60
+    "timeout": 30
     },
     {
     "name": "悠哉口米口古体育",
