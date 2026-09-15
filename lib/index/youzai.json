@@ -141,7 +141,7 @@
     "danmu": false
     },
     {
-      "name": "⭐瓜子┃秒播",
+      "name": "瓜子",
       "key": "Guazi",
       "type": 3,
       "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
@@ -152,7 +152,17 @@
       "ext": "Guazi"
     },
     {
-    "name": "🎃瓜子🐶",
+      "name": "夏天",
+      "key": "NewGrV2",
+      "type": 3,
+      "api": "csp_NewGrV2Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "NewGrV2"
+    },
+    {
+    "name": "🎃坏瓜子🐶",
     "key": "Guazi",
     "type": 3,
     "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
