@@ -4167,7 +4167,7 @@
     "name": "LN内网EXO硬解",
     "type": 0,
     "url": "../live/LN内网EXO硬解.m3u",
-    "playerType": 0,
+    "playerType": 2,
     "timeZone": "Asia",
     "timeout": 60
     },
