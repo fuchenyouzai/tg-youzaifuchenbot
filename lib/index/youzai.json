@@ -194,11 +194,23 @@
       "ext": "Guazi"
     },
     {
+      "name": "🔥豆瓣┃推荐",
+      "key": "Douban",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_DoubanAmns",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "Douban"
+    },
+    {
       "name": "⭐夏天┃秒播",
       "key": "NewGrV2",
       "type": 3,
-      "api": "csp_NewGrV2Amns",
       "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_NewGrV2Amns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -4232,27 +4244,17 @@
     "timeout": 60
     },
     {
-    "name": "口米口古部署源",
-    "type": 0,
-    "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-    "playerType": 1,
-    "timeout": 60,
-    "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+     "name": "Kimentanm",
+     "type": 0,
+     "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+     "playerType": 2
+     },
     {
-    "name": "悠哉APTV",
+    "name": "综合直播",
     "type": 0,
-    "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-    "playerType": 1,
-    "timeout": 60
-    },
-   {
-    "name": "大杂烩",
-    "type": 0,
-    "url": "https://ds65.tv1288.xyz",
-    "playerType": 1,
-    "timeout": 60
+    "playerType": 2,
+    "url": "http://193.123.86.190:14888/TV/iptv.php",
+    "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
     {
     "name": "悠哉Youtube",
@@ -4268,6 +4270,45 @@
     "url": "../live/网络平台直播.m3u",
     "timeout": 60
     },
+        {
+            "key": "KafLive",
+            "name": "咖啡体育",
+            "type": 3,
+            "api": "csp_KafLiveAmns",
+            "playerType": 2
+        },
+        {
+            "name": "虎牙一起看",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.5.0.0"
+        },
+        {
+            "name": "斗鱼一起看",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.5.0.0"
+        },
+        {
+            "name": "B站直播",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/bililive.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.5.0.0"
+        },
+        {
+            "name": "YY轮播",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.5.0.0"
+        },
     {
     "name": "悠aptv",
     "type": 0,
@@ -4307,6 +4348,29 @@
     "timeZone": "Asia",
     "timeout": 60
    },    
+{
+    "name": "口米口古部署源",
+    "type": 0,
+    "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+    "playerType": 1,
+    "timeout": 60,
+    "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+    "name": "悠哉APTV",
+    "type": 0,
+    "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+    "playerType": 1,
+    "timeout": 60
+    },
+   {
+    "name": "大杂烩",
+    "type": 0,
+    "url": "https://ds65.tv1288.xyz",
+    "playerType": 1,
+    "timeout": 60
+    },
     {
     "name": "一起看",
     "type": 3,
