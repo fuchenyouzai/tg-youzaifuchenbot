@@ -141,6 +141,18 @@
     "danmu": false
     },
     {
+      "name": "🔥豆瓣┃推荐",
+      "key": "Douban",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_DoubanAmns",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "Douban"
+    },
+    {
       "name": "⚙️配置┃中心",
       "key": "MyConfig",
       "type": 3,
@@ -192,18 +204,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "Guazi"
-    },
-    {
-      "name": "🔥豆瓣┃推荐",
-      "key": "Douban",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_DoubanAmns",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "Douban"
     },
     {
       "name": "⭐夏天┃秒播",
