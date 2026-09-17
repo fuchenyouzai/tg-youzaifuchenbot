@@ -93,27 +93,30 @@
       "quickSearch": 0,
       "changeable": 0
     },
+	{
+    "key": "應用商店",
+    "name": "🏠悠哉应用商店🛍️",
+    "type": 3,
+    "jar": "../jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
+    "api": "csp_Market",
+    "searchable": 0,
+    "changeable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "../ext/json/market.json"
+	},
     {
-      "name": "💥玩偶┃4K",
-      "key": "woWogg",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_WoggAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "woWogg"
-    },
-    {
-      "name": "💥木偶┃4K",
-      "key": "moWobg",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_WobgAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "moWobg"
+    "key": "Local",
+    "name": "▶️本机视频播放器▶️",
+    "type": 3,
+    "jar": "../jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
+    "api": "csp_Local",
+    "searchable": 0,
+    "changeable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "playerType": 2,
+    "timeout": 120
     },
     {
     "key": "直播转点播",
@@ -149,42 +152,6 @@
     "timeout": 120,
     "ext": "../tvlive/tvzb.json"
     },
-	{
-    "key": "應用商店",
-    "name": "🏠悠哉应用商店🛍️",
-    "type": 3,
-    "jar": "../jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
-    "api": "csp_Market",
-    "searchable": 0,
-    "changeable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "../ext/json/market.json"
-	},
-    {
-    "key": "Local",
-    "name": "▶️本机视频播放器▶️",
-    "type": 3,
-    "jar": "../jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
-    "api": "csp_Local",
-    "searchable": 0,
-    "changeable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "playerType": 2,
-    "timeout": 120
-    },
-    {
-      "name": "🍉瓜子",
-      "key": "Guazi",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_GuaziAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "Guazi"
-    },
     {
     "name": "🥇金牌🐶",
     "key": "JinPai",
@@ -198,6 +165,28 @@
     "playerType": 1,
     "timeout": 90,
     "danmu": false
+    },
+    {
+      "name": "🍉瓜子",
+      "key": "Guazi",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_GuaziAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Guazi"
+    },
+    {
+      "name": "⭐夏天┃秒播",
+      "key": "NewGrV2",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_NewGrV2Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+       "ext": "NewGrV2"
     },
     {
     "key": "农民",
@@ -265,361 +254,26 @@
       },
 
     {
-      "name": "🧩金牌┃快速",
-      "key": "JinPai",
+      "name": "💥玩偶┃4K",
+      "key": "woWogg",
       "type": 3,
       "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_JinPaiAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🧩橘汁┃快速",
-      "key": "Woshinidie",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_Woshinidie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🧩金牌┃快速",
-      "key": "JinPai",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_JinPaiAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🧩荐片┃快速",
-      "key": "JPian",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_JPianAmns",
+      "api": "csp_WoggAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "JPian"
+      "ext": "woWogg"
     },
     {
-      "name": "🧩杜北┃快速",
-      "key": "Dubk",
+      "name": "💥木偶┃4K",
+      "key": "moWobg",
       "type": 3,
       "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_DubkAmns",
+      "api": "csp_WobgAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "Dubk"
-    },
-    {
-      "name": "🧩伊外┃快速",
-      "key": "YIys",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_YIysAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🧩爱看┃采集",
-      "key": "AiBot",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_AiBotAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🔗哔嘀┃2K",
-      "key": "Bidys",
-      "type": 3,
-"jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_BidysAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "Bidys"
-    },
-    {
-      "name": "🔗厂长┃2K",
-      "key": "Czzy",
-      "type": 3,
-"jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_CzzyAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "Czzy"
-    },
-    {
-      "name": "🔗LBV┃2K",
-      "key": "Libvio",
-      "type": 3,
-"jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_LibvioAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "Libvio"
-    },
-    {
-      "name": "🎸酷听┃音乐",
-      "key": "Kuwo",
-      "type": 3,
-"jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_KuwoAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "music"
-    },
-    {
-      "name": "🎸蜻蜓┃电台",
-      "key": "QTfm",
-      "type": 3,
-"jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_QTfmAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "music"
-    },
-    {
-      "name": "🏆瓜子┃体育",
-      "key": "GuaziLive",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_GuaziLiveAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "GuaziLive"
-    },
-    {
-      "name": "🏆飞球┃体育",
-      "key": "FeiqLive",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_FeiqLiveAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🏆88┃体育",
-      "key": "BbkqLive",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_BbkqLiveAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "BbkqLive"
-    },
-    {
-      "name": "🏆咖啡┃体育",
-      "key": "KafLive",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_KafLiveAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "name": "⭐夏天┃秒播",
-      "key": "NewGrV2",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_NewGrV2Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-       "ext": "NewGrV2"
-    },
-    {
-      "name": "🔍fish┃盘搜",
-      "key": "PSfish",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_PSfishAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-    "key": "hipy_js_88看球[球]",
-    "name": "⚽悠哉🏆看球🏀",
-    "type": 3,
-    "api": "../api/drpy2.min.js",
-    "searchable": 0,
-    "quickSearch": 0,
-    "changeable": 0,
-    "filterable": 1,
-    "playerType": 2,
-    "style": {
-      "type": "list",
-      "ratio": 0.75
-      },
-    "timeout": 120,
-    "ext": "../ext/js/悠哉88看球.js"
-    },
-    {
-    "name": "🎃坏瓜子🐶",
-    "key": "Guazi",
-    "type": 3,
-    "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-    "api": "csp_GuaziAmns",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 0,
-    "filterable": 1,
-    "playerType": 1,     
-    "timeout": 90,
-    "ext": {
-      "sites": "",
-      "danmu": 0,
-      "filters": "../aowu/json/guazi.json"
-      }
-    },
-    {
-    "key": "py_jieyingshi",
-    "name": "🥇界影视PY",
-    "type": 3,
-    "api": "../wuyiyun/Symx.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 0,
-    "filterable": 1,
-    "timeout": 90
-    },
-    {
-      "name": "📦①线┃秒播",
-      "key": "AppV7Fz",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Fz"
-    },
-    {
-      "name": "📦②线┃秒播",
-      "key": "AppV7Xy",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Xy"
-    },
-    {
-      "name": "📦③线┃秒播",
-      "key": "AppV7Zjdr",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Zjdr"
-    },
-    {
-      "name": "📦④线┃秒播",
-      "key": "AppV7Xyz",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Xyz"
-    },
-    {
-      "name": "📦⑤线┃秒播",
-      "key": "AppV7Xnm",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Xnm"
-    },
-    {
-      "name": "📦⑥线┃秒播",
-      "key": "AppV7Mtq",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Mtq"
-    },
-    {
-      "name": "📦⑦线┃秒播",
-      "key": "AppV7Llq",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Llq"
-    },
-    {
-      "name": "📦⑧线┃秒播",
-      "key": "AppV7Xsz",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Xsz"
-    },
-    {
-      "name": "📦⑨线┃秒播",
-      "key": "AppV7Xhr",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Xhr"
-    },
-    {
-      "name": "📦师兄┃秒播",
-      "key": "AppV7Dsx",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_AppV7Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Dsx"
-    },
-    {
-      "name": "📦特狗┃秒播",
-      "key": "AppV6Tg",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_AppV6Amns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV6Tg"
+      "ext": "moWobg"
     },
     {
       "name": "☁️闪电┃4K",
@@ -738,6 +392,221 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
+    },
+    {
+      "name": "🧩橘汁┃快速",
+      "key": "Woshinidie",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_Woshinidie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🧩金牌┃快速",
+      "key": "JinPai",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_JinPaiAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🧩荐片┃快速",
+      "key": "JPian",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_JPianAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "JPian"
+    },
+    {
+      "name": "🧩杜北┃快速",
+      "key": "Dubk",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_DubkAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Dubk"
+    },
+    {
+      "name": "🧩伊外┃快速",
+      "key": "YIys",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_YIysAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🧩爱看┃采集",
+      "key": "AiBot",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_AiBotAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🔗哔嘀┃2K",
+      "key": "Bidys",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_BidysAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Bidys"
+    },
+    {
+      "name": "🔗厂长┃2K",
+      "key": "Czzy",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_CzzyAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Czzy"
+    },
+    {
+      "name": "🔗LBV┃2K",
+      "key": "Libvio",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_LibvioAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Libvio"
+    },
+    {
+      "name": "🎸酷听┃音乐",
+      "key": "Kuwo",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_KuwoAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "music"
+    },
+    {
+      "name": "🎸蜻蜓┃电台",
+      "key": "QTfm",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_QTfmAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "music"
+    },
+    {
+      "name": "🏆瓜子┃体育",
+      "key": "GuaziLive",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_GuaziLiveAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "GuaziLive"
+    },
+    {
+      "name": "🏆飞球┃体育",
+      "key": "FeiqLive",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_FeiqLiveAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🏆88┃体育",
+      "key": "BbkqLive",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_BbkqLiveAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "BbkqLive"
+    },
+    {
+      "name": "🏆咖啡┃体育",
+      "key": "KafLive",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_KafLiveAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "name": "🔍fish┃盘搜",
+      "key": "PSfish",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_PSfishAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+    "key": "hipy_js_88看球[球]",
+    "name": "⚽悠哉🏆看球🏀",
+    "type": 3,
+    "api": "../api/drpy2.min.js",
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable": 0,
+    "filterable": 1,
+    "playerType": 2,
+    "style": {
+      "type": "list",
+      "ratio": 0.75
+      },
+    "timeout": 120,
+    "ext": "../ext/js/悠哉88看球.js"
+    },
+    {
+    "name": "🎃坏瓜子🐶",
+    "key": "Guazi",
+    "type": 3,
+    "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+    "api": "csp_GuaziAmns",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 0,
+    "filterable": 1,
+    "playerType": 1,     
+    "timeout": 90,
+    "ext": {
+      "sites": "",
+      "danmu": 0,
+      "filters": "../aowu/json/guazi.json"
+      }
+    },
+    {
+    "key": "py_jieyingshi",
+    "name": "🥇界影视PY",
+    "type": 3,
+    "api": "../wuyiyun/Symx.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 0,
+    "filterable": 1,
+    "timeout": 90
     },
     {
     "key": "悠哉cmc非凡m3u8",
@@ -2134,7 +2003,7 @@
         },
      {
       "key": "腾讯视频",
-      "name": "腾",
+      "name": "腾源解析",
       "type": 3,
       "api": "../xs/js/drpy2.min.js",      
       "searchable": 1,
@@ -2147,7 +2016,7 @@
       },
       {
       "key": "优酷视频",
-      "name": "优",
+      "name": "优源解析",
       "type": 3,
       "api": "../xs/js/drpy2.min.js",      
       "searchable": 1,
@@ -2160,7 +2029,7 @@
       },
       {
       "key": "芒果视频",
-      "name": "芒",
+      "name": "芒源解析",
       "type": 3,
       "api": "../xs/js/drpy2.min.js",      
       "searchable": 1,
@@ -2173,7 +2042,7 @@
      },
     {
       "key": "爱奇艺",
-      "name": "爱",
+      "name": "爱源解析",
       "type": 3,
       "api": "../xs/js/drpy2.min.js",      
       "searchable": 1,
@@ -2186,7 +2055,7 @@
       },
       {
       "name": "三六零",
-      "key": "三六零",
+      "key": "360源解析",
       "type": 3,
       "jar": "../xs/jar/spider.jar",
       "api": "csp_SP360",
@@ -2199,7 +2068,7 @@
       },
       {
       "key": "1905",
-      "name": "🎬1905📽️🎥🎦",
+      "name": "🎬1905源解析",
       "type": 3,
       "jar": "../xs/jar/spider.jar",
       "api": "csp_Web1905",
