@@ -2002,22 +2002,24 @@
             }
         },
      {
-      "key": "腾讯视频",
       "name": "腾源解析",
+      "key": "腾讯视频",
       "type": 3,
+      "jar": "../xs/jar/spider.jar",
       "api": "../xs/js/drpy2.min.js",      
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "playerType": 1,     
+      "playerType": 2,     
       "timeout": 180,
       "ext": "../xs/js/腾讯视频.js"
       },
       {
-      "key": "优酷视频",
       "name": "优源解析",
+      "key": "优酷视频",
       "type": 3,
+      "jar": "../xs/jar/spider.jar",
       "api": "../xs/js/drpy2.min.js",      
       "searchable": 1,
       "quickSearch": 1,
@@ -2028,9 +2030,10 @@
       "ext": "../xs/js/优酷视频.js"
       },
       {
-      "key": "芒果视频",
       "name": "芒源解析",
+      "key": "芒果视频",
       "type": 3,
+      "jar": "../xs/jar/spider.jar",
       "api": "../xs/js/drpy2.min.js",      
       "searchable": 1,
       "quickSearch": 1,
@@ -2041,9 +2044,10 @@
       "ext": "../xs/js/芒果视频.js"
      },
     {
-      "key": "爱奇艺",
       "name": "爱源解析",
+      "key": "爱奇艺",
       "type": 3,
+      "jar": "../xs/jar/spider.jar",
       "api": "../xs/js/drpy2.min.js",      
       "searchable": 1,
       "quickSearch": 1,
@@ -2054,8 +2058,8 @@
       "ext": "../xs/js/爱奇艺.js"
       },
       {
-      "name": "三六零",
-      "key": "360源解析",
+      "name": "360源解析",
+      "key": "三六零",
       "type": 3,
       "jar": "../xs/jar/spider.jar",
       "api": "csp_SP360",
@@ -2067,8 +2071,8 @@
       "timeout": 90
       },
       {
-      "key": "1905",
       "name": "🎬1905源解析",
+      "key": "1905",
       "type": 3,
       "jar": "../xs/jar/spider.jar",
       "api": "csp_Web1905",
@@ -2588,26 +2592,6 @@
         }
     ],
   "parses": [
-   {
-    "name": "解析聚合1",
-    "type": 3,
-    "url": "Demo"
-    },
-    {
-    "name": "Web聚合0",
-    "type": 3,
-    "url": "Web"
-    },
-    {
-    "name": "Json轮询",
-    "type": 2,
-    "url": "Sequence"
-    },
-    {
-    "name": "Json并发",
-    "type": 2,
-    "url": "Parallel"
-    },
     {
       "name": "ikun",
       "type": 0,
@@ -3924,6 +3908,26 @@
           "Origin": "https://jx.xmflv.com"
         }
       }
+    },
+   {
+    "name": "解析聚合1",
+    "type": 3,
+    "url": "Demo"
+    },
+    {
+    "name": "Web聚合0",
+    "type": 3,
+    "url": "Web"
+    },
+    {
+    "name": "Json轮询",
+    "type": 2,
+    "url": "Sequence"
+    },
+    {
+    "name": "Json并发",
+    "type": 2,
+    "url": "Parallel"
     }
   ],
   "flags": [
