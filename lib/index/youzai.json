@@ -51,6 +51,20 @@
       }
     },
     {
+    "key": "JinPai",
+    "name": "🥇金牌🐶",
+    "type": 3,
+    "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
+    "api": "csp_JinPaiAmns",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 0,
+    "filterable": 1,
+    "playerType": 1,
+    "timeout": 90,
+    "danmu": false
+    },
+    {
       "key": "Douban",
       "name": "🔥豆瓣┃推荐",
       "type": 3,
@@ -153,20 +167,6 @@
     "ext": "../tvlive/tvzb.json"
     },
     {
-    "key": "JinPai",
-    "name": "🥇金牌🐶",
-    "type": 3,
-    "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
-    "api": "csp_JinPaiAmns",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 0,
-    "filterable": 1,
-    "playerType": 1,
-    "timeout": 90,
-    "danmu": false
-    },
-    {
       "name": "🍉瓜子",
       "key": "Guazi",
       "type": 3,
@@ -176,6 +176,16 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "Guazi"
+    },
+    {
+      "name": "🧩金牌┃快速",
+      "key": "金牌",
+      "type": 3,
+      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_JinPaiAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "key": "NewGrV2",
@@ -389,16 +399,6 @@
       "type": 3,
       "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
       "api": "csp_SheQuwonAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🧩金牌┃快速",
-      "key": "JinPai",
-      "type": 3,
-      "jar": "../aowu/jar/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_JinPaiAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -4096,20 +4096,27 @@
     "timeout": 60
     },
     {
-     "name": "Kimentanm",
+     "name": "Kimentanm央视卫视",
      "type": 0,
      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
      "playerType": 2
      },
     {
-    "name": "综合直播",
+    "name": "综合直播央视卫视",
     "type": 0,
     "playerType": 2,
     "url": "http://193.123.86.190:14888/TV/iptv.php",
     "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
+   {
+    "name": "潇雨萌萌央视卫视",
+    "type": 0,
+    "url": "https://ds65.tv1288.xyz",
+    "playerType": 2,
+    "timeout": 60
+    },
     {
-    "name": "悠哉Youtube",
+    "name": "悠哉Youtube外网",
     "type": 0,
     "playerType": 2,
     "timeout": 90,
@@ -4213,13 +4220,6 @@
     "name": "悠哉APTV",
     "type": 0,
     "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-    "playerType": 1,
-    "timeout": 60
-    },
-   {
-    "name": "大杂烩",
-    "type": 0,
-    "url": "https://ds65.tv1288.xyz",
     "playerType": 1,
     "timeout": 60
     },
