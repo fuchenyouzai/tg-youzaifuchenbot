@@ -1997,7 +1997,7 @@
     "timeout": 120
     },
     {
-    "name": "推送📶直播嗅探解析▶️",
+    "name": "推送📶直连嗅探解析▶️",
     "key": "push_agent",
     "type": 3,
     "jar": "../aowu/jar/aowu.png;md5;aefe42a5c82fb3d3775fe106e3b11742",
