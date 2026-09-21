@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+// ========== 壁纸图片列表（3张真实有效固定1080P横图）==========
+const imgList = [
+"https://picsum.photos/id/1018/1920/1080", // 山景湖
+"https://picsum.photos/id/1015/1920/1080", // 森林溪流
+"https://picsum.photos/id/1019/1920/1080"  // 云海山峰
+];
+// ============================================================================
+
+// 随机选一张
+const randomImg = imgList[Math.floor(Math.random() * imgList.length)];
+// 直接跳转图片，TVBox读取这个地址
+window.location.href = randomImg;
+</script>
+</body>
+</html>
