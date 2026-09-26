@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>顺序轮播图片</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{min-height:100vh;display:flex;align-items:center;justify-content:center;background:#111}
+  img{max-width:95%;max-height:95vh;object-fit:contain}
+</style>
+</head>
+<body>
+
+<img id="pic" alt="">
+
+<script>
+// 在这里放你的图片链接
+const imgs = [
+  "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/wallpaper/悠哉暗夜壁纸.jpg",
+  "https://picsum.photos/1280/720?random=1",
+  "https://picsum.photos/1280/720?random=2",
+  "https://picsum.photos/1280/720?random=3",
+  "https://picsum.photos/1280/720?random=4",
+  "https://picsum.photos/1280/720?random=5",
+  "https://picsum.photos/1920/1080?random=1",
+  "https://picsum.photos/1920/1080?random=2",
+  "https://picsum.photos/1920/1080?random=3",
+  "https://picsum.photos/1920/1080?random=4",
+  "https://picsum.photos/1920/1080?random=5",
+  "https://picsum.photos/id/237/1920/1080",
+  "https://picsum.photos/id/1005/1920/1080",
+  "https://picsum.photos/id/1015/1920/1080",
+  "https://picsum.photos/id/1025/1920/1080"
+];
+
+// 从本地记录当前是第几张
+let index = parseInt(localStorage.getItem('imgIndex')) || 0;
+// 显示这张
+document.getElementById('pic').src = imgs[index];
+// 下一次刷新+1，循环
+index = (index + 1) % imgs.length;
+localStorage.setItem('imgIndex', index);
+</script>
+</body>
+</html>
