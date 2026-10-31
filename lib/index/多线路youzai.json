@@ -1,0 +1,29 @@
+    {
+  "urls": [
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/index/youzai.json",
+      "name": "youzai在线"
+    },
+    {
+      "url": "file://tvbox/悠哉TVBOX/youzaitvbox/lib/index/youzai.json",
+      "name": "youzai本地"
+    },
+     {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/index/tv.json",
+      "name": "youzaiTV在线"
+    },
+      {
+      "url": "file://tvbox/悠哉TVBOX/youzaitvbox/lib/index/tv.json",
+      "name": "youzaiTV本地"
+    },  
+   {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/index/baby.json",
+      "name": "youzaiBaby在线"
+    },
+    {
+      "url": "file://tvbox/悠哉TVBOX/youzaitvbox/lib/index/baby.json",
+      "name": "youzaiBaby本地"
+    }
+  ]
+}
+
